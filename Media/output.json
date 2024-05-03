@@ -1,0 +1,3802 @@
+{
+    "speakers": [
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                0.0,
+                2.78
+            ],
+            "text": " Welcome back to another exciting week in the Web3 universe."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                3.18,
+                6.86
+            ],
+            "text": " I'm your host, The Mayor, and you're listening to the best NFT media nominated"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                6.86,
+                11.86
+            ],
+            "text": " NFT and Chill podcast, the show that discusses interesting topics with artists,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                12.04,
+                14.44
+            ],
+            "text": " creators, and thought leaders from the Web3 space."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                14.82,
+                20.86
+            ],
+            "text": " On this week's episode, we have Nikita Sikalu, who is a brand consultant,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                21.26,
+                27.88
+            ],
+            "text": " the host of We in Web3. He'll be on the show to discuss Web3 identity,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                27.88,
+                34.08
+            ],
+            "text": " brand building, and community in the space. So sit back and chill while we explore the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                34.08,
+                37.2
+            ],
+            "text": " exciting world of Web3 and NFTs together."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                54.16,
+                54.4
+            ],
+            "text": " I want to welcome a friend of mine in the space, Nikita Sikaluk."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                57.96,
+                58.4
+            ],
+            "text": " I'm really happy to be in your podcast here today."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                60.32,
+                60.44
+            ],
+            "text": " I'm doing amazing, my man."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                63.82,
+                64.04
+            ],
+            "text": " I just came back from London, from Zeeblu Live."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                66.02,
+                66.38
+            ],
+            "text": " I was one of the headline speakers."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                69.16,
+                69.54
+            ],
+            "text": " Absolutely enjoyed the Web3 atmosphere there."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                75.6,
+                77.42
+            ],
+            "text": " You just were in my podcast a couple of weeks ago, We in Web3, the podcast about space being built by people, for people."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                77.42,
+                83.6
+            ],
+            "text": " Ty was one of my first guests, so I do believe that this episode is going to air around the"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                83.6,
+                90.14
+            ],
+            "text": " dates of this podcast for those who are looking for more insights about Ty's background and his vision about the space."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                90.68,
+                92.04
+            ],
+            "text": " Yeah, I'm happy to have you here."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                92.34,
+                94.92
+            ],
+            "text": " You want to give the listeners an introduction?"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                95.48,
+                106.22
+            ],
+            "text": " I'm an early advocate of the Web3 space in 2017 with main focus on NFTs from utility development and community development."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                106.4,
+                113.16
+            ],
+            "text": " Basically, on the one side, I'm a brand consultant for NFT project, helping them to develop loyal"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                113.16,
+                116.36
+            ],
+            "text": " communities, a topic that we're going to cover with you here today."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                116.6,
+                122.3
+            ],
+            "text": " I'm also a member of different international communities all around the world, like NFT"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                122.3,
+                125.3
+            ],
+            "text": " Factory in Paris or Blockchain Alliance in Warsaw,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                125.66,
+                128.1
+            ],
+            "text": " educating people, also learning from them."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                128.4,
+                133.28
+            ],
+            "text": " Lastly, I'm also a Forbes Web3 writer, which I've been doing for a couple of years now,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                133.44,
+                136.04
+            ],
+            "text": " wearing different hats, exploring the space,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                136.34,
+                140.1
+            ],
+            "text": " throwing those people around NFTs and developing my own community."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                140.7,
+                147.66
+            ],
+            "text": " Being in Web3, wearing a lot of hats is definitely what you have to do in this space because it never sleeps."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                148.1,
+                151.14
+            ],
+            "text": " We have a lot of similarities in things we do."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                151.5,
+                152.96
+            ],
+            "text": " I'm excited to have you on the show."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                153.3,
+                186.54
+            ],
+            "text": " So we're definitely going to get into brand building, how it ties into a little bit of the brand building side and how NFT projects need to go about that you promised, when you need to have some internal"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                186.54,
+                193.56
+            ],
+            "text": " utility benefit for holders to be a part of this community. And all of this implies that for the"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                193.56,
+                200.16
+            ],
+            "text": " first time in this space, new projects or existing projects need to focus on the community itself."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                200.32,
+                211.34
+            ],
+            "text": " What we need to do right now is to build by people for people. That is the way how new projects and existing big ones can remain relevant in 10 years from now."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                211.56,
+                218.32
+            ],
+            "text": " At the end of the day, we're building this space for people to be active, for people to enjoy it, not just for the sake of having it."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                218.44,
+                226.16
+            ],
+            "text": " No one still knows what that free space, NFTs in particular, can look like in 10-15 years from now. But if your thesis is"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                226.16,
+                232.54
+            ],
+            "text": " as close as I am to the NFT growth and NFT development, meaning that NFT are here to stay,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                232.7,
+                237.88
+            ],
+            "text": " NFTs are going to be used in ticketing, in entertainment, loyal club development,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                238.08,
+                242.5
+            ],
+            "text": " then you need to understand that that is the right time to build for people. Not just for"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                242.5,
+                246.08
+            ],
+            "text": " pursing some of your dreams and making quick money, which"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                246.08,
+                251.98
+            ],
+            "text": " might also be one of those elements. But if you want to stay here relevant for years from now,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                252.08,
+                257.9
+            ],
+            "text": " that is actually building around people's needs when it comes to utilities, to the benefits that"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                257.9,
+                263.6
+            ],
+            "text": " you bring them. Hearing their own opinion, make better adjustments to the project later on."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                263.74,
+                266.3
+            ],
+            "text": " Feedback system in V Web3, that is perhaps"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                266.3,
+                271.54
+            ],
+            "text": " the most efficient feedback system I've ever seen. For the first time in human history, brands"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                271.54,
+                277.02
+            ],
+            "text": " entering the space have a chance to connect with their holders. Let's take, for example,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                277.34,
+                286.74
+            ],
+            "text": " Nike or Adidas. Me buying those shoes does not give any decision-making power. I'm just one of millions of people and"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                286.74,
+                292.76
+            ],
+            "text": " brands don't know any information about my preferences, about my beliefs, since the blockchain"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                292.76,
+                299.64
+            ],
+            "text": " is publicly available information. Those brands can actually make better decision-making mechanism"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                299.64,
+                310.22
+            ],
+            "text": " based on it because they see what are some of other NFT projects I'm holding, for how long I've been a member of their community and how should I be rewarded. That is the most efficient and most"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                310.22,
+                315.5
+            ],
+            "text": " transparent feedback system there in the blockchain apart from in real life events, apart from"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                315.5,
+                321.5
+            ],
+            "text": " communications through Discord. You are the one who has at least a small chance of changing the"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                321.5,
+                326.38
+            ],
+            "text": " trajectory of the brand future by proposing something, advising,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                326.74,
+                332.12
+            ],
+            "text": " making changes. That's the beauty of this space and that's how brands coming to NFTs"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                332.12,
+                338.58
+            ],
+            "text": " should approach it right now. Yeah, absolutely. Just the fact that you as a community member"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                338.58,
+                347.24
+            ],
+            "text": " have a lot more ownership and a lot more say in what the brand or project or company has moving forward that's"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                347.24,
+                353.8
+            ],
+            "text": " the beauty about this space and those businesses those companies and brands know that and they"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                353.8,
+                361.48
+            ],
+            "text": " encourage that let's put it to where a brand or a project comes to you and they're looking to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                361.48,
+                366.3
+            ],
+            "text": " make an impact in the space i guess what would you tell them for their brand"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                366.3,
+                371.72
+            ],
+            "text": " building process? Brilliant question. The first thing that comes to my mind, the main difference"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                371.72,
+                378.44
+            ],
+            "text": " between Web2 and Web3 is the role of founders. In Web2, you as the founder of the brand, you need"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                378.44,
+                383.78
+            ],
+            "text": " to be a good marketer, to know how to recruit folks, you need to develop strategic partnerships,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                383.78,
+                390.56
+            ],
+            "text": " and at the same time, you need to run the team itself. Here in VAP3, you have a chance to give some of these positions,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                390.56,
+                395.76
+            ],
+            "text": " give some of these roles to community members. Some community members might hold t-shirt"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                395.76,
+                402.62
+            ],
+            "text": " manufacturing, which makes the cost of your merchandise lower, the process more efficient."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                402.84,
+                406.56
+            ],
+            "text": " Some people, as you just mentioned for example discord moderators"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                406.56,
+                411.7
+            ],
+            "text": " would love to join the team for the sake of contributing and being a part of the family"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                411.7,
+                417.8
+            ],
+            "text": " because love your vision and that is the beauty of this space and secondly that three space and"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                417.8,
+                422.98
+            ],
+            "text": " not that much about money so don't get me wrong it's still about profit it's still about"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                422.98,
+                427.58
+            ],
+            "text": " sustainable projects if community there wasn't that important in that too,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                427.78,
+                430.1
+            ],
+            "text": " you could develop an e-commerce brand"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                430.1,
+                432.44
+            ],
+            "text": " without actually getting feedback from your clients"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                432.44,
+                433.6
+            ],
+            "text": " and just making millions."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                433.76,
+                435.02
+            ],
+            "text": " It's not going to work in that way."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                435.18,
+                437.52
+            ],
+            "text": " It's going to work till a certain period of time"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                437.52,
+                439.66
+            ],
+            "text": " when your project will be called a ragpull,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                439.78,
+                441.9
+            ],
+            "text": " when your project is going to die"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                441.9,
+                443.5
+            ],
+            "text": " because demand is so low."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                443.5,
+                445.1
+            ],
+            "text": " People are selling NFTs."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                445.26,
+                450.18
+            ],
+            "text": " People are selling this digital land in favor of your competitor who actually ask for their"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                450.18,
+                454.9
+            ],
+            "text": " feedback, actually give some voting rights, decision-making power to those people."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                455.12,
+                457.86
+            ],
+            "text": " So in VAP2, it was only about money."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                457.86,
+                463.5
+            ],
+            "text": " In VAP3, there is a money element, which perhaps would take the majority part of it, but there"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                463.5,
+                464.98
+            ],
+            "text": " is also a community part."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                465.16,
+                469.08
+            ],
+            "text": " Building with people, building for people, building around people."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                469.24,
+                470.8
+            ],
+            "text": " That is the beauty of this space."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                471.12,
+                477.46
+            ],
+            "text": " Recently, Cristiano Ronaldo had signed a deal with Binance to be their advisor for sport NFTs."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                477.66,
+                481.96
+            ],
+            "text": " For example, this May, Pharrell Williams joined Doodles as the chief of brand."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                482.02,
+                483.86
+            ],
+            "text": " We still don't know what these roles imply,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                484.0,
+                488.16
+            ],
+            "text": " but the fact that Pharrell Williams has tens of millions of fans all around the world,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                488.4,
+                491.62
+            ],
+            "text": " and he might potentially educate them about blockchain,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                491.88,
+                494.08
+            ],
+            "text": " about Web3 space and this specific project,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                494.28,
+                496.46
+            ],
+            "text": " it's a win-win situation for both."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                496.7,
+                501.38
+            ],
+            "text": " So do not underestimate the human factor here when building in Web3."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                501.38,
+                506.06
+            ],
+            "text": " And that's a really great example too, especially with Cristiano Ronaldo."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                506.48,
+                511.5
+            ],
+            "text": " Personal brand is such a huge factor in this space."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                511.64,
+                513.82
+            ],
+            "text": " I mentioned it on episode 32."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                514.28,
+                517.22
+            ],
+            "text": " I think it's kind of everyone's duty in this space"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                517.22,
+                519.62
+            ],
+            "text": " to kind of build a personal brand."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                519.62,
+                522.82
+            ],
+            "text": " And it's kind of your reputation in Web3."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                523.12,
+                524.66
+            ],
+            "text": " And having a good reputation,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                524.78,
+                526.2
+            ],
+            "text": " even if it's a small reputation, it's something of your reputation in Web3. And having a good reputation, even if it's a small reputation,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                526.56,
+                532.26
+            ],
+            "text": " it's something that's important because you don't have to go by the name that's on your"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                532.26,
+                537.6
+            ],
+            "text": " birth certificate or your driver's license. You can kind of create your own identity in the space"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                537.6,
+                543.94
+            ],
+            "text": " and that's the beauty of it. In terms of building a personal brand, this kind of goes out to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                543.94,
+                546.34
+            ],
+            "text": " everyone in the space what suggestions"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                546.34,
+                552.46
+            ],
+            "text": " do you have and how do you personally go about it wow i love this topic so much i'm a big fan"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                552.46,
+                558.86
+            ],
+            "text": " of digital identity me you can see i'm a fully doxed what does this imply i'm not hiding my"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                558.86,
+                566.38
+            ],
+            "text": " personality my personal life i'm even having my face as a TFP, as a picture of my Twitter with my full name."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                566.54,
+                570.72
+            ],
+            "text": " So I'm fully doxxed. You can find all the information online. And the reason I have"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                570.72,
+                576.78
+            ],
+            "text": " chosen it, just like in your case, because I'm extremely active both on stage presenting at"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                576.78,
+                582.06
+            ],
+            "text": " some conferences, coming to some meetups, and off stage when connecting with my clients,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                582.24,
+                588.4
+            ],
+            "text": " I'm here myself. I have a big story in Web2, which I also want at a certain period of time"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                588.4,
+                591.14
+            ],
+            "text": " to combine with my current Web3 personality."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                591.32,
+                595.96
+            ],
+            "text": " I have LinkedIn for my Web2 story and Twitter for Web3 personality."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                596.28,
+                599.66
+            ],
+            "text": " But me being doxed ensures that they can see my background."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                599.66,
+                603.86
+            ],
+            "text": " As you mentioned on the blockchain in Web3, you have only one try."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                603.98,
+                605.66
+            ],
+            "text": " You have only one identity."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                606.14,
+                610.72
+            ],
+            "text": " And if you fucked up, you're in big trouble because everything is publicly available."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                610.9,
+                612.54
+            ],
+            "text": " There have been so many stories."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                612.7,
+                613.74
+            ],
+            "text": " Take, for example, Azuki."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                614.04,
+                617.28
+            ],
+            "text": " Co-founders were hiding previous red pools for years."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                617.42,
+                619.68
+            ],
+            "text": " But at the end of the day, it's going to be visible."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                619.68,
+                627.54
+            ],
+            "text": " And the more we advance in Web3 space, the more easier it would be for you to track all the previous history, all previous identities."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                627.78,
+                629.22
+            ],
+            "text": " So I choose to be transparent."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                629.46,
+                632.06
+            ],
+            "text": " I choose to be thoughtful to what I do."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                632.26,
+                633.66
+            ],
+            "text": " How do I communicate with people?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                633.74,
+                634.48
+            ],
+            "text": " That's why I'm a doctor."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                634.6,
+                637.0
+            ],
+            "text": " I don't have any problems with Anons at all."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                637.0,
+                639.9
+            ],
+            "text": " Take, for example, Betty from Deadfellas."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                639.96,
+                642.78
+            ],
+            "text": " She has been a mystery for all of us for a while."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                642.96,
+                646.54
+            ],
+            "text": " Finally, this May, during Quickthon, she decided that, you know what?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                646.7,
+                648.38
+            ],
+            "text": " Me and my family, we're ready."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                648.54,
+                649.9
+            ],
+            "text": " So I'm gonna adopt myself."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                650.1,
+                651.74
+            ],
+            "text": " I do believe the beauty of this space."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                651.9,
+                652.96
+            ],
+            "text": " What do you want to be?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                653.18,
+                654.36
+            ],
+            "text": " What do you want to achieve?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                654.52,
+                656.02
+            ],
+            "text": " What do you want to focus on?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                656.22,
+                657.56
+            ],
+            "text": " The space is so young."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                657.72,
+                660.76
+            ],
+            "text": " You can do whatever you want by being whoever you want."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                660.9,
+                661.98
+            ],
+            "text": " It's completely up to you."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                661.98,
+                666.44
+            ],
+            "text": " So I encourage everyone, every young girl and boy just start doing"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                666.44,
+                671.08
+            ],
+            "text": " some stuff you learn by doing it and right now during the bear market they're saying that there"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                671.08,
+                676.42
+            ],
+            "text": " is no bear market there is only build market that is your best time to learn and understand how the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                676.42,
+                683.68
+            ],
+            "text": " technology works that's absolutely great advice and things do tend to come out in the wash in"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                683.68,
+                686.12
+            ],
+            "text": " this space we've seen so many people who've done"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                686.12,
+                691.32
+            ],
+            "text": " not so great things. You know, you're surprised by when it comes out. Like, how did it come out?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                691.38,
+                697.32
+            ],
+            "text": " But everything is definitely public. There are people out there that are tracing things and"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                697.32,
+                703.3
+            ],
+            "text": " trying to figure out what people have done in the history. Being mindful about what you're doing in"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                703.3,
+                705.92
+            ],
+            "text": " the space, I think is just something that"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                705.92,
+                711.88
+            ],
+            "text": " everyone should be. And building your personal brand, it shouldn't be like this big daunting"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                711.88,
+                717.82
+            ],
+            "text": " thing. You get to choose how you want to be seen in the space. And I think that's an awesome part"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                717.82,
+                732.58
+            ],
+            "text": " of it as well. You mentioned Soulbound Token. Why don't you explain to the listeners what that is? Yeah. In a simple word, Solbon token is an NFT that is granted to you without transfer or trading"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                732.58,
+                738.72
+            ],
+            "text": " or reselling activities. That is something that is coming from Vitalik Solbon token paper from"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                738.72,
+                744.34
+            ],
+            "text": " this May. You couldn't sell on the market, transfer to your friends. So it belonged only to your"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                744.34,
+                749.76
+            ],
+            "text": " brand. Here in VAT3, Solbon's token would allow us to have some documents and achievements"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                749.76,
+                752.12
+            ],
+            "text": " that cannot be resold later on."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                752.12,
+                757.76
+            ],
+            "text": " Think for example about the identity of birth, certificate of completion at university or"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                757.76,
+                761.44
+            ],
+            "text": " maybe you winning some of big tournaments, championships."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                761.44,
+                766.72
+            ],
+            "text": " This NFT form of diploma or certificate will be granted for you further on"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                766.72,
+                772.66
+            ],
+            "text": " you cannot reassign it to anyone else belong to you for the whole of your life that's the concept"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                772.66,
+                779.3
+            ],
+            "text": " itself the fact that it can't be transferred and it also can't be duplicated or somebody can't like"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                779.3,
+                786.3
+            ],
+            "text": " make one up i think is a really cool part of the Soulbound token. If you have the certificate, because people make, you know,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                786.52,
+                790.76
+            ],
+            "text": " certificates and achievements for themselves all the time."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                790.84,
+                793.0
+            ],
+            "text": " And I think it adds a little bit of safety."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                793.34,
+                795.84
+            ],
+            "text": " Possibilities for it are endless."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                796.28,
+                798.66
+            ],
+            "text": " Think of it as LinkedIn on the blockchain."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                799.1,
+                806.78
+            ],
+            "text": " You cannot add those years to your work experience without actually being there and your recruiter might even have"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                806.78,
+                813.2
+            ],
+            "text": " been granted an access to leave some testimonial for your achievements for a specific project and"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                813.2,
+                818.04
+            ],
+            "text": " everything is publicly visible on blockchain everything is stored for the whole life on the"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                818.04,
+                823.86
+            ],
+            "text": " blockchain that's why topic of digital identity and doing it in a transparent way is so important"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                823.86,
+                830.2
+            ],
+            "text": " right now absolutely there's a lot of listeners out there who are either in this space for a while,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                830.32,
+                834.68
+            ],
+            "text": " or they're just getting in, or they're curious about the space, and they think they might want"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                834.68,
+                842.8
+            ],
+            "text": " to find work in the space or a job. What would be your best advice for people who are trying to make"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                842.8,
+                847.38
+            ],
+            "text": " a career out of Web3 or trying to find a job in this"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                847.38,
+                852.94
+            ],
+            "text": " growing space the biggest advice i have right now and that's something that is coming from my"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                852.94,
+                859.08
+            ],
+            "text": " personal experience don't be in a rush the space is so early right now try to understand the niche"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                859.08,
+                865.96
+            ],
+            "text": " would fascinate you the most whether it's digital, whether it's gaming in Web3, utility-based NFTs,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                866.2,
+                871.64
+            ],
+            "text": " be a member of a couple of projects, being a moderator in their Discord, learning about this"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                871.64,
+                877.84
+            ],
+            "text": " specific project and overall phase. Build your own thesis for the next 5 to 10 years to understand"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                877.84,
+                882.6
+            ],
+            "text": " what do you expect from this space, so that when the time comes and you are much more knowledgeable,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                882.82,
+                886.68
+            ],
+            "text": " you are already a part of some team, enjoy the moment, build with people."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                886.9,
+                889.8
+            ],
+            "text": " Because on your own, it's going to be too complicated."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                889.8,
+                896.94
+            ],
+            "text": " You need a community of loyal people, advocates of the space who are going to share the same vision and build together with you."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                897.12,
+                902.46
+            ],
+            "text": " Slowly but constantly build what you are aiming to achieve in this space in the upcoming years."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                902.9,
+                903.66
+            ],
+            "text": " Yeah, absolutely."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                902.44,
+                902.9
+            ],
+            "text": " to achieve in this space in the upcoming years."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                903.66,
+                904.3
+            ],
+            "text": " Yeah, absolutely."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                910.22,
+                914.86
+            ],
+            "text": " Networking, building relationships, and participating in the space, whether it's on Twitter, in a Discord community, on LinkedIn, all of that helps tremendously."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                915.18,
+                917.88
+            ],
+            "text": " I guess figuring out what you want to do in the space."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                917.88,
+                923.08
+            ],
+            "text": " There's a ton of projects and organizations that have job boards, some of them for women,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                923.56,
+                926.6
+            ],
+            "text": " that will help you find a career path"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                926.6,
+                932.54
+            ],
+            "text": " or a job in the space and what you want to do. There is definitely a lot of opportunity going"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                932.54,
+                936.6
+            ],
+            "text": " on right now. And there's a lot of companies coming into the space. And these companies"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                936.6,
+                942.12
+            ],
+            "text": " need people that are knowledgeable about what's happening here. And there's just tons of"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                942.12,
+                945.68
+            ],
+            "text": " opportunity. And there's going to be a lot more in the coming years"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                945.68,
+                954.2
+            ],
+            "text": " last question here what do you see moving forward for the future of identity in the web3 space"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                954.2,
+                961.52
+            ],
+            "text": " yeah first thing that i want to have is definitely interoperability that is the technology that"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                961.52,
+                967.64
+            ],
+            "text": " allows you to move one asset from this platform to another one. You opting out"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                967.64,
+                974.36
+            ],
+            "text": " from Twitter or you losing your job position, Cointelegraph potentially might result in them"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                974.36,
+                979.66
+            ],
+            "text": " erasing all your results, all your publications or whatsoever. I want all of this to be decentralized."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                979.96,
+                986.1
+            ],
+            "text": " I want to have one general system for different platforms, but you need to have a chance to"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                986.1,
+                992.14
+            ],
+            "text": " move all these achievements, all these results, yourself, your identity to different ecosystems"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                992.14,
+                993.34
+            ],
+            "text": " at no cost."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                993.54,
+                999.34
+            ],
+            "text": " And you should be the co-creator having the access to open code without directly interacting"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                999.34,
+                1003.76
+            ],
+            "text": " with developers, waiting for a couple of weeks for them to reply back, but actually have"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1003.76,
+                1005.18
+            ],
+            "text": " the user-friendly way,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1005.38,
+                1011.02
+            ],
+            "text": " just like Wix, for example, allowing you to update your web page, allowing you to create"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1011.02,
+                1016.22
+            ],
+            "text": " the web page. The same goes to your identity. Digital identity. It's definitely going to keep"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1016.22,
+                1021.7
+            ],
+            "text": " evolving in this space. The stuff with the spellbound token on the Ethereum blockchain"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1021.7,
+                1027.68
+            ],
+            "text": " and how it ties to identity in the form of your set in stone"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1027.68,
+                1033.42
+            ],
+            "text": " identity, your birth identity is definitely interesting. The identity that you can create"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1033.42,
+                1040.26
+            ],
+            "text": " in Web3 for yourself, like for me, I enjoy building it, you know, because it's really,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1040.52,
+                1047.18
+            ],
+            "text": " like you said, to be yourself, an extension of who you are. And also, it's something that"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1047.18,
+                1053.7
+            ],
+            "text": " people can recognize you by. And the fact that you can build it however you want it, I don't know,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1053.76,
+                1061.08
+            ],
+            "text": " it's a very cool thing. And all these dApps and platforms that are coming out to assist in your"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1061.08,
+                1067.78
+            ],
+            "text": " Web3 identity building, it's exciting for sure all right nikita thank you so much for"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1067.78,
+                1074.72
+            ],
+            "text": " all the insight community building and identity are like super important where can people find"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1074.72,
+                1081.22
+            ],
+            "text": " you follow me on twitter whether you're a newbie entering the space or you actually have some"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1081.22,
+                1086.58
+            ],
+            "text": " questions for me as the verbs writer or brand consultant around NFT."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1086.84,
+                1089.82
+            ],
+            "text": " So also my podcast, WinWeb3."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1090.1,
+                1092.52
+            ],
+            "text": " Make sure that you follow me on YouTube."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1092.8,
+                1098.04
+            ],
+            "text": " Here in Europe, I'm coming to London, November 3rd till 4th to NFT London."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1098.32,
+                1099.96
+            ],
+            "text": " Pretending there are multiple stages."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1100.22,
+                1102.52
+            ],
+            "text": " Always happy to have a cup of coffee."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1102.82,
+                1107.0
+            ],
+            "text": " Perhaps next year I'm visiting you in ZS for NFT NYC."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1107.76,
+                1110.26
+            ],
+            "text": " That is the best possible way to connect with me."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1110.94,
+                1113.92
+            ],
+            "text": " So Nikita, thank you so much for coming on NFT and Chill."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1114.22,
+                1119.38
+            ],
+            "text": " And definitely check out Nikita's podcast, especially the episode that I'm in."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1119.86,
+                1121.0
+            ],
+            "text": " Especially this one."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1121.18,
+                1123.16
+            ],
+            "text": " It's called All Things Web3."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1123.38,
+                1124.48
+            ],
+            "text": " Definitely check it out."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1124.96,
+                1125.0
+            ],
+            "text": " And that's it for this week's show. I want to thank my guest Nikita Sikalu for coming on. especially this one, called All Things Web3. Definitely check it out."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1126.28,
+                1126.42
+            ],
+            "text": " And that's it for this week's show."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1129.28,
+                1132.12
+            ],
+            "text": " I want to thank my guest, Nikita Sikalu, for coming on and also having me on his show, We in Web3."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1132.7,
+                1136.4
+            ],
+            "text": " Decentralized identity is the backbone of Web3,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1136.58,
+                1140.24
+            ],
+            "text": " and I think everybody should know the importance"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1140.24,
+                1142.68
+            ],
+            "text": " of building a personal identity,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1143.04,
+                1147.06
+            ],
+            "text": " making sure your reputation in Web3 is the way that you"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1147.06,
+                1152.62
+            ],
+            "text": " want it, because it can be however you want it to be. And it's going to be more important as the"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1152.62,
+                1159.36
+            ],
+            "text": " space keeps growing. I want to thank my sponsor, Zengo, for bringing this week's episode. I'm very"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1159.36,
+                1167.86
+            ],
+            "text": " excited about having Zengo as a sponsor. This took months of getting offers from companies, from NFT projects"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1167.86,
+                1173.2
+            ],
+            "text": " for me to find the right fit for the show because the show is about education. It's about awareness"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1173.2,
+                1180.7
+            ],
+            "text": " and Web3 and being safe in the space. And Zengo fits those categories perfectly. They focus so"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1180.7,
+                1185.22
+            ],
+            "text": " much on safety and keeping your assets safe."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1185.42,
+                1186.58
+            ],
+            "text": " Definitely check it out."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1186.76,
+                1188.2
+            ],
+            "text": " See if it's a good fit for you."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1188.38,
+                1195.38
+            ],
+            "text": " By creating your free wallet, you'll be helping NFT and Chill bring more guests and more content."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1195.38,
+                1200.86
+            ],
+            "text": " So I just want to thank every single person for listening and subscribing to the show."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1201.0,
+                1203.48
+            ],
+            "text": " Make sure you're subscribed so you don't miss an episode."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1203.86,
+                1208.76
+            ],
+            "text": " We've got another incredible guest, another interesting topic for next week. I'm the Mayor,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1208.94,
+                1210.98
+            ],
+            "text": " and you've been listening to the NFT and Chill Podcast."
+        }
+    ],
+    "chunks": [
+        {
+            "timestamp": [
+                0.0,
+                2.78
+            ],
+            "text": " Welcome back to another exciting week in the Web3 universe."
+        },
+        {
+            "timestamp": [
+                3.18,
+                6.86
+            ],
+            "text": " I'm your host, The Mayor, and you're listening to the best NFT media nominated"
+        },
+        {
+            "timestamp": [
+                6.86,
+                11.86
+            ],
+            "text": " NFT and Chill podcast, the show that discusses interesting topics with artists,"
+        },
+        {
+            "timestamp": [
+                12.04,
+                14.44
+            ],
+            "text": " creators, and thought leaders from the Web3 space."
+        },
+        {
+            "timestamp": [
+                14.82,
+                20.86
+            ],
+            "text": " On this week's episode, we have Nikita Sikalu, who is a brand consultant,"
+        },
+        {
+            "timestamp": [
+                21.26,
+                27.88
+            ],
+            "text": " the host of We in Web3. He'll be on the show to discuss Web3 identity,"
+        },
+        {
+            "timestamp": [
+                27.88,
+                34.08
+            ],
+            "text": " brand building, and community in the space. So sit back and chill while we explore the"
+        },
+        {
+            "timestamp": [
+                34.08,
+                37.2
+            ],
+            "text": " exciting world of Web3 and NFTs together."
+        },
+        {
+            "timestamp": [
+                54.16,
+                54.4
+            ],
+            "text": " I want to welcome a friend of mine in the space, Nikita Sikaluk."
+        },
+        {
+            "timestamp": [
+                57.96,
+                58.4
+            ],
+            "text": " I'm really happy to be in your podcast here today."
+        },
+        {
+            "timestamp": [
+                60.32,
+                60.44
+            ],
+            "text": " I'm doing amazing, my man."
+        },
+        {
+            "timestamp": [
+                63.82,
+                64.04
+            ],
+            "text": " I just came back from London, from Zeeblu Live."
+        },
+        {
+            "timestamp": [
+                66.02,
+                66.38
+            ],
+            "text": " I was one of the headline speakers."
+        },
+        {
+            "timestamp": [
+                69.16,
+                69.54
+            ],
+            "text": " Absolutely enjoyed the Web3 atmosphere there."
+        },
+        {
+            "timestamp": [
+                75.6,
+                77.42
+            ],
+            "text": " You just were in my podcast a couple of weeks ago, We in Web3, the podcast about space being built by people, for people."
+        },
+        {
+            "timestamp": [
+                77.42,
+                83.6
+            ],
+            "text": " Ty was one of my first guests, so I do believe that this episode is going to air around the"
+        },
+        {
+            "timestamp": [
+                83.6,
+                90.14
+            ],
+            "text": " dates of this podcast for those who are looking for more insights about Ty's background and his vision about the space."
+        },
+        {
+            "timestamp": [
+                90.68,
+                92.04
+            ],
+            "text": " Yeah, I'm happy to have you here."
+        },
+        {
+            "timestamp": [
+                92.34,
+                94.92
+            ],
+            "text": " You want to give the listeners an introduction?"
+        },
+        {
+            "timestamp": [
+                95.48,
+                106.22
+            ],
+            "text": " I'm an early advocate of the Web3 space in 2017 with main focus on NFTs from utility development and community development."
+        },
+        {
+            "timestamp": [
+                106.4,
+                113.16
+            ],
+            "text": " Basically, on the one side, I'm a brand consultant for NFT project, helping them to develop loyal"
+        },
+        {
+            "timestamp": [
+                113.16,
+                116.36
+            ],
+            "text": " communities, a topic that we're going to cover with you here today."
+        },
+        {
+            "timestamp": [
+                116.6,
+                122.3
+            ],
+            "text": " I'm also a member of different international communities all around the world, like NFT"
+        },
+        {
+            "timestamp": [
+                122.3,
+                125.3
+            ],
+            "text": " Factory in Paris or Blockchain Alliance in Warsaw,"
+        },
+        {
+            "timestamp": [
+                125.66,
+                128.1
+            ],
+            "text": " educating people, also learning from them."
+        },
+        {
+            "timestamp": [
+                128.4,
+                133.28
+            ],
+            "text": " Lastly, I'm also a Forbes Web3 writer, which I've been doing for a couple of years now,"
+        },
+        {
+            "timestamp": [
+                133.44,
+                136.04
+            ],
+            "text": " wearing different hats, exploring the space,"
+        },
+        {
+            "timestamp": [
+                136.34,
+                140.1
+            ],
+            "text": " throwing those people around NFTs and developing my own community."
+        },
+        {
+            "timestamp": [
+                140.7,
+                147.66
+            ],
+            "text": " Being in Web3, wearing a lot of hats is definitely what you have to do in this space because it never sleeps."
+        },
+        {
+            "timestamp": [
+                148.1,
+                151.14
+            ],
+            "text": " We have a lot of similarities in things we do."
+        },
+        {
+            "timestamp": [
+                151.5,
+                152.96
+            ],
+            "text": " I'm excited to have you on the show."
+        },
+        {
+            "timestamp": [
+                153.3,
+                186.54
+            ],
+            "text": " So we're definitely going to get into brand building, how it ties into a little bit of the brand building side and how NFT projects need to go about that you promised, when you need to have some internal"
+        },
+        {
+            "timestamp": [
+                186.54,
+                193.56
+            ],
+            "text": " utility benefit for holders to be a part of this community. And all of this implies that for the"
+        },
+        {
+            "timestamp": [
+                193.56,
+                200.16
+            ],
+            "text": " first time in this space, new projects or existing projects need to focus on the community itself."
+        },
+        {
+            "timestamp": [
+                200.32,
+                211.34
+            ],
+            "text": " What we need to do right now is to build by people for people. That is the way how new projects and existing big ones can remain relevant in 10 years from now."
+        },
+        {
+            "timestamp": [
+                211.56,
+                218.32
+            ],
+            "text": " At the end of the day, we're building this space for people to be active, for people to enjoy it, not just for the sake of having it."
+        },
+        {
+            "timestamp": [
+                218.44,
+                226.16
+            ],
+            "text": " No one still knows what that free space, NFTs in particular, can look like in 10-15 years from now. But if your thesis is"
+        },
+        {
+            "timestamp": [
+                226.16,
+                232.54
+            ],
+            "text": " as close as I am to the NFT growth and NFT development, meaning that NFT are here to stay,"
+        },
+        {
+            "timestamp": [
+                232.7,
+                237.88
+            ],
+            "text": " NFTs are going to be used in ticketing, in entertainment, loyal club development,"
+        },
+        {
+            "timestamp": [
+                238.08,
+                242.5
+            ],
+            "text": " then you need to understand that that is the right time to build for people. Not just for"
+        },
+        {
+            "timestamp": [
+                242.5,
+                246.08
+            ],
+            "text": " pursing some of your dreams and making quick money, which"
+        },
+        {
+            "timestamp": [
+                246.08,
+                251.98
+            ],
+            "text": " might also be one of those elements. But if you want to stay here relevant for years from now,"
+        },
+        {
+            "timestamp": [
+                252.08,
+                257.9
+            ],
+            "text": " that is actually building around people's needs when it comes to utilities, to the benefits that"
+        },
+        {
+            "timestamp": [
+                257.9,
+                263.6
+            ],
+            "text": " you bring them. Hearing their own opinion, make better adjustments to the project later on."
+        },
+        {
+            "timestamp": [
+                263.74,
+                266.3
+            ],
+            "text": " Feedback system in V Web3, that is perhaps"
+        },
+        {
+            "timestamp": [
+                266.3,
+                271.54
+            ],
+            "text": " the most efficient feedback system I've ever seen. For the first time in human history, brands"
+        },
+        {
+            "timestamp": [
+                271.54,
+                277.02
+            ],
+            "text": " entering the space have a chance to connect with their holders. Let's take, for example,"
+        },
+        {
+            "timestamp": [
+                277.34,
+                286.74
+            ],
+            "text": " Nike or Adidas. Me buying those shoes does not give any decision-making power. I'm just one of millions of people and"
+        },
+        {
+            "timestamp": [
+                286.74,
+                292.76
+            ],
+            "text": " brands don't know any information about my preferences, about my beliefs, since the blockchain"
+        },
+        {
+            "timestamp": [
+                292.76,
+                299.64
+            ],
+            "text": " is publicly available information. Those brands can actually make better decision-making mechanism"
+        },
+        {
+            "timestamp": [
+                299.64,
+                310.22
+            ],
+            "text": " based on it because they see what are some of other NFT projects I'm holding, for how long I've been a member of their community and how should I be rewarded. That is the most efficient and most"
+        },
+        {
+            "timestamp": [
+                310.22,
+                315.5
+            ],
+            "text": " transparent feedback system there in the blockchain apart from in real life events, apart from"
+        },
+        {
+            "timestamp": [
+                315.5,
+                321.5
+            ],
+            "text": " communications through Discord. You are the one who has at least a small chance of changing the"
+        },
+        {
+            "timestamp": [
+                321.5,
+                326.38
+            ],
+            "text": " trajectory of the brand future by proposing something, advising,"
+        },
+        {
+            "timestamp": [
+                326.74,
+                332.12
+            ],
+            "text": " making changes. That's the beauty of this space and that's how brands coming to NFTs"
+        },
+        {
+            "timestamp": [
+                332.12,
+                338.58
+            ],
+            "text": " should approach it right now. Yeah, absolutely. Just the fact that you as a community member"
+        },
+        {
+            "timestamp": [
+                338.58,
+                347.24
+            ],
+            "text": " have a lot more ownership and a lot more say in what the brand or project or company has moving forward that's"
+        },
+        {
+            "timestamp": [
+                347.24,
+                353.8
+            ],
+            "text": " the beauty about this space and those businesses those companies and brands know that and they"
+        },
+        {
+            "timestamp": [
+                353.8,
+                361.48
+            ],
+            "text": " encourage that let's put it to where a brand or a project comes to you and they're looking to"
+        },
+        {
+            "timestamp": [
+                361.48,
+                366.3
+            ],
+            "text": " make an impact in the space i guess what would you tell them for their brand"
+        },
+        {
+            "timestamp": [
+                366.3,
+                371.72
+            ],
+            "text": " building process? Brilliant question. The first thing that comes to my mind, the main difference"
+        },
+        {
+            "timestamp": [
+                371.72,
+                378.44
+            ],
+            "text": " between Web2 and Web3 is the role of founders. In Web2, you as the founder of the brand, you need"
+        },
+        {
+            "timestamp": [
+                378.44,
+                383.78
+            ],
+            "text": " to be a good marketer, to know how to recruit folks, you need to develop strategic partnerships,"
+        },
+        {
+            "timestamp": [
+                383.78,
+                390.56
+            ],
+            "text": " and at the same time, you need to run the team itself. Here in VAP3, you have a chance to give some of these positions,"
+        },
+        {
+            "timestamp": [
+                390.56,
+                395.76
+            ],
+            "text": " give some of these roles to community members. Some community members might hold t-shirt"
+        },
+        {
+            "timestamp": [
+                395.76,
+                402.62
+            ],
+            "text": " manufacturing, which makes the cost of your merchandise lower, the process more efficient."
+        },
+        {
+            "timestamp": [
+                402.84,
+                406.56
+            ],
+            "text": " Some people, as you just mentioned for example discord moderators"
+        },
+        {
+            "timestamp": [
+                406.56,
+                411.7
+            ],
+            "text": " would love to join the team for the sake of contributing and being a part of the family"
+        },
+        {
+            "timestamp": [
+                411.7,
+                417.8
+            ],
+            "text": " because love your vision and that is the beauty of this space and secondly that three space and"
+        },
+        {
+            "timestamp": [
+                417.8,
+                422.98
+            ],
+            "text": " not that much about money so don't get me wrong it's still about profit it's still about"
+        },
+        {
+            "timestamp": [
+                422.98,
+                427.58
+            ],
+            "text": " sustainable projects if community there wasn't that important in that too,"
+        },
+        {
+            "timestamp": [
+                427.78,
+                430.1
+            ],
+            "text": " you could develop an e-commerce brand"
+        },
+        {
+            "timestamp": [
+                430.1,
+                432.44
+            ],
+            "text": " without actually getting feedback from your clients"
+        },
+        {
+            "timestamp": [
+                432.44,
+                433.6
+            ],
+            "text": " and just making millions."
+        },
+        {
+            "timestamp": [
+                433.76,
+                435.02
+            ],
+            "text": " It's not going to work in that way."
+        },
+        {
+            "timestamp": [
+                435.18,
+                437.52
+            ],
+            "text": " It's going to work till a certain period of time"
+        },
+        {
+            "timestamp": [
+                437.52,
+                439.66
+            ],
+            "text": " when your project will be called a ragpull,"
+        },
+        {
+            "timestamp": [
+                439.78,
+                441.9
+            ],
+            "text": " when your project is going to die"
+        },
+        {
+            "timestamp": [
+                441.9,
+                443.5
+            ],
+            "text": " because demand is so low."
+        },
+        {
+            "timestamp": [
+                443.5,
+                445.1
+            ],
+            "text": " People are selling NFTs."
+        },
+        {
+            "timestamp": [
+                445.26,
+                450.18
+            ],
+            "text": " People are selling this digital land in favor of your competitor who actually ask for their"
+        },
+        {
+            "timestamp": [
+                450.18,
+                454.9
+            ],
+            "text": " feedback, actually give some voting rights, decision-making power to those people."
+        },
+        {
+            "timestamp": [
+                455.12,
+                457.86
+            ],
+            "text": " So in VAP2, it was only about money."
+        },
+        {
+            "timestamp": [
+                457.86,
+                463.5
+            ],
+            "text": " In VAP3, there is a money element, which perhaps would take the majority part of it, but there"
+        },
+        {
+            "timestamp": [
+                463.5,
+                464.98
+            ],
+            "text": " is also a community part."
+        },
+        {
+            "timestamp": [
+                465.16,
+                469.08
+            ],
+            "text": " Building with people, building for people, building around people."
+        },
+        {
+            "timestamp": [
+                469.24,
+                470.8
+            ],
+            "text": " That is the beauty of this space."
+        },
+        {
+            "timestamp": [
+                471.12,
+                477.46
+            ],
+            "text": " Recently, Cristiano Ronaldo had signed a deal with Binance to be their advisor for sport NFTs."
+        },
+        {
+            "timestamp": [
+                477.66,
+                481.96
+            ],
+            "text": " For example, this May, Pharrell Williams joined Doodles as the chief of brand."
+        },
+        {
+            "timestamp": [
+                482.02,
+                483.86
+            ],
+            "text": " We still don't know what these roles imply,"
+        },
+        {
+            "timestamp": [
+                484.0,
+                488.16
+            ],
+            "text": " but the fact that Pharrell Williams has tens of millions of fans all around the world,"
+        },
+        {
+            "timestamp": [
+                488.4,
+                491.62
+            ],
+            "text": " and he might potentially educate them about blockchain,"
+        },
+        {
+            "timestamp": [
+                491.88,
+                494.08
+            ],
+            "text": " about Web3 space and this specific project,"
+        },
+        {
+            "timestamp": [
+                494.28,
+                496.46
+            ],
+            "text": " it's a win-win situation for both."
+        },
+        {
+            "timestamp": [
+                496.7,
+                501.38
+            ],
+            "text": " So do not underestimate the human factor here when building in Web3."
+        },
+        {
+            "timestamp": [
+                501.38,
+                506.06
+            ],
+            "text": " And that's a really great example too, especially with Cristiano Ronaldo."
+        },
+        {
+            "timestamp": [
+                506.48,
+                511.5
+            ],
+            "text": " Personal brand is such a huge factor in this space."
+        },
+        {
+            "timestamp": [
+                511.64,
+                513.82
+            ],
+            "text": " I mentioned it on episode 32."
+        },
+        {
+            "timestamp": [
+                514.28,
+                517.22
+            ],
+            "text": " I think it's kind of everyone's duty in this space"
+        },
+        {
+            "timestamp": [
+                517.22,
+                519.62
+            ],
+            "text": " to kind of build a personal brand."
+        },
+        {
+            "timestamp": [
+                519.62,
+                522.82
+            ],
+            "text": " And it's kind of your reputation in Web3."
+        },
+        {
+            "timestamp": [
+                523.12,
+                524.66
+            ],
+            "text": " And having a good reputation,"
+        },
+        {
+            "timestamp": [
+                524.78,
+                526.2
+            ],
+            "text": " even if it's a small reputation, it's something of your reputation in Web3. And having a good reputation, even if it's a small reputation,"
+        },
+        {
+            "timestamp": [
+                526.56,
+                532.26
+            ],
+            "text": " it's something that's important because you don't have to go by the name that's on your"
+        },
+        {
+            "timestamp": [
+                532.26,
+                537.6
+            ],
+            "text": " birth certificate or your driver's license. You can kind of create your own identity in the space"
+        },
+        {
+            "timestamp": [
+                537.6,
+                543.94
+            ],
+            "text": " and that's the beauty of it. In terms of building a personal brand, this kind of goes out to"
+        },
+        {
+            "timestamp": [
+                543.94,
+                546.34
+            ],
+            "text": " everyone in the space what suggestions"
+        },
+        {
+            "timestamp": [
+                546.34,
+                552.46
+            ],
+            "text": " do you have and how do you personally go about it wow i love this topic so much i'm a big fan"
+        },
+        {
+            "timestamp": [
+                552.46,
+                558.86
+            ],
+            "text": " of digital identity me you can see i'm a fully doxed what does this imply i'm not hiding my"
+        },
+        {
+            "timestamp": [
+                558.86,
+                566.38
+            ],
+            "text": " personality my personal life i'm even having my face as a TFP, as a picture of my Twitter with my full name."
+        },
+        {
+            "timestamp": [
+                566.54,
+                570.72
+            ],
+            "text": " So I'm fully doxxed. You can find all the information online. And the reason I have"
+        },
+        {
+            "timestamp": [
+                570.72,
+                576.78
+            ],
+            "text": " chosen it, just like in your case, because I'm extremely active both on stage presenting at"
+        },
+        {
+            "timestamp": [
+                576.78,
+                582.06
+            ],
+            "text": " some conferences, coming to some meetups, and off stage when connecting with my clients,"
+        },
+        {
+            "timestamp": [
+                582.24,
+                588.4
+            ],
+            "text": " I'm here myself. I have a big story in Web2, which I also want at a certain period of time"
+        },
+        {
+            "timestamp": [
+                588.4,
+                591.14
+            ],
+            "text": " to combine with my current Web3 personality."
+        },
+        {
+            "timestamp": [
+                591.32,
+                595.96
+            ],
+            "text": " I have LinkedIn for my Web2 story and Twitter for Web3 personality."
+        },
+        {
+            "timestamp": [
+                596.28,
+                599.66
+            ],
+            "text": " But me being doxed ensures that they can see my background."
+        },
+        {
+            "timestamp": [
+                599.66,
+                603.86
+            ],
+            "text": " As you mentioned on the blockchain in Web3, you have only one try."
+        },
+        {
+            "timestamp": [
+                603.98,
+                605.66
+            ],
+            "text": " You have only one identity."
+        },
+        {
+            "timestamp": [
+                606.14,
+                610.72
+            ],
+            "text": " And if you fucked up, you're in big trouble because everything is publicly available."
+        },
+        {
+            "timestamp": [
+                610.9,
+                612.54
+            ],
+            "text": " There have been so many stories."
+        },
+        {
+            "timestamp": [
+                612.7,
+                613.74
+            ],
+            "text": " Take, for example, Azuki."
+        },
+        {
+            "timestamp": [
+                614.04,
+                617.28
+            ],
+            "text": " Co-founders were hiding previous red pools for years."
+        },
+        {
+            "timestamp": [
+                617.42,
+                619.68
+            ],
+            "text": " But at the end of the day, it's going to be visible."
+        },
+        {
+            "timestamp": [
+                619.68,
+                627.54
+            ],
+            "text": " And the more we advance in Web3 space, the more easier it would be for you to track all the previous history, all previous identities."
+        },
+        {
+            "timestamp": [
+                627.78,
+                629.22
+            ],
+            "text": " So I choose to be transparent."
+        },
+        {
+            "timestamp": [
+                629.46,
+                632.06
+            ],
+            "text": " I choose to be thoughtful to what I do."
+        },
+        {
+            "timestamp": [
+                632.26,
+                633.66
+            ],
+            "text": " How do I communicate with people?"
+        },
+        {
+            "timestamp": [
+                633.74,
+                634.48
+            ],
+            "text": " That's why I'm a doctor."
+        },
+        {
+            "timestamp": [
+                634.6,
+                637.0
+            ],
+            "text": " I don't have any problems with Anons at all."
+        },
+        {
+            "timestamp": [
+                637.0,
+                639.9
+            ],
+            "text": " Take, for example, Betty from Deadfellas."
+        },
+        {
+            "timestamp": [
+                639.96,
+                642.78
+            ],
+            "text": " She has been a mystery for all of us for a while."
+        },
+        {
+            "timestamp": [
+                642.96,
+                646.54
+            ],
+            "text": " Finally, this May, during Quickthon, she decided that, you know what?"
+        },
+        {
+            "timestamp": [
+                646.7,
+                648.38
+            ],
+            "text": " Me and my family, we're ready."
+        },
+        {
+            "timestamp": [
+                648.54,
+                649.9
+            ],
+            "text": " So I'm gonna adopt myself."
+        },
+        {
+            "timestamp": [
+                650.1,
+                651.74
+            ],
+            "text": " I do believe the beauty of this space."
+        },
+        {
+            "timestamp": [
+                651.9,
+                652.96
+            ],
+            "text": " What do you want to be?"
+        },
+        {
+            "timestamp": [
+                653.18,
+                654.36
+            ],
+            "text": " What do you want to achieve?"
+        },
+        {
+            "timestamp": [
+                654.52,
+                656.02
+            ],
+            "text": " What do you want to focus on?"
+        },
+        {
+            "timestamp": [
+                656.22,
+                657.56
+            ],
+            "text": " The space is so young."
+        },
+        {
+            "timestamp": [
+                657.72,
+                660.76
+            ],
+            "text": " You can do whatever you want by being whoever you want."
+        },
+        {
+            "timestamp": [
+                660.9,
+                661.98
+            ],
+            "text": " It's completely up to you."
+        },
+        {
+            "timestamp": [
+                661.98,
+                666.44
+            ],
+            "text": " So I encourage everyone, every young girl and boy just start doing"
+        },
+        {
+            "timestamp": [
+                666.44,
+                671.08
+            ],
+            "text": " some stuff you learn by doing it and right now during the bear market they're saying that there"
+        },
+        {
+            "timestamp": [
+                671.08,
+                676.42
+            ],
+            "text": " is no bear market there is only build market that is your best time to learn and understand how the"
+        },
+        {
+            "timestamp": [
+                676.42,
+                683.68
+            ],
+            "text": " technology works that's absolutely great advice and things do tend to come out in the wash in"
+        },
+        {
+            "timestamp": [
+                683.68,
+                686.12
+            ],
+            "text": " this space we've seen so many people who've done"
+        },
+        {
+            "timestamp": [
+                686.12,
+                691.32
+            ],
+            "text": " not so great things. You know, you're surprised by when it comes out. Like, how did it come out?"
+        },
+        {
+            "timestamp": [
+                691.38,
+                697.32
+            ],
+            "text": " But everything is definitely public. There are people out there that are tracing things and"
+        },
+        {
+            "timestamp": [
+                697.32,
+                703.3
+            ],
+            "text": " trying to figure out what people have done in the history. Being mindful about what you're doing in"
+        },
+        {
+            "timestamp": [
+                703.3,
+                705.92
+            ],
+            "text": " the space, I think is just something that"
+        },
+        {
+            "timestamp": [
+                705.92,
+                711.88
+            ],
+            "text": " everyone should be. And building your personal brand, it shouldn't be like this big daunting"
+        },
+        {
+            "timestamp": [
+                711.88,
+                717.82
+            ],
+            "text": " thing. You get to choose how you want to be seen in the space. And I think that's an awesome part"
+        },
+        {
+            "timestamp": [
+                717.82,
+                732.58
+            ],
+            "text": " of it as well. You mentioned Soulbound Token. Why don't you explain to the listeners what that is? Yeah. In a simple word, Solbon token is an NFT that is granted to you without transfer or trading"
+        },
+        {
+            "timestamp": [
+                732.58,
+                738.72
+            ],
+            "text": " or reselling activities. That is something that is coming from Vitalik Solbon token paper from"
+        },
+        {
+            "timestamp": [
+                738.72,
+                744.34
+            ],
+            "text": " this May. You couldn't sell on the market, transfer to your friends. So it belonged only to your"
+        },
+        {
+            "timestamp": [
+                744.34,
+                749.76
+            ],
+            "text": " brand. Here in VAT3, Solbon's token would allow us to have some documents and achievements"
+        },
+        {
+            "timestamp": [
+                749.76,
+                752.12
+            ],
+            "text": " that cannot be resold later on."
+        },
+        {
+            "timestamp": [
+                752.12,
+                757.76
+            ],
+            "text": " Think for example about the identity of birth, certificate of completion at university or"
+        },
+        {
+            "timestamp": [
+                757.76,
+                761.44
+            ],
+            "text": " maybe you winning some of big tournaments, championships."
+        },
+        {
+            "timestamp": [
+                761.44,
+                766.72
+            ],
+            "text": " This NFT form of diploma or certificate will be granted for you further on"
+        },
+        {
+            "timestamp": [
+                766.72,
+                772.66
+            ],
+            "text": " you cannot reassign it to anyone else belong to you for the whole of your life that's the concept"
+        },
+        {
+            "timestamp": [
+                772.66,
+                779.3
+            ],
+            "text": " itself the fact that it can't be transferred and it also can't be duplicated or somebody can't like"
+        },
+        {
+            "timestamp": [
+                779.3,
+                786.3
+            ],
+            "text": " make one up i think is a really cool part of the Soulbound token. If you have the certificate, because people make, you know,"
+        },
+        {
+            "timestamp": [
+                786.52,
+                790.76
+            ],
+            "text": " certificates and achievements for themselves all the time."
+        },
+        {
+            "timestamp": [
+                790.84,
+                793.0
+            ],
+            "text": " And I think it adds a little bit of safety."
+        },
+        {
+            "timestamp": [
+                793.34,
+                795.84
+            ],
+            "text": " Possibilities for it are endless."
+        },
+        {
+            "timestamp": [
+                796.28,
+                798.66
+            ],
+            "text": " Think of it as LinkedIn on the blockchain."
+        },
+        {
+            "timestamp": [
+                799.1,
+                806.78
+            ],
+            "text": " You cannot add those years to your work experience without actually being there and your recruiter might even have"
+        },
+        {
+            "timestamp": [
+                806.78,
+                813.2
+            ],
+            "text": " been granted an access to leave some testimonial for your achievements for a specific project and"
+        },
+        {
+            "timestamp": [
+                813.2,
+                818.04
+            ],
+            "text": " everything is publicly visible on blockchain everything is stored for the whole life on the"
+        },
+        {
+            "timestamp": [
+                818.04,
+                823.86
+            ],
+            "text": " blockchain that's why topic of digital identity and doing it in a transparent way is so important"
+        },
+        {
+            "timestamp": [
+                823.86,
+                830.2
+            ],
+            "text": " right now absolutely there's a lot of listeners out there who are either in this space for a while,"
+        },
+        {
+            "timestamp": [
+                830.32,
+                834.68
+            ],
+            "text": " or they're just getting in, or they're curious about the space, and they think they might want"
+        },
+        {
+            "timestamp": [
+                834.68,
+                842.8
+            ],
+            "text": " to find work in the space or a job. What would be your best advice for people who are trying to make"
+        },
+        {
+            "timestamp": [
+                842.8,
+                847.38
+            ],
+            "text": " a career out of Web3 or trying to find a job in this"
+        },
+        {
+            "timestamp": [
+                847.38,
+                852.94
+            ],
+            "text": " growing space the biggest advice i have right now and that's something that is coming from my"
+        },
+        {
+            "timestamp": [
+                852.94,
+                859.08
+            ],
+            "text": " personal experience don't be in a rush the space is so early right now try to understand the niche"
+        },
+        {
+            "timestamp": [
+                859.08,
+                865.96
+            ],
+            "text": " would fascinate you the most whether it's digital, whether it's gaming in Web3, utility-based NFTs,"
+        },
+        {
+            "timestamp": [
+                866.2,
+                871.64
+            ],
+            "text": " be a member of a couple of projects, being a moderator in their Discord, learning about this"
+        },
+        {
+            "timestamp": [
+                871.64,
+                877.84
+            ],
+            "text": " specific project and overall phase. Build your own thesis for the next 5 to 10 years to understand"
+        },
+        {
+            "timestamp": [
+                877.84,
+                882.6
+            ],
+            "text": " what do you expect from this space, so that when the time comes and you are much more knowledgeable,"
+        },
+        {
+            "timestamp": [
+                882.82,
+                886.68
+            ],
+            "text": " you are already a part of some team, enjoy the moment, build with people."
+        },
+        {
+            "timestamp": [
+                886.9,
+                889.8
+            ],
+            "text": " Because on your own, it's going to be too complicated."
+        },
+        {
+            "timestamp": [
+                889.8,
+                896.94
+            ],
+            "text": " You need a community of loyal people, advocates of the space who are going to share the same vision and build together with you."
+        },
+        {
+            "timestamp": [
+                897.12,
+                902.46
+            ],
+            "text": " Slowly but constantly build what you are aiming to achieve in this space in the upcoming years."
+        },
+        {
+            "timestamp": [
+                902.9,
+                903.66
+            ],
+            "text": " Yeah, absolutely."
+        },
+        {
+            "timestamp": [
+                902.44,
+                902.9
+            ],
+            "text": " to achieve in this space in the upcoming years."
+        },
+        {
+            "timestamp": [
+                903.66,
+                904.3
+            ],
+            "text": " Yeah, absolutely."
+        },
+        {
+            "timestamp": [
+                910.22,
+                914.86
+            ],
+            "text": " Networking, building relationships, and participating in the space, whether it's on Twitter, in a Discord community, on LinkedIn, all of that helps tremendously."
+        },
+        {
+            "timestamp": [
+                915.18,
+                917.88
+            ],
+            "text": " I guess figuring out what you want to do in the space."
+        },
+        {
+            "timestamp": [
+                917.88,
+                923.08
+            ],
+            "text": " There's a ton of projects and organizations that have job boards, some of them for women,"
+        },
+        {
+            "timestamp": [
+                923.56,
+                926.6
+            ],
+            "text": " that will help you find a career path"
+        },
+        {
+            "timestamp": [
+                926.6,
+                932.54
+            ],
+            "text": " or a job in the space and what you want to do. There is definitely a lot of opportunity going"
+        },
+        {
+            "timestamp": [
+                932.54,
+                936.6
+            ],
+            "text": " on right now. And there's a lot of companies coming into the space. And these companies"
+        },
+        {
+            "timestamp": [
+                936.6,
+                942.12
+            ],
+            "text": " need people that are knowledgeable about what's happening here. And there's just tons of"
+        },
+        {
+            "timestamp": [
+                942.12,
+                945.68
+            ],
+            "text": " opportunity. And there's going to be a lot more in the coming years"
+        },
+        {
+            "timestamp": [
+                945.68,
+                954.2
+            ],
+            "text": " last question here what do you see moving forward for the future of identity in the web3 space"
+        },
+        {
+            "timestamp": [
+                954.2,
+                961.52
+            ],
+            "text": " yeah first thing that i want to have is definitely interoperability that is the technology that"
+        },
+        {
+            "timestamp": [
+                961.52,
+                967.64
+            ],
+            "text": " allows you to move one asset from this platform to another one. You opting out"
+        },
+        {
+            "timestamp": [
+                967.64,
+                974.36
+            ],
+            "text": " from Twitter or you losing your job position, Cointelegraph potentially might result in them"
+        },
+        {
+            "timestamp": [
+                974.36,
+                979.66
+            ],
+            "text": " erasing all your results, all your publications or whatsoever. I want all of this to be decentralized."
+        },
+        {
+            "timestamp": [
+                979.96,
+                986.1
+            ],
+            "text": " I want to have one general system for different platforms, but you need to have a chance to"
+        },
+        {
+            "timestamp": [
+                986.1,
+                992.14
+            ],
+            "text": " move all these achievements, all these results, yourself, your identity to different ecosystems"
+        },
+        {
+            "timestamp": [
+                992.14,
+                993.34
+            ],
+            "text": " at no cost."
+        },
+        {
+            "timestamp": [
+                993.54,
+                999.34
+            ],
+            "text": " And you should be the co-creator having the access to open code without directly interacting"
+        },
+        {
+            "timestamp": [
+                999.34,
+                1003.76
+            ],
+            "text": " with developers, waiting for a couple of weeks for them to reply back, but actually have"
+        },
+        {
+            "timestamp": [
+                1003.76,
+                1005.18
+            ],
+            "text": " the user-friendly way,"
+        },
+        {
+            "timestamp": [
+                1005.38,
+                1011.02
+            ],
+            "text": " just like Wix, for example, allowing you to update your web page, allowing you to create"
+        },
+        {
+            "timestamp": [
+                1011.02,
+                1016.22
+            ],
+            "text": " the web page. The same goes to your identity. Digital identity. It's definitely going to keep"
+        },
+        {
+            "timestamp": [
+                1016.22,
+                1021.7
+            ],
+            "text": " evolving in this space. The stuff with the spellbound token on the Ethereum blockchain"
+        },
+        {
+            "timestamp": [
+                1021.7,
+                1027.68
+            ],
+            "text": " and how it ties to identity in the form of your set in stone"
+        },
+        {
+            "timestamp": [
+                1027.68,
+                1033.42
+            ],
+            "text": " identity, your birth identity is definitely interesting. The identity that you can create"
+        },
+        {
+            "timestamp": [
+                1033.42,
+                1040.26
+            ],
+            "text": " in Web3 for yourself, like for me, I enjoy building it, you know, because it's really,"
+        },
+        {
+            "timestamp": [
+                1040.52,
+                1047.18
+            ],
+            "text": " like you said, to be yourself, an extension of who you are. And also, it's something that"
+        },
+        {
+            "timestamp": [
+                1047.18,
+                1053.7
+            ],
+            "text": " people can recognize you by. And the fact that you can build it however you want it, I don't know,"
+        },
+        {
+            "timestamp": [
+                1053.76,
+                1061.08
+            ],
+            "text": " it's a very cool thing. And all these dApps and platforms that are coming out to assist in your"
+        },
+        {
+            "timestamp": [
+                1061.08,
+                1067.78
+            ],
+            "text": " Web3 identity building, it's exciting for sure all right nikita thank you so much for"
+        },
+        {
+            "timestamp": [
+                1067.78,
+                1074.72
+            ],
+            "text": " all the insight community building and identity are like super important where can people find"
+        },
+        {
+            "timestamp": [
+                1074.72,
+                1081.22
+            ],
+            "text": " you follow me on twitter whether you're a newbie entering the space or you actually have some"
+        },
+        {
+            "timestamp": [
+                1081.22,
+                1086.58
+            ],
+            "text": " questions for me as the verbs writer or brand consultant around NFT."
+        },
+        {
+            "timestamp": [
+                1086.84,
+                1089.82
+            ],
+            "text": " So also my podcast, WinWeb3."
+        },
+        {
+            "timestamp": [
+                1090.1,
+                1092.52
+            ],
+            "text": " Make sure that you follow me on YouTube."
+        },
+        {
+            "timestamp": [
+                1092.8,
+                1098.04
+            ],
+            "text": " Here in Europe, I'm coming to London, November 3rd till 4th to NFT London."
+        },
+        {
+            "timestamp": [
+                1098.32,
+                1099.96
+            ],
+            "text": " Pretending there are multiple stages."
+        },
+        {
+            "timestamp": [
+                1100.22,
+                1102.52
+            ],
+            "text": " Always happy to have a cup of coffee."
+        },
+        {
+            "timestamp": [
+                1102.82,
+                1107.0
+            ],
+            "text": " Perhaps next year I'm visiting you in ZS for NFT NYC."
+        },
+        {
+            "timestamp": [
+                1107.76,
+                1110.26
+            ],
+            "text": " That is the best possible way to connect with me."
+        },
+        {
+            "timestamp": [
+                1110.94,
+                1113.92
+            ],
+            "text": " So Nikita, thank you so much for coming on NFT and Chill."
+        },
+        {
+            "timestamp": [
+                1114.22,
+                1119.38
+            ],
+            "text": " And definitely check out Nikita's podcast, especially the episode that I'm in."
+        },
+        {
+            "timestamp": [
+                1119.86,
+                1121.0
+            ],
+            "text": " Especially this one."
+        },
+        {
+            "timestamp": [
+                1121.18,
+                1123.16
+            ],
+            "text": " It's called All Things Web3."
+        },
+        {
+            "timestamp": [
+                1123.38,
+                1124.48
+            ],
+            "text": " Definitely check it out."
+        },
+        {
+            "timestamp": [
+                1124.96,
+                1125.0
+            ],
+            "text": " And that's it for this week's show. I want to thank my guest Nikita Sikalu for coming on. especially this one, called All Things Web3. Definitely check it out."
+        },
+        {
+            "timestamp": [
+                1126.28,
+                1126.42
+            ],
+            "text": " And that's it for this week's show."
+        },
+        {
+            "timestamp": [
+                1129.28,
+                1132.12
+            ],
+            "text": " I want to thank my guest, Nikita Sikalu, for coming on and also having me on his show, We in Web3."
+        },
+        {
+            "timestamp": [
+                1132.7,
+                1136.4
+            ],
+            "text": " Decentralized identity is the backbone of Web3,"
+        },
+        {
+            "timestamp": [
+                1136.58,
+                1140.24
+            ],
+            "text": " and I think everybody should know the importance"
+        },
+        {
+            "timestamp": [
+                1140.24,
+                1142.68
+            ],
+            "text": " of building a personal identity,"
+        },
+        {
+            "timestamp": [
+                1143.04,
+                1147.06
+            ],
+            "text": " making sure your reputation in Web3 is the way that you"
+        },
+        {
+            "timestamp": [
+                1147.06,
+                1152.62
+            ],
+            "text": " want it, because it can be however you want it to be. And it's going to be more important as the"
+        },
+        {
+            "timestamp": [
+                1152.62,
+                1159.36
+            ],
+            "text": " space keeps growing. I want to thank my sponsor, Zengo, for bringing this week's episode. I'm very"
+        },
+        {
+            "timestamp": [
+                1159.36,
+                1167.86
+            ],
+            "text": " excited about having Zengo as a sponsor. This took months of getting offers from companies, from NFT projects"
+        },
+        {
+            "timestamp": [
+                1167.86,
+                1173.2
+            ],
+            "text": " for me to find the right fit for the show because the show is about education. It's about awareness"
+        },
+        {
+            "timestamp": [
+                1173.2,
+                1180.7
+            ],
+            "text": " and Web3 and being safe in the space. And Zengo fits those categories perfectly. They focus so"
+        },
+        {
+            "timestamp": [
+                1180.7,
+                1185.22
+            ],
+            "text": " much on safety and keeping your assets safe."
+        },
+        {
+            "timestamp": [
+                1185.42,
+                1186.58
+            ],
+            "text": " Definitely check it out."
+        },
+        {
+            "timestamp": [
+                1186.76,
+                1188.2
+            ],
+            "text": " See if it's a good fit for you."
+        },
+        {
+            "timestamp": [
+                1188.38,
+                1195.38
+            ],
+            "text": " By creating your free wallet, you'll be helping NFT and Chill bring more guests and more content."
+        },
+        {
+            "timestamp": [
+                1195.38,
+                1200.86
+            ],
+            "text": " So I just want to thank every single person for listening and subscribing to the show."
+        },
+        {
+            "timestamp": [
+                1201.0,
+                1203.48
+            ],
+            "text": " Make sure you're subscribed so you don't miss an episode."
+        },
+        {
+            "timestamp": [
+                1203.86,
+                1208.76
+            ],
+            "text": " We've got another incredible guest, another interesting topic for next week. I'm the Mayor,"
+        },
+        {
+            "timestamp": [
+                1208.94,
+                1210.98
+            ],
+            "text": " and you've been listening to the NFT and Chill Podcast."
+        }
+    ],
+    "text": " Welcome back to another exciting week in the Web3 universe. I'm your host, The Mayor, and you're listening to the best NFT media nominated NFT and Chill podcast, the show that discusses interesting topics with artists, creators, and thought leaders from the Web3 space. On this week's episode, we have Nikita Sikalu, who is a brand consultant, the host of We in Web3. He'll be on the show to discuss Web3 identity, brand building, and community in the space. So sit back and chill while we explore the exciting world of Web3 and NFTs together. I want to welcome a friend of mine in the space, Nikita Sikaluk. I'm really happy to be in your podcast here today. I'm doing amazing, my man. I just came back from London, from Zeeblu Live. I was one of the headline speakers. Absolutely enjoyed the Web3 atmosphere there. You just were in my podcast a couple of weeks ago, We in Web3, the podcast about space being built by people, for people. Ty was one of my first guests, so I do believe that this episode is going to air around the dates of this podcast for those who are looking for more insights about Ty's background and his vision about the space. Yeah, I'm happy to have you here. You want to give the listeners an introduction? I'm an early advocate of the Web3 space in 2017 with main focus on NFTs from utility development and community development. Basically, on the one side, I'm a brand consultant for NFT project, helping them to develop loyal communities, a topic that we're going to cover with you here today. I'm also a member of different international communities all around the world, like NFT Factory in Paris or Blockchain Alliance in Warsaw, educating people, also learning from them. Lastly, I'm also a Forbes Web3 writer, which I've been doing for a couple of years now, wearing different hats, exploring the space, throwing those people around NFTs and developing my own community. Being in Web3, wearing a lot of hats is definitely what you have to do in this space because it never sleeps. We have a lot of similarities in things we do. I'm excited to have you on the show. So we're definitely going to get into brand building, how it ties into a little bit of the brand building side and how NFT projects need to go about that you promised, when you need to have some internal utility benefit for holders to be a part of this community. And all of this implies that for the first time in this space, new projects or existing projects need to focus on the community itself. What we need to do right now is to build by people for people. That is the way how new projects and existing big ones can remain relevant in 10 years from now. At the end of the day, we're building this space for people to be active, for people to enjoy it, not just for the sake of having it. No one still knows what that free space, NFTs in particular, can look like in 10-15 years from now. But if your thesis is as close as I am to the NFT growth and NFT development, meaning that NFT are here to stay, NFTs are going to be used in ticketing, in entertainment, loyal club development, then you need to understand that that is the right time to build for people. Not just for pursing some of your dreams and making quick money, which might also be one of those elements. But if you want to stay here relevant for years from now, that is actually building around people's needs when it comes to utilities, to the benefits that you bring them. Hearing their own opinion, make better adjustments to the project later on. Feedback system in V Web3, that is perhaps the most efficient feedback system I've ever seen. For the first time in human history, brands entering the space have a chance to connect with their holders. Let's take, for example, Nike or Adidas. Me buying those shoes does not give any decision-making power. I'm just one of millions of people and brands don't know any information about my preferences, about my beliefs, since the blockchain is publicly available information. Those brands can actually make better decision-making mechanism based on it because they see what are some of other NFT projects I'm holding, for how long I've been a member of their community and how should I be rewarded. That is the most efficient and most transparent feedback system there in the blockchain apart from in real life events, apart from communications through Discord. You are the one who has at least a small chance of changing the trajectory of the brand future by proposing something, advising, making changes. That's the beauty of this space and that's how brands coming to NFTs should approach it right now. Yeah, absolutely. Just the fact that you as a community member have a lot more ownership and a lot more say in what the brand or project or company has moving forward that's the beauty about this space and those businesses those companies and brands know that and they encourage that let's put it to where a brand or a project comes to you and they're looking to make an impact in the space i guess what would you tell them for their brand building process? Brilliant question. The first thing that comes to my mind, the main difference between Web2 and Web3 is the role of founders. In Web2, you as the founder of the brand, you need to be a good marketer, to know how to recruit folks, you need to develop strategic partnerships, and at the same time, you need to run the team itself. Here in VAP3, you have a chance to give some of these positions, give some of these roles to community members. Some community members might hold t-shirt manufacturing, which makes the cost of your merchandise lower, the process more efficient. Some people, as you just mentioned for example discord moderators would love to join the team for the sake of contributing and being a part of the family because love your vision and that is the beauty of this space and secondly that three space and not that much about money so don't get me wrong it's still about profit it's still about sustainable projects if community there wasn't that important in that too, you could develop an e-commerce brand without actually getting feedback from your clients and just making millions. It's not going to work in that way. It's going to work till a certain period of time when your project will be called a ragpull, when your project is going to die because demand is so low. People are selling NFTs. People are selling this digital land in favor of your competitor who actually ask for their feedback, actually give some voting rights, decision-making power to those people. So in VAP2, it was only about money. In VAP3, there is a money element, which perhaps would take the majority part of it, but there is also a community part. Building with people, building for people, building around people. That is the beauty of this space. Recently, Cristiano Ronaldo had signed a deal with Binance to be their advisor for sport NFTs. For example, this May, Pharrell Williams joined Doodles as the chief of brand. We still don't know what these roles imply, but the fact that Pharrell Williams has tens of millions of fans all around the world, and he might potentially educate them about blockchain, about Web3 space and this specific project, it's a win-win situation for both. So do not underestimate the human factor here when building in Web3. And that's a really great example too, especially with Cristiano Ronaldo. Personal brand is such a huge factor in this space. I mentioned it on episode 32. I think it's kind of everyone's duty in this space to kind of build a personal brand. And it's kind of your reputation in Web3. And having a good reputation, even if it's a small reputation, it's something of your reputation in Web3. And having a good reputation, even if it's a small reputation, it's something that's important because you don't have to go by the name that's on your birth certificate or your driver's license. You can kind of create your own identity in the space and that's the beauty of it. In terms of building a personal brand, this kind of goes out to everyone in the space what suggestions do you have and how do you personally go about it wow i love this topic so much i'm a big fan of digital identity me you can see i'm a fully doxed what does this imply i'm not hiding my personality my personal life i'm even having my face as a TFP, as a picture of my Twitter with my full name. So I'm fully doxxed. You can find all the information online. And the reason I have chosen it, just like in your case, because I'm extremely active both on stage presenting at some conferences, coming to some meetups, and off stage when connecting with my clients, I'm here myself. I have a big story in Web2, which I also want at a certain period of time to combine with my current Web3 personality. I have LinkedIn for my Web2 story and Twitter for Web3 personality. But me being doxed ensures that they can see my background. As you mentioned on the blockchain in Web3, you have only one try. You have only one identity. And if you fucked up, you're in big trouble because everything is publicly available. There have been so many stories. Take, for example, Azuki. Co-founders were hiding previous red pools for years. But at the end of the day, it's going to be visible. And the more we advance in Web3 space, the more easier it would be for you to track all the previous history, all previous identities. So I choose to be transparent. I choose to be thoughtful to what I do. How do I communicate with people? That's why I'm a doctor. I don't have any problems with Anons at all. Take, for example, Betty from Deadfellas. She has been a mystery for all of us for a while. Finally, this May, during Quickthon, she decided that, you know what? Me and my family, we're ready. So I'm gonna adopt myself. I do believe the beauty of this space. What do you want to be? What do you want to achieve? What do you want to focus on? The space is so young. You can do whatever you want by being whoever you want. It's completely up to you. So I encourage everyone, every young girl and boy just start doing some stuff you learn by doing it and right now during the bear market they're saying that there is no bear market there is only build market that is your best time to learn and understand how the technology works that's absolutely great advice and things do tend to come out in the wash in this space we've seen so many people who've done not so great things. You know, you're surprised by when it comes out. Like, how did it come out? But everything is definitely public. There are people out there that are tracing things and trying to figure out what people have done in the history. Being mindful about what you're doing in the space, I think is just something that everyone should be. And building your personal brand, it shouldn't be like this big daunting thing. You get to choose how you want to be seen in the space. And I think that's an awesome part of it as well. You mentioned Soulbound Token. Why don't you explain to the listeners what that is? Yeah. In a simple word, Solbon token is an NFT that is granted to you without transfer or trading or reselling activities. That is something that is coming from Vitalik Solbon token paper from this May. You couldn't sell on the market, transfer to your friends. So it belonged only to your brand. Here in VAT3, Solbon's token would allow us to have some documents and achievements that cannot be resold later on. Think for example about the identity of birth, certificate of completion at university or maybe you winning some of big tournaments, championships. This NFT form of diploma or certificate will be granted for you further on you cannot reassign it to anyone else belong to you for the whole of your life that's the concept itself the fact that it can't be transferred and it also can't be duplicated or somebody can't like make one up i think is a really cool part of the Soulbound token. If you have the certificate, because people make, you know, certificates and achievements for themselves all the time. And I think it adds a little bit of safety. Possibilities for it are endless. Think of it as LinkedIn on the blockchain. You cannot add those years to your work experience without actually being there and your recruiter might even have been granted an access to leave some testimonial for your achievements for a specific project and everything is publicly visible on blockchain everything is stored for the whole life on the blockchain that's why topic of digital identity and doing it in a transparent way is so important right now absolutely there's a lot of listeners out there who are either in this space for a while, or they're just getting in, or they're curious about the space, and they think they might want to find work in the space or a job. What would be your best advice for people who are trying to make a career out of Web3 or trying to find a job in this growing space the biggest advice i have right now and that's something that is coming from my personal experience don't be in a rush the space is so early right now try to understand the niche would fascinate you the most whether it's digital, whether it's gaming in Web3, utility-based NFTs, be a member of a couple of projects, being a moderator in their Discord, learning about this specific project and overall phase. Build your own thesis for the next 5 to 10 years to understand what do you expect from this space, so that when the time comes and you are much more knowledgeable, you are already a part of some team, enjoy the moment, build with people. Because on your own, it's going to be too complicated. You need a community of loyal people, advocates of the space who are going to share the same vision and build together with you. Slowly but constantly build what you are aiming to achieve in this space in the upcoming years. Yeah, absolutely. to achieve in this space in the upcoming years. Yeah, absolutely. Networking, building relationships, and participating in the space, whether it's on Twitter, in a Discord community, on LinkedIn, all of that helps tremendously. I guess figuring out what you want to do in the space. There's a ton of projects and organizations that have job boards, some of them for women, that will help you find a career path or a job in the space and what you want to do. There is definitely a lot of opportunity going on right now. And there's a lot of companies coming into the space. And these companies need people that are knowledgeable about what's happening here. And there's just tons of opportunity. And there's going to be a lot more in the coming years last question here what do you see moving forward for the future of identity in the web3 space yeah first thing that i want to have is definitely interoperability that is the technology that allows you to move one asset from this platform to another one. You opting out from Twitter or you losing your job position, Cointelegraph potentially might result in them erasing all your results, all your publications or whatsoever. I want all of this to be decentralized. I want to have one general system for different platforms, but you need to have a chance to move all these achievements, all these results, yourself, your identity to different ecosystems at no cost. And you should be the co-creator having the access to open code without directly interacting with developers, waiting for a couple of weeks for them to reply back, but actually have the user-friendly way, just like Wix, for example, allowing you to update your web page, allowing you to create the web page. The same goes to your identity. Digital identity. It's definitely going to keep evolving in this space. The stuff with the spellbound token on the Ethereum blockchain and how it ties to identity in the form of your set in stone identity, your birth identity is definitely interesting. The identity that you can create in Web3 for yourself, like for me, I enjoy building it, you know, because it's really, like you said, to be yourself, an extension of who you are. And also, it's something that people can recognize you by. And the fact that you can build it however you want it, I don't know, it's a very cool thing. And all these dApps and platforms that are coming out to assist in your Web3 identity building, it's exciting for sure all right nikita thank you so much for all the insight community building and identity are like super important where can people find you follow me on twitter whether you're a newbie entering the space or you actually have some questions for me as the verbs writer or brand consultant around NFT. So also my podcast, WinWeb3. Make sure that you follow me on YouTube. Here in Europe, I'm coming to London, November 3rd till 4th to NFT London. Pretending there are multiple stages. Always happy to have a cup of coffee. Perhaps next year I'm visiting you in ZS for NFT NYC. That is the best possible way to connect with me. So Nikita, thank you so much for coming on NFT and Chill. And definitely check out Nikita's podcast, especially the episode that I'm in. Especially this one. It's called All Things Web3. Definitely check it out. And that's it for this week's show. I want to thank my guest Nikita Sikalu for coming on. especially this one, called All Things Web3. Definitely check it out. And that's it for this week's show. I want to thank my guest, Nikita Sikalu, for coming on and also having me on his show, We in Web3. Decentralized identity is the backbone of Web3, and I think everybody should know the importance of building a personal identity, making sure your reputation in Web3 is the way that you want it, because it can be however you want it to be. And it's going to be more important as the space keeps growing. I want to thank my sponsor, Zengo, for bringing this week's episode. I'm very excited about having Zengo as a sponsor. This took months of getting offers from companies, from NFT projects for me to find the right fit for the show because the show is about education. It's about awareness and Web3 and being safe in the space. And Zengo fits those categories perfectly. They focus so much on safety and keeping your assets safe. Definitely check it out. See if it's a good fit for you. By creating your free wallet, you'll be helping NFT and Chill bring more guests and more content. So I just want to thank every single person for listening and subscribing to the show. Make sure you're subscribed so you don't miss an episode. We've got another incredible guest, another interesting topic for next week. I'm the Mayor, and you've been listening to the NFT and Chill Podcast."
+}
