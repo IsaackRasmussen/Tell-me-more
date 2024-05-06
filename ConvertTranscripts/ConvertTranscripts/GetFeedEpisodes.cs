@@ -44,7 +44,7 @@ public class FeedEpisodes
 
                     sw.WriteLine($"insanely-fast-whisper --file-name \"{mediaFilePath}\" --transcript-path \"{metaFilePath}\" --batch-size 4 --hf-token *");
                     /*var startInfo = new ProcessStartInfo("insanely-fast-whisper",
-                        $"--file-name \"{mediaFilePath}\" --transcript-path \"{metaFilePath}\" --batch-size 4 --hf-token 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");
+                        $"--file-name \"{mediaFilePath}\" --transcript-path \"{metaFilePath}\" --batch-size 4 --hf-token *");
                     startInfo.RedirectStandardOutput = false;
 
                     Console.WriteLine("Transcribing file: " + mediaFilePath);
