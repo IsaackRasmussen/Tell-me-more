@@ -1,0 +1,34 @@
+[
+    {
+        "id": 3,
+        "url": "https://anchor.fm/s/4d70d828/podcast/rss",
+        "name": "Open Minds … from Creative Commons",
+        "reserved_until": null,
+        "reservation_key": null,
+        "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12892410/12892410-1613674549954-b2efc05b9037a.jpg"
+    },
+    {
+        "id": 2,
+        "url": "https://anchor.fm/s/4c8265f8/podcast/rss",
+        "name": "CNCAST",
+        "reserved_until": null,
+        "reservation_key": null,
+        "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12736142/12736142-1613163199310-23fdc40a9a951.jpg"
+    },
+    {
+        "id": 1,
+        "url": "https://anchor.fm/s/aa513628/podcast/rss",
+        "name": "Contextualizing Feminist Voices",
+        "reserved_until": null,
+        "reservation_key": null,
+        "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/28474490/28474490-1658535609779-a5b2eae43134b.jpg"
+    },
+    {
+        "id": 4,
+        "url": "https://knifepointhorror.libsyn.com/rss",
+        "name": "Knifepoint Horror",
+        "reserved_until": null,
+        "reservation_key": null,
+        "image_url": "https://static.libsyn.com/p/assets/d/5/d/2/d5d2932f982bbfb3/Bosch3.jpg"
+    }
+]

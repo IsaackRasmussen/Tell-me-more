@@ -8,6 +8,11 @@ import Button from 'primevue/button';
 defineProps<{
     episode: any
 }>()
+
+function gotoEpisode() {
+    
+}
+
 </script>
 
 <template>
@@ -24,7 +29,7 @@ defineProps<{
             </p>
         </template>
         <template #footer>
-            <Button icon="pi pi-play" label="Play" />
+            <Button icon="pi pi-play" label="Play" @click="gotoEpisode"/>
         </template>
     </Card>
 </template>

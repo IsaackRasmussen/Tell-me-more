@@ -1,1 +1,1919 @@
-{"speakers": [{"speaker": "SPEAKER_02", "timestamp": [0.0, 13.84], "text": " Welcome to Contextualizing Feminist Voices, Teaching with the Global Feminisms Project."}, {"speaker": "SPEAKER_02", "timestamp": [14.42, 20.02], "text": " This series is focused on teaching, pedagogy, and uses of the archive in the context of the classroom."}, {"speaker": "SPEAKER_02", "timestamp": [20.6, 25.16], "text": " Designed with a special emphasis on educators, in each episode, you will learn from instructors"}, {"speaker": "SPEAKER_02", "timestamp": [25.16, 29.52], "text": " who have used the project's interviews in their courses, and about activities and resources"}, {"speaker": "SPEAKER_02", "timestamp": [29.52, 31.88], "text": " for incorporating the archive into your class."}, {"speaker": "SPEAKER_00", "timestamp": [32.14, 37.14], "text": " Today, Dr. Desi Rios, Associate Professor of Social Psychology at the University of"}, {"speaker": "SPEAKER_00", "timestamp": [37.14, 40.44], "text": " Houston, Clear Lake, joins us on the podcast."}, {"speaker": "SPEAKER_00", "timestamp": [41.12, 46.8], "text": " Dr. Rios has published on intersectionality in the academy, including pedagogical practices"}, {"speaker": "SPEAKER_00", "timestamp": [46.8, 54.58], "text": " and faculty and student experiences. Dr. Rios' current research focuses on examining collaborative"}, {"speaker": "SPEAKER_00", "timestamp": [54.58, 61.12], "text": " practices among non-profit organizations in Houston's East End and the benefits of Latinx"}, {"speaker": "SPEAKER_00", "timestamp": [61.12, 65.42], "text": " students learning about their history in K-12 education."}, {"speaker": "SPEAKER_00", "timestamp": [71.84, 76.84], "text": " And she's currently writing the first Psychology of Latinx People textbook in the field of psychology."}, {"speaker": "SPEAKER_00", "timestamp": [82.38, 83.12], "text": " So, Desi, can you briefly describe the course you use the archive in?"}, {"speaker": "SPEAKER_01", "timestamp": [86.78, 93.62], "text": " Yes. First, I'd like to contextualize the type of institution I work at. So I am at the University of Houston Clear Lake. It is an HSI, so Hispanic Serving"}, {"speaker": "SPEAKER_01", "timestamp": [93.62, 100.68], "text": " Institution. It is a regional comprehensive university with about just over 9,000 students"}, {"speaker": "SPEAKER_01", "timestamp": [100.68, 107.64], "text": " enrolled. So we offer undergraduate and master's level degrees. 53% of our students"}, {"speaker": "SPEAKER_01", "timestamp": [107.64, 115.44], "text": " identify as first generation college students. 42% identify as Latinx or Hispanic or Latino."}, {"speaker": "SPEAKER_01", "timestamp": [116.18, 121.64], "text": " And the majority of our students also identify as working class. They have full-time jobs. They are"}, {"speaker": "SPEAKER_01", "timestamp": [121.64, 126.32], "text": " parents. And the students tend to be older with a median age"}, {"speaker": "SPEAKER_01", "timestamp": [126.32, 134.02], "text": " range between 28 and 32. I also want to describe my teaching style. All my classes are framed as"}, {"speaker": "SPEAKER_01", "timestamp": [134.02, 140.96], "text": " social justice oriented. So students know that we're going to be applying psychology to social"}, {"speaker": "SPEAKER_01", "timestamp": [140.96, 145.92], "text": " issues, which is sometimes surprising to students who are taking personality classes or"}, {"speaker": "SPEAKER_01", "timestamp": [145.92, 151.8], "text": " even social psychology sometimes. And because of this, I have found the Global Feminism's archive"}, {"speaker": "SPEAKER_01", "timestamp": [151.8, 158.32], "text": " to be really useful. Okay, so the two classes that I use the archive in most frequently"}, {"speaker": "SPEAKER_01", "timestamp": [158.32, 163.82], "text": " are the psychology of women and gender, and this is at the undergraduate level."}, {"speaker": "SPEAKER_01", "timestamp": [163.82, 165.94], "text": " of women and gender, and this is at the undergraduate level."}, {"speaker": "SPEAKER_01", "timestamp": [170.3, 171.4], "text": " Usually this enrolls juniors and seniors, sometimes sophomores."}, {"speaker": "SPEAKER_01", "timestamp": [174.32, 174.96], "text": " Usually about 30 to 40 students are enrolled."}, {"speaker": "SPEAKER_01", "timestamp": [181.26, 181.38], "text": " So it's a smaller class, I think, compared to like Michigan, 150 student class."}, {"speaker": "SPEAKER_01", "timestamp": [183.4, 187.04], "text": " But it is one of our larger classes. It is lecture-ish, and I say lecture-ish"}, {"speaker": "SPEAKER_01", "timestamp": [187.04, 192.18], "text": " because there's lots of questions I build into the lecture, and I encourage students to interrupt as"}, {"speaker": "SPEAKER_01", "timestamp": [192.18, 197.92], "text": " things might come up for them. We do a lot of small group work in the class that is led by them."}, {"speaker": "SPEAKER_01", "timestamp": [198.5, 206.32], "text": " I also use the archive in the psychology of gender, race, and sexuality, which is a master's level course."}, {"speaker": "SPEAKER_01", "timestamp": [207.24, 214.66], "text": " This class is basically about intersectionality, meaning this is a thread throughout the course."}, {"speaker": "SPEAKER_01", "timestamp": [214.98, 220.12], "text": " Students are always putting, you know, practicing using an intersectional lens."}, {"speaker": "SPEAKER_01", "timestamp": [221.02, 227.9], "text": " We do two weeks of reading on intersectionality power privilege oppression at the beginning"}, {"speaker": "SPEAKER_01", "timestamp": [227.9, 233.6], "text": " and that is to lay the foundation for a semester-long project called the intersectionality"}, {"speaker": "SPEAKER_01", "timestamp": [233.6, 249.06], "text": " project which I'll talk about a little bit later so in this class the enrollment is around 15 to 25 students. Excellent. Thank you so much. And thank you for such a great detail"}, {"speaker": "SPEAKER_00", "timestamp": [249.06, 255.64], "text": " of all your classes and of course, the composition of the university. And I was wondering,"}, {"speaker": "SPEAKER_00", "timestamp": [255.88, 261.12], "text": " how do you use the material in the archive and in what different ways?"}, {"speaker": "SPEAKER_01", "timestamp": [262.36, 268.6], "text": " So for the psychology of women course, when I was a graduate student at Michigan, Lilia"}, {"speaker": "SPEAKER_01", "timestamp": [268.6, 270.72], "text": " Cortina was one of my teaching mentors."}, {"speaker": "SPEAKER_01", "timestamp": [271.96, 278.12], "text": " And, you know, as a GSI, you are grading, you're learning how to assess student assignments,"}, {"speaker": "SPEAKER_01", "timestamp": [278.2, 279.68], "text": " they're learning and that type of thing."}, {"speaker": "SPEAKER_01", "timestamp": [279.74, 280.76], "text": " So we did most of that."}, {"speaker": "SPEAKER_01", "timestamp": [281.04, 287.68], "text": " But there was one assignment that she read and graded herself. And that was"}, {"speaker": "SPEAKER_01", "timestamp": [287.68, 295.08], "text": " the interview assignment. And she talked about how these interviews were so meaningful and she"}, {"speaker": "SPEAKER_01", "timestamp": [295.08, 301.16], "text": " really enjoyed reading them. So when I got to teach my own class, I decided to use that assignment as"}, {"speaker": "SPEAKER_01", "timestamp": [301.16, 305.38], "text": " well. And so basically it is about learning about women who are different from"}, {"speaker": "SPEAKER_01", "timestamp": [305.38, 311.94], "text": " you. So you can either choose a woman who is 60 years or older, or you can choose someone who's"}, {"speaker": "SPEAKER_01", "timestamp": [311.94, 316.04], "text": " different from you in terms of where they grew up, you know, different countries, sexual orientation,"}, {"speaker": "SPEAKER_01", "timestamp": [316.16, 337.88], "text": " those types of things. So as I mentioned early, many of our students are from the working class and they work full-time jobs. So asking them to do something in addition to their coursework can be very burdensome. It's a lot to add to their already full plates."}, {"speaker": "SPEAKER_01", "timestamp": [346.68, 353.28], "text": " are okay with interviewing someone they know. But for other students, this is an excellent opportunity for them to get to know, so to speak, someone fascinating, right? So the GFP"}, {"speaker": "SPEAKER_01", "timestamp": [353.28, 360.64], "text": " archive I added to my classes. So a lot of students actually choose to read through the GFP articles"}, {"speaker": "SPEAKER_01", "timestamp": [360.64, 367.04], "text": " and then complete their assignment. For a lot of students, this is really inspiring"}, {"speaker": "SPEAKER_01", "timestamp": [367.04, 374.44], "text": " to learn about someone that they kind of identify with who, you know, might come from a similar"}, {"speaker": "SPEAKER_01", "timestamp": [374.44, 380.28], "text": " background. And then they learn about the, you know, the trajectory of these women and these"}, {"speaker": "SPEAKER_01", "timestamp": [380.28, 386.88], "text": " accomplishments and their activism or scholarship, they might choose someone entirely"}, {"speaker": "SPEAKER_01", "timestamp": [386.88, 392.94], "text": " different. And this opens up the world to students who have may never have left the city of Houston,"}, {"speaker": "SPEAKER_01", "timestamp": [393.32, 398.38], "text": " for example. So it's a real opportunity for them to learn about the world."}, {"speaker": "SPEAKER_01", "timestamp": [399.04, 406.58], "text": " For the psychology of gender, race, and sexuality class, students collectively engage in this intersectionality"}, {"speaker": "SPEAKER_01", "timestamp": [406.58, 411.98], "text": " project, which is a semester-long project. As a class, they choose one social issue."}, {"speaker": "SPEAKER_01", "timestamp": [413.56, 418.76], "text": " And if you're interested to learn more about this project, it's laid out in Kim Case's edited book,"}, {"speaker": "SPEAKER_01", "timestamp": [418.86, 427.9], "text": " Intersectional Pedagogy, and you can learn about how to do this assignment step-by-step. So, okay. But to be"}, {"speaker": "SPEAKER_01", "timestamp": [427.9, 435.16], "text": " brief, students choose one social issue, such as reproductive justice or sexual violence, or"}, {"speaker": "SPEAKER_01", "timestamp": [435.16, 441.8], "text": " even access to, you know, education and those types of things. And then they choose the groups"}, {"speaker": "SPEAKER_01", "timestamp": [441.8, 451.62], "text": " that they want to research, such as Latinx people, white men, people with disabilities, LGBTQ folks, which inevitably they learn they have to use"}, {"speaker": "SPEAKER_01", "timestamp": [451.62, 456.42], "text": " an intersectional lens, right? Because even Latinx people, you know, we start to look,"}, {"speaker": "SPEAKER_01", "timestamp": [456.78, 461.34], "text": " our experiences are different when you start to consider gender, social class, colorism,"}, {"speaker": "SPEAKER_01", "timestamp": [461.34, 465.6], "text": " the rest of that. So they apply social side concepts as we learn over the"}, {"speaker": "SPEAKER_01", "timestamp": [465.6, 470.58], "text": " semester, but an important component of intersectionality, of course, is understanding"}, {"speaker": "SPEAKER_01", "timestamp": [470.58, 479.14], "text": " the social structures and systems of oppression. And this is where the GFP comes in. So as their"}, {"speaker": "SPEAKER_01", "timestamp": [479.14, 487.0], "text": " final presentation or exam, they do these small group presentations for the class. And here we get to"}, {"speaker": "SPEAKER_01", "timestamp": [487.0, 493.62], "text": " see how one social issue may affect different groups differently, but we also get to see some"}, {"speaker": "SPEAKER_01", "timestamp": [493.62, 500.44], "text": " overlap or commonalities, and then we can discuss on how we can work together. But I asked them"}, {"speaker": "SPEAKER_01", "timestamp": [500.44, 505.84], "text": " to identify one organization in Houston, so something local in Houston or in Texas,"}, {"speaker": "SPEAKER_01", "timestamp": [505.84, 512.08], "text": " if they can't find anything in Houston. And then also for a national or international perspective,"}, {"speaker": "SPEAKER_01", "timestamp": [512.08, 516.32], "text": " they need to identify one GFP interviewee who's also working on that social issue."}, {"speaker": "SPEAKER_01", "timestamp": [517.12, 528.52], "text": " So they compare and they contrast how local policy or advocacy plays out, but also how the GFP interviewees advocacy, what that looks like."}, {"speaker": "SPEAKER_01", "timestamp": [528.98, 534.68], "text": " And so this really opens the conversation for what we can do better in Texas, which is a lot."}, {"speaker": "SPEAKER_00", "timestamp": [537.18, 547.6], "text": " Thank you so much. It's so fascinating the way in which, from what you described, all the materials seem to fit so great into your"}, {"speaker": "SPEAKER_00", "timestamp": [547.6, 553.98], "text": " courses, but at the same time, you're able to work with them in different ways. It's amazing."}, {"speaker": "SPEAKER_00", "timestamp": [554.28, 562.92], "text": " They are millable, but they also seem to fit amazingly. So thank you. And so as a follow-up"}, {"speaker": "SPEAKER_00", "timestamp": [562.92, 571.04], "text": " to the previous question, what do you think that is most effective about the way you use the global feminisms material?"}, {"speaker": "SPEAKER_01", "timestamp": [572.4, 586.1], "text": " Well, there's a couple of things. So the first one is that I use I also use the interviews in lectures and they lend themselves very well to various social issues, as I mentioned. For the psychology of women course,"}, {"speaker": "SPEAKER_01", "timestamp": [586.22, 593.82], "text": " the interviews really bring to life these theories or these outcomes that are reported by researchers."}, {"speaker": "SPEAKER_01", "timestamp": [594.44, 601.42], "text": " And I want to share a particular story about the power of representation that the archive offers."}, {"speaker": "SPEAKER_01", "timestamp": [602.04, 605.8], "text": " And so I've always used Adrienne Ashe's interview from the U.S. site"}, {"speaker": "SPEAKER_01", "timestamp": [605.8, 611.7], "text": " in my courses because I think she's really powerful. And I remember as a grad student"}, {"speaker": "SPEAKER_01", "timestamp": [611.7, 617.46], "text": " thinking how wonderful, what a wonderful job the U.S. site, which was led by Liz Cole,"}, {"speaker": "SPEAKER_01", "timestamp": [618.3, 626.0], "text": " what a wonderful job they had done in terms of representation of the United States and the work that was being done here."}, {"speaker": "SPEAKER_01", "timestamp": [627.14, 633.82], "text": " When I saw Adrienne Ashe's interview, it occurred to me that this was something I had never thought"}, {"speaker": "SPEAKER_01", "timestamp": [633.82, 639.66], "text": " about, you know, people with disabilities. And so watching her interview really changed my life."}, {"speaker": "SPEAKER_01", "timestamp": [639.66, 645.4], "text": " And so I started to use it in my Psych of women class and also psych of gender. And then when appropriate,"}, {"speaker": "SPEAKER_01", "timestamp": [645.46, 651.24], "text": " my other courses, because I thought if I've never thought about this issue, there's got to be other"}, {"speaker": "SPEAKER_01", "timestamp": [651.24, 657.56], "text": " people out there who are not thinking about disability. So one semester I had a really"}, {"speaker": "SPEAKER_01", "timestamp": [657.56, 665.7], "text": " talented student who also happened to have a physical disability. And she later told me that I was the first teacher or instructor professor"}, {"speaker": "SPEAKER_01", "timestamp": [665.7, 673.36], "text": " ever to include research on about people with disabilities, but not in a way that sort of"}, {"speaker": "SPEAKER_01", "timestamp": [673.36, 683.0], "text": " pities them. But by introducing Adrian Ash, she really felt empowered and inspired. And so this"}, {"speaker": "SPEAKER_01", "timestamp": [683.0, 686.8], "text": " is just one example of how the archive can be really meaningful to"}, {"speaker": "SPEAKER_01", "timestamp": [686.8, 697.2], "text": " our students in ways that might be invisible to us. So the second way that I think the"}, {"speaker": "SPEAKER_01", "timestamp": [697.2, 704.18], "text": " GFP materials can be used effectively, and I'm going to borrow a phrase from a colleague and"}, {"speaker": "SPEAKER_01", "timestamp": [704.18, 710.34], "text": " friend, Delia Sainz, who's a social psychologist and now at UC Merced. So this phrase, mirrors and windows,"}, {"speaker": "SPEAKER_01", "timestamp": [710.5, 717.52], "text": " captures what the GFP offers. So the archive is so rich, it covers so many countries, so many issues,"}, {"speaker": "SPEAKER_01", "timestamp": [717.52, 723.68], "text": " and our students are likely to find someone they can identify with. So this is sort of a mirror"}, {"speaker": "SPEAKER_01", "timestamp": [723.68, 730.58], "text": " where they get to see themselves reflected, which is often the case still in curriculum. In the United States, students"}, {"speaker": "SPEAKER_01", "timestamp": [730.58, 737.54], "text": " don't see themselves represented. The GFP also offers windows into the world,"}, {"speaker": "SPEAKER_01", "timestamp": [738.08, 744.62], "text": " which for my students who don't have the means to travel the world, the GFP offers such a beautiful"}, {"speaker": "SPEAKER_01", "timestamp": [744.62, 748.66], "text": " representations of women from around the world who are doing these incredible things."}, {"speaker": "SPEAKER_00", "timestamp": [750.54, 758.9], "text": " Thank you. Thank you so much. It's so fascinating, really. And finally, Celeste's question,"}, {"speaker": "SPEAKER_00", "timestamp": [758.9, 767.42], "text": " do you have any advice for others about pitfalls to avoiding using the global feminisms materials, maybe some"}, {"speaker": "SPEAKER_00", "timestamp": [767.42, 773.62], "text": " difficulties to watch out for based on your experience? And you have a lot of experience."}, {"speaker": "SPEAKER_01", "timestamp": [776.84, 787.5], "text": " So I think sometimes when, and I'll speak for Americans. When we're learning about other cultures or countries, we tend to interpret behavior through"}, {"speaker": "SPEAKER_01", "timestamp": [787.5, 792.32], "text": " our ethnocentric lens or through stereotypes about those countries."}, {"speaker": "SPEAKER_01", "timestamp": [792.78, 798.22], "text": " So I think preparing students with some exercises on reflexivity and intersectionality can help"}, {"speaker": "SPEAKER_01", "timestamp": [798.22, 807.5], "text": " to minimize those negative interpretations of cultures or even paternalistic views of the global South,"}, {"speaker": "SPEAKER_01", "timestamp": [807.56, 816.2], "text": " for example. So I think that for some student bodies who may not have the exposure to"}, {"speaker": "SPEAKER_01", "timestamp": [816.2, 822.66], "text": " the histories of other, you know, parts of the world, I think that that would be really helpful."}, {"speaker": "SPEAKER_01", "timestamp": [822.64, 824.24], "text": " you know, parts of the world, I think that that would be really helpful."}, {"speaker": "SPEAKER_00", "timestamp": [830.82, 838.22], "text": " Thank you. Thank you so much, Becky, for your time, for sharing all your experience and the way in which you have been using so richly the archive and all the materials. And yeah,"}, {"speaker": "SPEAKER_01", "timestamp": [838.22, 842.82], "text": " thanks so much for joining us today. Thank you for inviting me."}, {"speaker": "SPEAKER_00", "timestamp": [852.14, 857.98], "text": " us today. Thank you for inviting me. Thank you again to Dr. Desirious for sharing her time and experience with us today on the podcast. We are impressed with the diverse ways in which she"}, {"speaker": "SPEAKER_00", "timestamp": [857.98, 863.74], "text": " incorporates the archive into her classes, and we hope that the adaptability of the materials from"}, {"speaker": "SPEAKER_00", "timestamp": [863.74, 867.52], "text": " the archive can serve as a model for other instructors, too."}, {"speaker": "SPEAKER_02", "timestamp": [868.48, 877.2], "text": " Thank you for listening to this episode of Contextualizing Feminist Voices, Teaching with the Global Feminisms Project, a podcast created by the Global Feminisms Project."}, {"speaker": "SPEAKER_02", "timestamp": [877.92, 885.04], "text": " The entire team hopes it will help you understand and incorporate the materials on the website into your class. If you liked this episode,"}, {"speaker": "SPEAKER_02", "timestamp": [889.06, 889.58], "text": " check out the other podcasts in the series, as well as materials about countries,"}], "chunks": [{"timestamp": [0.0, 13.84], "text": " Welcome to Contextualizing Feminist Voices, Teaching with the Global Feminisms Project."}, {"timestamp": [14.42, 20.02], "text": " This series is focused on teaching, pedagogy, and uses of the archive in the context of the classroom."}, {"timestamp": [20.6, 25.16], "text": " Designed with a special emphasis on educators, in each episode, you will learn from instructors"}, {"timestamp": [25.16, 29.52], "text": " who have used the project's interviews in their courses, and about activities and resources"}, {"timestamp": [29.52, 31.88], "text": " for incorporating the archive into your class."}, {"timestamp": [32.14, 37.14], "text": " Today, Dr. Desi Rios, Associate Professor of Social Psychology at the University of"}, {"timestamp": [37.14, 40.44], "text": " Houston, Clear Lake, joins us on the podcast."}, {"timestamp": [41.12, 46.8], "text": " Dr. Rios has published on intersectionality in the academy, including pedagogical practices"}, {"timestamp": [46.8, 54.58], "text": " and faculty and student experiences. Dr. Rios' current research focuses on examining collaborative"}, {"timestamp": [54.58, 61.12], "text": " practices among non-profit organizations in Houston's East End and the benefits of Latinx"}, {"timestamp": [61.12, 65.42], "text": " students learning about their history in K-12 education."}, {"timestamp": [71.84, 76.84], "text": " And she's currently writing the first Psychology of Latinx People textbook in the field of psychology."}, {"timestamp": [82.38, 83.12], "text": " So, Desi, can you briefly describe the course you use the archive in?"}, {"timestamp": [86.78, 93.62], "text": " Yes. First, I'd like to contextualize the type of institution I work at. So I am at the University of Houston Clear Lake. It is an HSI, so Hispanic Serving"}, {"timestamp": [93.62, 100.68], "text": " Institution. It is a regional comprehensive university with about just over 9,000 students"}, {"timestamp": [100.68, 107.64], "text": " enrolled. So we offer undergraduate and master's level degrees. 53% of our students"}, {"timestamp": [107.64, 115.44], "text": " identify as first generation college students. 42% identify as Latinx or Hispanic or Latino."}, {"timestamp": [116.18, 121.64], "text": " And the majority of our students also identify as working class. They have full-time jobs. They are"}, {"timestamp": [121.64, 126.32], "text": " parents. And the students tend to be older with a median age"}, {"timestamp": [126.32, 134.02], "text": " range between 28 and 32. I also want to describe my teaching style. All my classes are framed as"}, {"timestamp": [134.02, 140.96], "text": " social justice oriented. So students know that we're going to be applying psychology to social"}, {"timestamp": [140.96, 145.92], "text": " issues, which is sometimes surprising to students who are taking personality classes or"}, {"timestamp": [145.92, 151.8], "text": " even social psychology sometimes. And because of this, I have found the Global Feminism's archive"}, {"timestamp": [151.8, 158.32], "text": " to be really useful. Okay, so the two classes that I use the archive in most frequently"}, {"timestamp": [158.32, 163.82], "text": " are the psychology of women and gender, and this is at the undergraduate level."}, {"timestamp": [163.82, 165.94], "text": " of women and gender, and this is at the undergraduate level."}, {"timestamp": [170.3, 171.4], "text": " Usually this enrolls juniors and seniors, sometimes sophomores."}, {"timestamp": [174.32, 174.96], "text": " Usually about 30 to 40 students are enrolled."}, {"timestamp": [181.26, 181.38], "text": " So it's a smaller class, I think, compared to like Michigan, 150 student class."}, {"timestamp": [183.4, 187.04], "text": " But it is one of our larger classes. It is lecture-ish, and I say lecture-ish"}, {"timestamp": [187.04, 192.18], "text": " because there's lots of questions I build into the lecture, and I encourage students to interrupt as"}, {"timestamp": [192.18, 197.92], "text": " things might come up for them. We do a lot of small group work in the class that is led by them."}, {"timestamp": [198.5, 206.32], "text": " I also use the archive in the psychology of gender, race, and sexuality, which is a master's level course."}, {"timestamp": [207.24, 214.66], "text": " This class is basically about intersectionality, meaning this is a thread throughout the course."}, {"timestamp": [214.98, 220.12], "text": " Students are always putting, you know, practicing using an intersectional lens."}, {"timestamp": [221.02, 227.9], "text": " We do two weeks of reading on intersectionality power privilege oppression at the beginning"}, {"timestamp": [227.9, 233.6], "text": " and that is to lay the foundation for a semester-long project called the intersectionality"}, {"timestamp": [233.6, 249.06], "text": " project which I'll talk about a little bit later so in this class the enrollment is around 15 to 25 students. Excellent. Thank you so much. And thank you for such a great detail"}, {"timestamp": [249.06, 255.64], "text": " of all your classes and of course, the composition of the university. And I was wondering,"}, {"timestamp": [255.88, 261.12], "text": " how do you use the material in the archive and in what different ways?"}, {"timestamp": [262.36, 268.6], "text": " So for the psychology of women course, when I was a graduate student at Michigan, Lilia"}, {"timestamp": [268.6, 270.72], "text": " Cortina was one of my teaching mentors."}, {"timestamp": [271.96, 278.12], "text": " And, you know, as a GSI, you are grading, you're learning how to assess student assignments,"}, {"timestamp": [278.2, 279.68], "text": " they're learning and that type of thing."}, {"timestamp": [279.74, 280.76], "text": " So we did most of that."}, {"timestamp": [281.04, 287.68], "text": " But there was one assignment that she read and graded herself. And that was"}, {"timestamp": [287.68, 295.08], "text": " the interview assignment. And she talked about how these interviews were so meaningful and she"}, {"timestamp": [295.08, 301.16], "text": " really enjoyed reading them. So when I got to teach my own class, I decided to use that assignment as"}, {"timestamp": [301.16, 305.38], "text": " well. And so basically it is about learning about women who are different from"}, {"timestamp": [305.38, 311.94], "text": " you. So you can either choose a woman who is 60 years or older, or you can choose someone who's"}, {"timestamp": [311.94, 316.04], "text": " different from you in terms of where they grew up, you know, different countries, sexual orientation,"}, {"timestamp": [316.16, 337.88], "text": " those types of things. So as I mentioned early, many of our students are from the working class and they work full-time jobs. So asking them to do something in addition to their coursework can be very burdensome. It's a lot to add to their already full plates."}, {"timestamp": [346.68, 353.28], "text": " are okay with interviewing someone they know. But for other students, this is an excellent opportunity for them to get to know, so to speak, someone fascinating, right? So the GFP"}, {"timestamp": [353.28, 360.64], "text": " archive I added to my classes. So a lot of students actually choose to read through the GFP articles"}, {"timestamp": [360.64, 367.04], "text": " and then complete their assignment. For a lot of students, this is really inspiring"}, {"timestamp": [367.04, 374.44], "text": " to learn about someone that they kind of identify with who, you know, might come from a similar"}, {"timestamp": [374.44, 380.28], "text": " background. And then they learn about the, you know, the trajectory of these women and these"}, {"timestamp": [380.28, 386.88], "text": " accomplishments and their activism or scholarship, they might choose someone entirely"}, {"timestamp": [386.88, 392.94], "text": " different. And this opens up the world to students who have may never have left the city of Houston,"}, {"timestamp": [393.32, 398.38], "text": " for example. So it's a real opportunity for them to learn about the world."}, {"timestamp": [399.04, 406.58], "text": " For the psychology of gender, race, and sexuality class, students collectively engage in this intersectionality"}, {"timestamp": [406.58, 411.98], "text": " project, which is a semester-long project. As a class, they choose one social issue."}, {"timestamp": [413.56, 418.76], "text": " And if you're interested to learn more about this project, it's laid out in Kim Case's edited book,"}, {"timestamp": [418.86, 427.9], "text": " Intersectional Pedagogy, and you can learn about how to do this assignment step-by-step. So, okay. But to be"}, {"timestamp": [427.9, 435.16], "text": " brief, students choose one social issue, such as reproductive justice or sexual violence, or"}, {"timestamp": [435.16, 441.8], "text": " even access to, you know, education and those types of things. And then they choose the groups"}, {"timestamp": [441.8, 451.62], "text": " that they want to research, such as Latinx people, white men, people with disabilities, LGBTQ folks, which inevitably they learn they have to use"}, {"timestamp": [451.62, 456.42], "text": " an intersectional lens, right? Because even Latinx people, you know, we start to look,"}, {"timestamp": [456.78, 461.34], "text": " our experiences are different when you start to consider gender, social class, colorism,"}, {"timestamp": [461.34, 465.6], "text": " the rest of that. So they apply social side concepts as we learn over the"}, {"timestamp": [465.6, 470.58], "text": " semester, but an important component of intersectionality, of course, is understanding"}, {"timestamp": [470.58, 479.14], "text": " the social structures and systems of oppression. And this is where the GFP comes in. So as their"}, {"timestamp": [479.14, 487.0], "text": " final presentation or exam, they do these small group presentations for the class. And here we get to"}, {"timestamp": [487.0, 493.62], "text": " see how one social issue may affect different groups differently, but we also get to see some"}, {"timestamp": [493.62, 500.44], "text": " overlap or commonalities, and then we can discuss on how we can work together. But I asked them"}, {"timestamp": [500.44, 505.84], "text": " to identify one organization in Houston, so something local in Houston or in Texas,"}, {"timestamp": [505.84, 512.08], "text": " if they can't find anything in Houston. And then also for a national or international perspective,"}, {"timestamp": [512.08, 516.32], "text": " they need to identify one GFP interviewee who's also working on that social issue."}, {"timestamp": [517.12, 528.52], "text": " So they compare and they contrast how local policy or advocacy plays out, but also how the GFP interviewees advocacy, what that looks like."}, {"timestamp": [528.98, 534.68], "text": " And so this really opens the conversation for what we can do better in Texas, which is a lot."}, {"timestamp": [537.18, 547.6], "text": " Thank you so much. It's so fascinating the way in which, from what you described, all the materials seem to fit so great into your"}, {"timestamp": [547.6, 553.98], "text": " courses, but at the same time, you're able to work with them in different ways. It's amazing."}, {"timestamp": [554.28, 562.92], "text": " They are millable, but they also seem to fit amazingly. So thank you. And so as a follow-up"}, {"timestamp": [562.92, 571.04], "text": " to the previous question, what do you think that is most effective about the way you use the global feminisms material?"}, {"timestamp": [572.4, 586.1], "text": " Well, there's a couple of things. So the first one is that I use I also use the interviews in lectures and they lend themselves very well to various social issues, as I mentioned. For the psychology of women course,"}, {"timestamp": [586.22, 593.82], "text": " the interviews really bring to life these theories or these outcomes that are reported by researchers."}, {"timestamp": [594.44, 601.42], "text": " And I want to share a particular story about the power of representation that the archive offers."}, {"timestamp": [602.04, 605.8], "text": " And so I've always used Adrienne Ashe's interview from the U.S. site"}, {"timestamp": [605.8, 611.7], "text": " in my courses because I think she's really powerful. And I remember as a grad student"}, {"timestamp": [611.7, 617.46], "text": " thinking how wonderful, what a wonderful job the U.S. site, which was led by Liz Cole,"}, {"timestamp": [618.3, 626.0], "text": " what a wonderful job they had done in terms of representation of the United States and the work that was being done here."}, {"timestamp": [627.14, 633.82], "text": " When I saw Adrienne Ashe's interview, it occurred to me that this was something I had never thought"}, {"timestamp": [633.82, 639.66], "text": " about, you know, people with disabilities. And so watching her interview really changed my life."}, {"timestamp": [639.66, 645.4], "text": " And so I started to use it in my Psych of women class and also psych of gender. And then when appropriate,"}, {"timestamp": [645.46, 651.24], "text": " my other courses, because I thought if I've never thought about this issue, there's got to be other"}, {"timestamp": [651.24, 657.56], "text": " people out there who are not thinking about disability. So one semester I had a really"}, {"timestamp": [657.56, 665.7], "text": " talented student who also happened to have a physical disability. And she later told me that I was the first teacher or instructor professor"}, {"timestamp": [665.7, 673.36], "text": " ever to include research on about people with disabilities, but not in a way that sort of"}, {"timestamp": [673.36, 683.0], "text": " pities them. But by introducing Adrian Ash, she really felt empowered and inspired. And so this"}, {"timestamp": [683.0, 686.8], "text": " is just one example of how the archive can be really meaningful to"}, {"timestamp": [686.8, 697.2], "text": " our students in ways that might be invisible to us. So the second way that I think the"}, {"timestamp": [697.2, 704.18], "text": " GFP materials can be used effectively, and I'm going to borrow a phrase from a colleague and"}, {"timestamp": [704.18, 710.34], "text": " friend, Delia Sainz, who's a social psychologist and now at UC Merced. So this phrase, mirrors and windows,"}, {"timestamp": [710.5, 717.52], "text": " captures what the GFP offers. So the archive is so rich, it covers so many countries, so many issues,"}, {"timestamp": [717.52, 723.68], "text": " and our students are likely to find someone they can identify with. So this is sort of a mirror"}, {"timestamp": [723.68, 730.58], "text": " where they get to see themselves reflected, which is often the case still in curriculum. In the United States, students"}, {"timestamp": [730.58, 737.54], "text": " don't see themselves represented. The GFP also offers windows into the world,"}, {"timestamp": [738.08, 744.62], "text": " which for my students who don't have the means to travel the world, the GFP offers such a beautiful"}, {"timestamp": [744.62, 748.66], "text": " representations of women from around the world who are doing these incredible things."}, {"timestamp": [750.54, 758.9], "text": " Thank you. Thank you so much. It's so fascinating, really. And finally, Celeste's question,"}, {"timestamp": [758.9, 767.42], "text": " do you have any advice for others about pitfalls to avoiding using the global feminisms materials, maybe some"}, {"timestamp": [767.42, 773.62], "text": " difficulties to watch out for based on your experience? And you have a lot of experience."}, {"timestamp": [776.84, 787.5], "text": " So I think sometimes when, and I'll speak for Americans. When we're learning about other cultures or countries, we tend to interpret behavior through"}, {"timestamp": [787.5, 792.32], "text": " our ethnocentric lens or through stereotypes about those countries."}, {"timestamp": [792.78, 798.22], "text": " So I think preparing students with some exercises on reflexivity and intersectionality can help"}, {"timestamp": [798.22, 807.5], "text": " to minimize those negative interpretations of cultures or even paternalistic views of the global South,"}, {"timestamp": [807.56, 816.2], "text": " for example. So I think that for some student bodies who may not have the exposure to"}, {"timestamp": [816.2, 822.66], "text": " the histories of other, you know, parts of the world, I think that that would be really helpful."}, {"timestamp": [822.64, 824.24], "text": " you know, parts of the world, I think that that would be really helpful."}, {"timestamp": [830.82, 838.22], "text": " Thank you. Thank you so much, Becky, for your time, for sharing all your experience and the way in which you have been using so richly the archive and all the materials. And yeah,"}, {"timestamp": [838.22, 842.82], "text": " thanks so much for joining us today. Thank you for inviting me."}, {"timestamp": [852.14, 857.98], "text": " us today. Thank you for inviting me. Thank you again to Dr. Desirious for sharing her time and experience with us today on the podcast. We are impressed with the diverse ways in which she"}, {"timestamp": [857.98, 863.74], "text": " incorporates the archive into her classes, and we hope that the adaptability of the materials from"}, {"timestamp": [863.74, 867.52], "text": " the archive can serve as a model for other instructors, too."}, {"timestamp": [868.48, 877.2], "text": " Thank you for listening to this episode of Contextualizing Feminist Voices, Teaching with the Global Feminisms Project, a podcast created by the Global Feminisms Project."}, {"timestamp": [877.92, 885.04], "text": " The entire team hopes it will help you understand and incorporate the materials on the website into your class. If you liked this episode,"}, {"timestamp": [889.06, 889.58], "text": " check out the other podcasts in the series, as well as materials about countries,"}, {"timestamp": [891.78, null], "text": " teaching resources, and interviews on the website."}], "text": " Welcome to Contextualizing Feminist Voices, Teaching with the Global Feminisms Project. This series is focused on teaching, pedagogy, and uses of the archive in the context of the classroom. Designed with a special emphasis on educators, in each episode, you will learn from instructors who have used the project's interviews in their courses, and about activities and resources for incorporating the archive into your class. Today, Dr. Desi Rios, Associate Professor of Social Psychology at the University of Houston, Clear Lake, joins us on the podcast. Dr. Rios has published on intersectionality in the academy, including pedagogical practices and faculty and student experiences. Dr. Rios' current research focuses on examining collaborative practices among non-profit organizations in Houston's East End and the benefits of Latinx students learning about their history in K-12 education. And she's currently writing the first Psychology of Latinx People textbook in the field of psychology. So, Desi, can you briefly describe the course you use the archive in? Yes. First, I'd like to contextualize the type of institution I work at. So I am at the University of Houston Clear Lake. It is an HSI, so Hispanic Serving Institution. It is a regional comprehensive university with about just over 9,000 students enrolled. So we offer undergraduate and master's level degrees. 53% of our students identify as first generation college students. 42% identify as Latinx or Hispanic or Latino. And the majority of our students also identify as working class. They have full-time jobs. They are parents. And the students tend to be older with a median age range between 28 and 32. I also want to describe my teaching style. All my classes are framed as social justice oriented. So students know that we're going to be applying psychology to social issues, which is sometimes surprising to students who are taking personality classes or even social psychology sometimes. And because of this, I have found the Global Feminism's archive to be really useful. Okay, so the two classes that I use the archive in most frequently are the psychology of women and gender, and this is at the undergraduate level. of women and gender, and this is at the undergraduate level. Usually this enrolls juniors and seniors, sometimes sophomores. Usually about 30 to 40 students are enrolled. So it's a smaller class, I think, compared to like Michigan, 150 student class. But it is one of our larger classes. It is lecture-ish, and I say lecture-ish because there's lots of questions I build into the lecture, and I encourage students to interrupt as things might come up for them. We do a lot of small group work in the class that is led by them. I also use the archive in the psychology of gender, race, and sexuality, which is a master's level course. This class is basically about intersectionality, meaning this is a thread throughout the course. Students are always putting, you know, practicing using an intersectional lens. We do two weeks of reading on intersectionality power privilege oppression at the beginning and that is to lay the foundation for a semester-long project called the intersectionality project which I'll talk about a little bit later so in this class the enrollment is around 15 to 25 students. Excellent. Thank you so much. And thank you for such a great detail of all your classes and of course, the composition of the university. And I was wondering, how do you use the material in the archive and in what different ways? So for the psychology of women course, when I was a graduate student at Michigan, Lilia Cortina was one of my teaching mentors. And, you know, as a GSI, you are grading, you're learning how to assess student assignments, they're learning and that type of thing. So we did most of that. But there was one assignment that she read and graded herself. And that was the interview assignment. And she talked about how these interviews were so meaningful and she really enjoyed reading them. So when I got to teach my own class, I decided to use that assignment as well. And so basically it is about learning about women who are different from you. So you can either choose a woman who is 60 years or older, or you can choose someone who's different from you in terms of where they grew up, you know, different countries, sexual orientation, those types of things. So as I mentioned early, many of our students are from the working class and they work full-time jobs. So asking them to do something in addition to their coursework can be very burdensome. It's a lot to add to their already full plates. are okay with interviewing someone they know. But for other students, this is an excellent opportunity for them to get to know, so to speak, someone fascinating, right? So the GFP archive I added to my classes. So a lot of students actually choose to read through the GFP articles and then complete their assignment. For a lot of students, this is really inspiring to learn about someone that they kind of identify with who, you know, might come from a similar background. And then they learn about the, you know, the trajectory of these women and these accomplishments and their activism or scholarship, they might choose someone entirely different. And this opens up the world to students who have may never have left the city of Houston, for example. So it's a real opportunity for them to learn about the world. For the psychology of gender, race, and sexuality class, students collectively engage in this intersectionality project, which is a semester-long project. As a class, they choose one social issue. And if you're interested to learn more about this project, it's laid out in Kim Case's edited book, Intersectional Pedagogy, and you can learn about how to do this assignment step-by-step. So, okay. But to be brief, students choose one social issue, such as reproductive justice or sexual violence, or even access to, you know, education and those types of things. And then they choose the groups that they want to research, such as Latinx people, white men, people with disabilities, LGBTQ folks, which inevitably they learn they have to use an intersectional lens, right? Because even Latinx people, you know, we start to look, our experiences are different when you start to consider gender, social class, colorism, the rest of that. So they apply social side concepts as we learn over the semester, but an important component of intersectionality, of course, is understanding the social structures and systems of oppression. And this is where the GFP comes in. So as their final presentation or exam, they do these small group presentations for the class. And here we get to see how one social issue may affect different groups differently, but we also get to see some overlap or commonalities, and then we can discuss on how we can work together. But I asked them to identify one organization in Houston, so something local in Houston or in Texas, if they can't find anything in Houston. And then also for a national or international perspective, they need to identify one GFP interviewee who's also working on that social issue. So they compare and they contrast how local policy or advocacy plays out, but also how the GFP interviewees advocacy, what that looks like. And so this really opens the conversation for what we can do better in Texas, which is a lot. Thank you so much. It's so fascinating the way in which, from what you described, all the materials seem to fit so great into your courses, but at the same time, you're able to work with them in different ways. It's amazing. They are millable, but they also seem to fit amazingly. So thank you. And so as a follow-up to the previous question, what do you think that is most effective about the way you use the global feminisms material? Well, there's a couple of things. So the first one is that I use I also use the interviews in lectures and they lend themselves very well to various social issues, as I mentioned. For the psychology of women course, the interviews really bring to life these theories or these outcomes that are reported by researchers. And I want to share a particular story about the power of representation that the archive offers. And so I've always used Adrienne Ashe's interview from the U.S. site in my courses because I think she's really powerful. And I remember as a grad student thinking how wonderful, what a wonderful job the U.S. site, which was led by Liz Cole, what a wonderful job they had done in terms of representation of the United States and the work that was being done here. When I saw Adrienne Ashe's interview, it occurred to me that this was something I had never thought about, you know, people with disabilities. And so watching her interview really changed my life. And so I started to use it in my Psych of women class and also psych of gender. And then when appropriate, my other courses, because I thought if I've never thought about this issue, there's got to be other people out there who are not thinking about disability. So one semester I had a really talented student who also happened to have a physical disability. And she later told me that I was the first teacher or instructor professor ever to include research on about people with disabilities, but not in a way that sort of pities them. But by introducing Adrian Ash, she really felt empowered and inspired. And so this is just one example of how the archive can be really meaningful to our students in ways that might be invisible to us. So the second way that I think the GFP materials can be used effectively, and I'm going to borrow a phrase from a colleague and friend, Delia Sainz, who's a social psychologist and now at UC Merced. So this phrase, mirrors and windows, captures what the GFP offers. So the archive is so rich, it covers so many countries, so many issues, and our students are likely to find someone they can identify with. So this is sort of a mirror where they get to see themselves reflected, which is often the case still in curriculum. In the United States, students don't see themselves represented. The GFP also offers windows into the world, which for my students who don't have the means to travel the world, the GFP offers such a beautiful representations of women from around the world who are doing these incredible things. Thank you. Thank you so much. It's so fascinating, really. And finally, Celeste's question, do you have any advice for others about pitfalls to avoiding using the global feminisms materials, maybe some difficulties to watch out for based on your experience? And you have a lot of experience. So I think sometimes when, and I'll speak for Americans. When we're learning about other cultures or countries, we tend to interpret behavior through our ethnocentric lens or through stereotypes about those countries. So I think preparing students with some exercises on reflexivity and intersectionality can help to minimize those negative interpretations of cultures or even paternalistic views of the global South, for example. So I think that for some student bodies who may not have the exposure to the histories of other, you know, parts of the world, I think that that would be really helpful. you know, parts of the world, I think that that would be really helpful. Thank you. Thank you so much, Becky, for your time, for sharing all your experience and the way in which you have been using so richly the archive and all the materials. And yeah, thanks so much for joining us today. Thank you for inviting me. us today. Thank you for inviting me. Thank you again to Dr. Desirious for sharing her time and experience with us today on the podcast. We are impressed with the diverse ways in which she incorporates the archive into her classes, and we hope that the adaptability of the materials from the archive can serve as a model for other instructors, too. Thank you for listening to this episode of Contextualizing Feminist Voices, Teaching with the Global Feminisms Project, a podcast created by the Global Feminisms Project. The entire team hopes it will help you understand and incorporate the materials on the website into your class. If you liked this episode, check out the other podcasts in the series, as well as materials about countries, teaching resources, and interviews on the website."}
+{
+    "speakers": [
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                0.0,
+                13.84
+            ],
+            "text": " Welcome to Contextualizing Feminist Voices, Teaching with the Global Feminisms Project."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                14.42,
+                20.02
+            ],
+            "text": " This series is focused on teaching, pedagogy, and uses of the archive in the context of the classroom."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                20.6,
+                25.16
+            ],
+            "text": " Designed with a special emphasis on educators, in each episode, you will learn from instructors"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                25.16,
+                29.52
+            ],
+            "text": " who have used the project's interviews in their courses, and about activities and resources"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                29.52,
+                31.88
+            ],
+            "text": " for incorporating the archive into your class."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                32.14,
+                37.14
+            ],
+            "text": " Today, Dr. Desi Rios, Associate Professor of Social Psychology at the University of"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                37.14,
+                40.44
+            ],
+            "text": " Houston, Clear Lake, joins us on the podcast."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                41.12,
+                46.8
+            ],
+            "text": " Dr. Rios has published on intersectionality in the academy, including pedagogical practices"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                46.8,
+                54.58
+            ],
+            "text": " and faculty and student experiences. Dr. Rios' current research focuses on examining collaborative"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                54.58,
+                61.12
+            ],
+            "text": " practices among non-profit organizations in Houston's East End and the benefits of Latinx"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                61.12,
+                65.42
+            ],
+            "text": " students learning about their history in K-12 education."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                71.84,
+                76.84
+            ],
+            "text": " And she's currently writing the first Psychology of Latinx People textbook in the field of psychology."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                82.38,
+                83.12
+            ],
+            "text": " So, Desi, can you briefly describe the course you use the archive in?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                86.78,
+                93.62
+            ],
+            "text": " Yes. First, I'd like to contextualize the type of institution I work at. So I am at the University of Houston Clear Lake. It is an HSI, so Hispanic Serving"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                93.62,
+                100.68
+            ],
+            "text": " Institution. It is a regional comprehensive university with about just over 9,000 students"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                100.68,
+                107.64
+            ],
+            "text": " enrolled. So we offer undergraduate and master's level degrees. 53% of our students"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                107.64,
+                115.44
+            ],
+            "text": " identify as first generation college students. 42% identify as Latinx or Hispanic or Latino."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                116.18,
+                121.64
+            ],
+            "text": " And the majority of our students also identify as working class. They have full-time jobs. They are"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                121.64,
+                126.32
+            ],
+            "text": " parents. And the students tend to be older with a median age"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                126.32,
+                134.02
+            ],
+            "text": " range between 28 and 32. I also want to describe my teaching style. All my classes are framed as"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                134.02,
+                140.96
+            ],
+            "text": " social justice oriented. So students know that we're going to be applying psychology to social"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                140.96,
+                145.92
+            ],
+            "text": " issues, which is sometimes surprising to students who are taking personality classes or"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                145.92,
+                151.8
+            ],
+            "text": " even social psychology sometimes. And because of this, I have found the Global Feminism's archive"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                151.8,
+                158.32
+            ],
+            "text": " to be really useful. Okay, so the two classes that I use the archive in most frequently"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                158.32,
+                163.82
+            ],
+            "text": " are the psychology of women and gender, and this is at the undergraduate level."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                163.82,
+                165.94
+            ],
+            "text": " of women and gender, and this is at the undergraduate level."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                170.3,
+                171.4
+            ],
+            "text": " Usually this enrolls juniors and seniors, sometimes sophomores."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                174.32,
+                174.96
+            ],
+            "text": " Usually about 30 to 40 students are enrolled."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                181.26,
+                181.38
+            ],
+            "text": " So it's a smaller class, I think, compared to like Michigan, 150 student class."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                183.4,
+                187.04
+            ],
+            "text": " But it is one of our larger classes. It is lecture-ish, and I say lecture-ish"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                187.04,
+                192.18
+            ],
+            "text": " because there's lots of questions I build into the lecture, and I encourage students to interrupt as"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                192.18,
+                197.92
+            ],
+            "text": " things might come up for them. We do a lot of small group work in the class that is led by them."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                198.5,
+                206.32
+            ],
+            "text": " I also use the archive in the psychology of gender, race, and sexuality, which is a master's level course."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                207.24,
+                214.66
+            ],
+            "text": " This class is basically about intersectionality, meaning this is a thread throughout the course."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                214.98,
+                220.12
+            ],
+            "text": " Students are always putting, you know, practicing using an intersectional lens."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                221.02,
+                227.9
+            ],
+            "text": " We do two weeks of reading on intersectionality power privilege oppression at the beginning"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                227.9,
+                233.6
+            ],
+            "text": " and that is to lay the foundation for a semester-long project called the intersectionality"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                233.6,
+                249.06
+            ],
+            "text": " project which I'll talk about a little bit later so in this class the enrollment is around 15 to 25 students. Excellent. Thank you so much. And thank you for such a great detail"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                249.06,
+                255.64
+            ],
+            "text": " of all your classes and of course, the composition of the university. And I was wondering,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                255.88,
+                261.12
+            ],
+            "text": " how do you use the material in the archive and in what different ways?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                262.36,
+                268.6
+            ],
+            "text": " So for the psychology of women course, when I was a graduate student at Michigan, Lilia"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                268.6,
+                270.72
+            ],
+            "text": " Cortina was one of my teaching mentors."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                271.96,
+                278.12
+            ],
+            "text": " And, you know, as a GSI, you are grading, you're learning how to assess student assignments,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                278.2,
+                279.68
+            ],
+            "text": " they're learning and that type of thing."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                279.74,
+                280.76
+            ],
+            "text": " So we did most of that."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                281.04,
+                287.68
+            ],
+            "text": " But there was one assignment that she read and graded herself. And that was"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                287.68,
+                295.08
+            ],
+            "text": " the interview assignment. And she talked about how these interviews were so meaningful and she"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                295.08,
+                301.16
+            ],
+            "text": " really enjoyed reading them. So when I got to teach my own class, I decided to use that assignment as"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                301.16,
+                305.38
+            ],
+            "text": " well. And so basically it is about learning about women who are different from"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                305.38,
+                311.94
+            ],
+            "text": " you. So you can either choose a woman who is 60 years or older, or you can choose someone who's"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                311.94,
+                316.04
+            ],
+            "text": " different from you in terms of where they grew up, you know, different countries, sexual orientation,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                316.16,
+                337.88
+            ],
+            "text": " those types of things. So as I mentioned early, many of our students are from the working class and they work full-time jobs. So asking them to do something in addition to their coursework can be very burdensome. It's a lot to add to their already full plates."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                346.68,
+                353.28
+            ],
+            "text": " are okay with interviewing someone they know. But for other students, this is an excellent opportunity for them to get to know, so to speak, someone fascinating, right? So the GFP"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                353.28,
+                360.64
+            ],
+            "text": " archive I added to my classes. So a lot of students actually choose to read through the GFP articles"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                360.64,
+                367.04
+            ],
+            "text": " and then complete their assignment. For a lot of students, this is really inspiring"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                367.04,
+                374.44
+            ],
+            "text": " to learn about someone that they kind of identify with who, you know, might come from a similar"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                374.44,
+                380.28
+            ],
+            "text": " background. And then they learn about the, you know, the trajectory of these women and these"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                380.28,
+                386.88
+            ],
+            "text": " accomplishments and their activism or scholarship, they might choose someone entirely"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                386.88,
+                392.94
+            ],
+            "text": " different. And this opens up the world to students who have may never have left the city of Houston,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                393.32,
+                398.38
+            ],
+            "text": " for example. So it's a real opportunity for them to learn about the world."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                399.04,
+                406.58
+            ],
+            "text": " For the psychology of gender, race, and sexuality class, students collectively engage in this intersectionality"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                406.58,
+                411.98
+            ],
+            "text": " project, which is a semester-long project. As a class, they choose one social issue."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                413.56,
+                418.76
+            ],
+            "text": " And if you're interested to learn more about this project, it's laid out in Kim Case's edited book,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                418.86,
+                427.9
+            ],
+            "text": " Intersectional Pedagogy, and you can learn about how to do this assignment step-by-step. So, okay. But to be"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                427.9,
+                435.16
+            ],
+            "text": " brief, students choose one social issue, such as reproductive justice or sexual violence, or"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                435.16,
+                441.8
+            ],
+            "text": " even access to, you know, education and those types of things. And then they choose the groups"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                441.8,
+                451.62
+            ],
+            "text": " that they want to research, such as Latinx people, white men, people with disabilities, LGBTQ folks, which inevitably they learn they have to use"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                451.62,
+                456.42
+            ],
+            "text": " an intersectional lens, right? Because even Latinx people, you know, we start to look,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                456.78,
+                461.34
+            ],
+            "text": " our experiences are different when you start to consider gender, social class, colorism,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                461.34,
+                465.6
+            ],
+            "text": " the rest of that. So they apply social side concepts as we learn over the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                465.6,
+                470.58
+            ],
+            "text": " semester, but an important component of intersectionality, of course, is understanding"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                470.58,
+                479.14
+            ],
+            "text": " the social structures and systems of oppression. And this is where the GFP comes in. So as their"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                479.14,
+                487.0
+            ],
+            "text": " final presentation or exam, they do these small group presentations for the class. And here we get to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                487.0,
+                493.62
+            ],
+            "text": " see how one social issue may affect different groups differently, but we also get to see some"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                493.62,
+                500.44
+            ],
+            "text": " overlap or commonalities, and then we can discuss on how we can work together. But I asked them"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                500.44,
+                505.84
+            ],
+            "text": " to identify one organization in Houston, so something local in Houston or in Texas,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                505.84,
+                512.08
+            ],
+            "text": " if they can't find anything in Houston. And then also for a national or international perspective,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                512.08,
+                516.32
+            ],
+            "text": " they need to identify one GFP interviewee who's also working on that social issue."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                517.12,
+                528.52
+            ],
+            "text": " So they compare and they contrast how local policy or advocacy plays out, but also how the GFP interviewees advocacy, what that looks like."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                528.98,
+                534.68
+            ],
+            "text": " And so this really opens the conversation for what we can do better in Texas, which is a lot."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                537.18,
+                547.6
+            ],
+            "text": " Thank you so much. It's so fascinating the way in which, from what you described, all the materials seem to fit so great into your"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                547.6,
+                553.98
+            ],
+            "text": " courses, but at the same time, you're able to work with them in different ways. It's amazing."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                554.28,
+                562.92
+            ],
+            "text": " They are millable, but they also seem to fit amazingly. So thank you. And so as a follow-up"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                562.92,
+                571.04
+            ],
+            "text": " to the previous question, what do you think that is most effective about the way you use the global feminisms material?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                572.4,
+                586.1
+            ],
+            "text": " Well, there's a couple of things. So the first one is that I use I also use the interviews in lectures and they lend themselves very well to various social issues, as I mentioned. For the psychology of women course,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                586.22,
+                593.82
+            ],
+            "text": " the interviews really bring to life these theories or these outcomes that are reported by researchers."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                594.44,
+                601.42
+            ],
+            "text": " And I want to share a particular story about the power of representation that the archive offers."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                602.04,
+                605.8
+            ],
+            "text": " And so I've always used Adrienne Ashe's interview from the U.S. site"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                605.8,
+                611.7
+            ],
+            "text": " in my courses because I think she's really powerful. And I remember as a grad student"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                611.7,
+                617.46
+            ],
+            "text": " thinking how wonderful, what a wonderful job the U.S. site, which was led by Liz Cole,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                618.3,
+                626.0
+            ],
+            "text": " what a wonderful job they had done in terms of representation of the United States and the work that was being done here."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                627.14,
+                633.82
+            ],
+            "text": " When I saw Adrienne Ashe's interview, it occurred to me that this was something I had never thought"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                633.82,
+                639.66
+            ],
+            "text": " about, you know, people with disabilities. And so watching her interview really changed my life."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                639.66,
+                645.4
+            ],
+            "text": " And so I started to use it in my Psych of women class and also psych of gender. And then when appropriate,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                645.46,
+                651.24
+            ],
+            "text": " my other courses, because I thought if I've never thought about this issue, there's got to be other"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                651.24,
+                657.56
+            ],
+            "text": " people out there who are not thinking about disability. So one semester I had a really"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                657.56,
+                665.7
+            ],
+            "text": " talented student who also happened to have a physical disability. And she later told me that I was the first teacher or instructor professor"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                665.7,
+                673.36
+            ],
+            "text": " ever to include research on about people with disabilities, but not in a way that sort of"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                673.36,
+                683.0
+            ],
+            "text": " pities them. But by introducing Adrian Ash, she really felt empowered and inspired. And so this"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                683.0,
+                686.8
+            ],
+            "text": " is just one example of how the archive can be really meaningful to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                686.8,
+                697.2
+            ],
+            "text": " our students in ways that might be invisible to us. So the second way that I think the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                697.2,
+                704.18
+            ],
+            "text": " GFP materials can be used effectively, and I'm going to borrow a phrase from a colleague and"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                704.18,
+                710.34
+            ],
+            "text": " friend, Delia Sainz, who's a social psychologist and now at UC Merced. So this phrase, mirrors and windows,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                710.5,
+                717.52
+            ],
+            "text": " captures what the GFP offers. So the archive is so rich, it covers so many countries, so many issues,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                717.52,
+                723.68
+            ],
+            "text": " and our students are likely to find someone they can identify with. So this is sort of a mirror"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                723.68,
+                730.58
+            ],
+            "text": " where they get to see themselves reflected, which is often the case still in curriculum. In the United States, students"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                730.58,
+                737.54
+            ],
+            "text": " don't see themselves represented. The GFP also offers windows into the world,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                738.08,
+                744.62
+            ],
+            "text": " which for my students who don't have the means to travel the world, the GFP offers such a beautiful"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                744.62,
+                748.66
+            ],
+            "text": " representations of women from around the world who are doing these incredible things."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                750.54,
+                758.9
+            ],
+            "text": " Thank you. Thank you so much. It's so fascinating, really. And finally, Celeste's question,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                758.9,
+                767.42
+            ],
+            "text": " do you have any advice for others about pitfalls to avoiding using the global feminisms materials, maybe some"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                767.42,
+                773.62
+            ],
+            "text": " difficulties to watch out for based on your experience? And you have a lot of experience."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                776.84,
+                787.5
+            ],
+            "text": " So I think sometimes when, and I'll speak for Americans. When we're learning about other cultures or countries, we tend to interpret behavior through"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                787.5,
+                792.32
+            ],
+            "text": " our ethnocentric lens or through stereotypes about those countries."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                792.78,
+                798.22
+            ],
+            "text": " So I think preparing students with some exercises on reflexivity and intersectionality can help"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                798.22,
+                807.5
+            ],
+            "text": " to minimize those negative interpretations of cultures or even paternalistic views of the global South,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                807.56,
+                816.2
+            ],
+            "text": " for example. So I think that for some student bodies who may not have the exposure to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                816.2,
+                822.66
+            ],
+            "text": " the histories of other, you know, parts of the world, I think that that would be really helpful."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                822.64,
+                824.24
+            ],
+            "text": " you know, parts of the world, I think that that would be really helpful."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                830.82,
+                838.22
+            ],
+            "text": " Thank you. Thank you so much, Becky, for your time, for sharing all your experience and the way in which you have been using so richly the archive and all the materials. And yeah,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                838.22,
+                842.82
+            ],
+            "text": " thanks so much for joining us today. Thank you for inviting me."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                852.14,
+                857.98
+            ],
+            "text": " us today. Thank you for inviting me. Thank you again to Dr. Desirious for sharing her time and experience with us today on the podcast. We are impressed with the diverse ways in which she"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                857.98,
+                863.74
+            ],
+            "text": " incorporates the archive into her classes, and we hope that the adaptability of the materials from"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                863.74,
+                867.52
+            ],
+            "text": " the archive can serve as a model for other instructors, too."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                868.48,
+                877.2
+            ],
+            "text": " Thank you for listening to this episode of Contextualizing Feminist Voices, Teaching with the Global Feminisms Project, a podcast created by the Global Feminisms Project."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                877.92,
+                885.04
+            ],
+            "text": " The entire team hopes it will help you understand and incorporate the materials on the website into your class. If you liked this episode,"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                889.06,
+                889.58
+            ],
+            "text": " check out the other podcasts in the series, as well as materials about countries,"
+        }
+    ],
+    "chunks": [
+        {
+            "timestamp": [
+                0.0,
+                13.84
+            ],
+            "text": " Welcome to Contextualizing Feminist Voices, Teaching with the Global Feminisms Project."
+        },
+        {
+            "timestamp": [
+                14.42,
+                20.02
+            ],
+            "text": " This series is focused on teaching, pedagogy, and uses of the archive in the context of the classroom."
+        },
+        {
+            "timestamp": [
+                20.6,
+                25.16
+            ],
+            "text": " Designed with a special emphasis on educators, in each episode, you will learn from instructors"
+        },
+        {
+            "timestamp": [
+                25.16,
+                29.52
+            ],
+            "text": " who have used the project's interviews in their courses, and about activities and resources"
+        },
+        {
+            "timestamp": [
+                29.52,
+                31.88
+            ],
+            "text": " for incorporating the archive into your class."
+        },
+        {
+            "timestamp": [
+                32.14,
+                37.14
+            ],
+            "text": " Today, Dr. Desi Rios, Associate Professor of Social Psychology at the University of"
+        },
+        {
+            "timestamp": [
+                37.14,
+                40.44
+            ],
+            "text": " Houston, Clear Lake, joins us on the podcast."
+        },
+        {
+            "timestamp": [
+                41.12,
+                46.8
+            ],
+            "text": " Dr. Rios has published on intersectionality in the academy, including pedagogical practices"
+        },
+        {
+            "timestamp": [
+                46.8,
+                54.58
+            ],
+            "text": " and faculty and student experiences. Dr. Rios' current research focuses on examining collaborative"
+        },
+        {
+            "timestamp": [
+                54.58,
+                61.12
+            ],
+            "text": " practices among non-profit organizations in Houston's East End and the benefits of Latinx"
+        },
+        {
+            "timestamp": [
+                61.12,
+                65.42
+            ],
+            "text": " students learning about their history in K-12 education."
+        },
+        {
+            "timestamp": [
+                71.84,
+                76.84
+            ],
+            "text": " And she's currently writing the first Psychology of Latinx People textbook in the field of psychology."
+        },
+        {
+            "timestamp": [
+                82.38,
+                83.12
+            ],
+            "text": " So, Desi, can you briefly describe the course you use the archive in?"
+        },
+        {
+            "timestamp": [
+                86.78,
+                93.62
+            ],
+            "text": " Yes. First, I'd like to contextualize the type of institution I work at. So I am at the University of Houston Clear Lake. It is an HSI, so Hispanic Serving"
+        },
+        {
+            "timestamp": [
+                93.62,
+                100.68
+            ],
+            "text": " Institution. It is a regional comprehensive university with about just over 9,000 students"
+        },
+        {
+            "timestamp": [
+                100.68,
+                107.64
+            ],
+            "text": " enrolled. So we offer undergraduate and master's level degrees. 53% of our students"
+        },
+        {
+            "timestamp": [
+                107.64,
+                115.44
+            ],
+            "text": " identify as first generation college students. 42% identify as Latinx or Hispanic or Latino."
+        },
+        {
+            "timestamp": [
+                116.18,
+                121.64
+            ],
+            "text": " And the majority of our students also identify as working class. They have full-time jobs. They are"
+        },
+        {
+            "timestamp": [
+                121.64,
+                126.32
+            ],
+            "text": " parents. And the students tend to be older with a median age"
+        },
+        {
+            "timestamp": [
+                126.32,
+                134.02
+            ],
+            "text": " range between 28 and 32. I also want to describe my teaching style. All my classes are framed as"
+        },
+        {
+            "timestamp": [
+                134.02,
+                140.96
+            ],
+            "text": " social justice oriented. So students know that we're going to be applying psychology to social"
+        },
+        {
+            "timestamp": [
+                140.96,
+                145.92
+            ],
+            "text": " issues, which is sometimes surprising to students who are taking personality classes or"
+        },
+        {
+            "timestamp": [
+                145.92,
+                151.8
+            ],
+            "text": " even social psychology sometimes. And because of this, I have found the Global Feminism's archive"
+        },
+        {
+            "timestamp": [
+                151.8,
+                158.32
+            ],
+            "text": " to be really useful. Okay, so the two classes that I use the archive in most frequently"
+        },
+        {
+            "timestamp": [
+                158.32,
+                163.82
+            ],
+            "text": " are the psychology of women and gender, and this is at the undergraduate level."
+        },
+        {
+            "timestamp": [
+                163.82,
+                165.94
+            ],
+            "text": " of women and gender, and this is at the undergraduate level."
+        },
+        {
+            "timestamp": [
+                170.3,
+                171.4
+            ],
+            "text": " Usually this enrolls juniors and seniors, sometimes sophomores."
+        },
+        {
+            "timestamp": [
+                174.32,
+                174.96
+            ],
+            "text": " Usually about 30 to 40 students are enrolled."
+        },
+        {
+            "timestamp": [
+                181.26,
+                181.38
+            ],
+            "text": " So it's a smaller class, I think, compared to like Michigan, 150 student class."
+        },
+        {
+            "timestamp": [
+                183.4,
+                187.04
+            ],
+            "text": " But it is one of our larger classes. It is lecture-ish, and I say lecture-ish"
+        },
+        {
+            "timestamp": [
+                187.04,
+                192.18
+            ],
+            "text": " because there's lots of questions I build into the lecture, and I encourage students to interrupt as"
+        },
+        {
+            "timestamp": [
+                192.18,
+                197.92
+            ],
+            "text": " things might come up for them. We do a lot of small group work in the class that is led by them."
+        },
+        {
+            "timestamp": [
+                198.5,
+                206.32
+            ],
+            "text": " I also use the archive in the psychology of gender, race, and sexuality, which is a master's level course."
+        },
+        {
+            "timestamp": [
+                207.24,
+                214.66
+            ],
+            "text": " This class is basically about intersectionality, meaning this is a thread throughout the course."
+        },
+        {
+            "timestamp": [
+                214.98,
+                220.12
+            ],
+            "text": " Students are always putting, you know, practicing using an intersectional lens."
+        },
+        {
+            "timestamp": [
+                221.02,
+                227.9
+            ],
+            "text": " We do two weeks of reading on intersectionality power privilege oppression at the beginning"
+        },
+        {
+            "timestamp": [
+                227.9,
+                233.6
+            ],
+            "text": " and that is to lay the foundation for a semester-long project called the intersectionality"
+        },
+        {
+            "timestamp": [
+                233.6,
+                249.06
+            ],
+            "text": " project which I'll talk about a little bit later so in this class the enrollment is around 15 to 25 students. Excellent. Thank you so much. And thank you for such a great detail"
+        },
+        {
+            "timestamp": [
+                249.06,
+                255.64
+            ],
+            "text": " of all your classes and of course, the composition of the university. And I was wondering,"
+        },
+        {
+            "timestamp": [
+                255.88,
+                261.12
+            ],
+            "text": " how do you use the material in the archive and in what different ways?"
+        },
+        {
+            "timestamp": [
+                262.36,
+                268.6
+            ],
+            "text": " So for the psychology of women course, when I was a graduate student at Michigan, Lilia"
+        },
+        {
+            "timestamp": [
+                268.6,
+                270.72
+            ],
+            "text": " Cortina was one of my teaching mentors."
+        },
+        {
+            "timestamp": [
+                271.96,
+                278.12
+            ],
+            "text": " And, you know, as a GSI, you are grading, you're learning how to assess student assignments,"
+        },
+        {
+            "timestamp": [
+                278.2,
+                279.68
+            ],
+            "text": " they're learning and that type of thing."
+        },
+        {
+            "timestamp": [
+                279.74,
+                280.76
+            ],
+            "text": " So we did most of that."
+        },
+        {
+            "timestamp": [
+                281.04,
+                287.68
+            ],
+            "text": " But there was one assignment that she read and graded herself. And that was"
+        },
+        {
+            "timestamp": [
+                287.68,
+                295.08
+            ],
+            "text": " the interview assignment. And she talked about how these interviews were so meaningful and she"
+        },
+        {
+            "timestamp": [
+                295.08,
+                301.16
+            ],
+            "text": " really enjoyed reading them. So when I got to teach my own class, I decided to use that assignment as"
+        },
+        {
+            "timestamp": [
+                301.16,
+                305.38
+            ],
+            "text": " well. And so basically it is about learning about women who are different from"
+        },
+        {
+            "timestamp": [
+                305.38,
+                311.94
+            ],
+            "text": " you. So you can either choose a woman who is 60 years or older, or you can choose someone who's"
+        },
+        {
+            "timestamp": [
+                311.94,
+                316.04
+            ],
+            "text": " different from you in terms of where they grew up, you know, different countries, sexual orientation,"
+        },
+        {
+            "timestamp": [
+                316.16,
+                337.88
+            ],
+            "text": " those types of things. So as I mentioned early, many of our students are from the working class and they work full-time jobs. So asking them to do something in addition to their coursework can be very burdensome. It's a lot to add to their already full plates."
+        },
+        {
+            "timestamp": [
+                346.68,
+                353.28
+            ],
+            "text": " are okay with interviewing someone they know. But for other students, this is an excellent opportunity for them to get to know, so to speak, someone fascinating, right? So the GFP"
+        },
+        {
+            "timestamp": [
+                353.28,
+                360.64
+            ],
+            "text": " archive I added to my classes. So a lot of students actually choose to read through the GFP articles"
+        },
+        {
+            "timestamp": [
+                360.64,
+                367.04
+            ],
+            "text": " and then complete their assignment. For a lot of students, this is really inspiring"
+        },
+        {
+            "timestamp": [
+                367.04,
+                374.44
+            ],
+            "text": " to learn about someone that they kind of identify with who, you know, might come from a similar"
+        },
+        {
+            "timestamp": [
+                374.44,
+                380.28
+            ],
+            "text": " background. And then they learn about the, you know, the trajectory of these women and these"
+        },
+        {
+            "timestamp": [
+                380.28,
+                386.88
+            ],
+            "text": " accomplishments and their activism or scholarship, they might choose someone entirely"
+        },
+        {
+            "timestamp": [
+                386.88,
+                392.94
+            ],
+            "text": " different. And this opens up the world to students who have may never have left the city of Houston,"
+        },
+        {
+            "timestamp": [
+                393.32,
+                398.38
+            ],
+            "text": " for example. So it's a real opportunity for them to learn about the world."
+        },
+        {
+            "timestamp": [
+                399.04,
+                406.58
+            ],
+            "text": " For the psychology of gender, race, and sexuality class, students collectively engage in this intersectionality"
+        },
+        {
+            "timestamp": [
+                406.58,
+                411.98
+            ],
+            "text": " project, which is a semester-long project. As a class, they choose one social issue."
+        },
+        {
+            "timestamp": [
+                413.56,
+                418.76
+            ],
+            "text": " And if you're interested to learn more about this project, it's laid out in Kim Case's edited book,"
+        },
+        {
+            "timestamp": [
+                418.86,
+                427.9
+            ],
+            "text": " Intersectional Pedagogy, and you can learn about how to do this assignment step-by-step. So, okay. But to be"
+        },
+        {
+            "timestamp": [
+                427.9,
+                435.16
+            ],
+            "text": " brief, students choose one social issue, such as reproductive justice or sexual violence, or"
+        },
+        {
+            "timestamp": [
+                435.16,
+                441.8
+            ],
+            "text": " even access to, you know, education and those types of things. And then they choose the groups"
+        },
+        {
+            "timestamp": [
+                441.8,
+                451.62
+            ],
+            "text": " that they want to research, such as Latinx people, white men, people with disabilities, LGBTQ folks, which inevitably they learn they have to use"
+        },
+        {
+            "timestamp": [
+                451.62,
+                456.42
+            ],
+            "text": " an intersectional lens, right? Because even Latinx people, you know, we start to look,"
+        },
+        {
+            "timestamp": [
+                456.78,
+                461.34
+            ],
+            "text": " our experiences are different when you start to consider gender, social class, colorism,"
+        },
+        {
+            "timestamp": [
+                461.34,
+                465.6
+            ],
+            "text": " the rest of that. So they apply social side concepts as we learn over the"
+        },
+        {
+            "timestamp": [
+                465.6,
+                470.58
+            ],
+            "text": " semester, but an important component of intersectionality, of course, is understanding"
+        },
+        {
+            "timestamp": [
+                470.58,
+                479.14
+            ],
+            "text": " the social structures and systems of oppression. And this is where the GFP comes in. So as their"
+        },
+        {
+            "timestamp": [
+                479.14,
+                487.0
+            ],
+            "text": " final presentation or exam, they do these small group presentations for the class. And here we get to"
+        },
+        {
+            "timestamp": [
+                487.0,
+                493.62
+            ],
+            "text": " see how one social issue may affect different groups differently, but we also get to see some"
+        },
+        {
+            "timestamp": [
+                493.62,
+                500.44
+            ],
+            "text": " overlap or commonalities, and then we can discuss on how we can work together. But I asked them"
+        },
+        {
+            "timestamp": [
+                500.44,
+                505.84
+            ],
+            "text": " to identify one organization in Houston, so something local in Houston or in Texas,"
+        },
+        {
+            "timestamp": [
+                505.84,
+                512.08
+            ],
+            "text": " if they can't find anything in Houston. And then also for a national or international perspective,"
+        },
+        {
+            "timestamp": [
+                512.08,
+                516.32
+            ],
+            "text": " they need to identify one GFP interviewee who's also working on that social issue."
+        },
+        {
+            "timestamp": [
+                517.12,
+                528.52
+            ],
+            "text": " So they compare and they contrast how local policy or advocacy plays out, but also how the GFP interviewees advocacy, what that looks like."
+        },
+        {
+            "timestamp": [
+                528.98,
+                534.68
+            ],
+            "text": " And so this really opens the conversation for what we can do better in Texas, which is a lot."
+        },
+        {
+            "timestamp": [
+                537.18,
+                547.6
+            ],
+            "text": " Thank you so much. It's so fascinating the way in which, from what you described, all the materials seem to fit so great into your"
+        },
+        {
+            "timestamp": [
+                547.6,
+                553.98
+            ],
+            "text": " courses, but at the same time, you're able to work with them in different ways. It's amazing."
+        },
+        {
+            "timestamp": [
+                554.28,
+                562.92
+            ],
+            "text": " They are millable, but they also seem to fit amazingly. So thank you. And so as a follow-up"
+        },
+        {
+            "timestamp": [
+                562.92,
+                571.04
+            ],
+            "text": " to the previous question, what do you think that is most effective about the way you use the global feminisms material?"
+        },
+        {
+            "timestamp": [
+                572.4,
+                586.1
+            ],
+            "text": " Well, there's a couple of things. So the first one is that I use I also use the interviews in lectures and they lend themselves very well to various social issues, as I mentioned. For the psychology of women course,"
+        },
+        {
+            "timestamp": [
+                586.22,
+                593.82
+            ],
+            "text": " the interviews really bring to life these theories or these outcomes that are reported by researchers."
+        },
+        {
+            "timestamp": [
+                594.44,
+                601.42
+            ],
+            "text": " And I want to share a particular story about the power of representation that the archive offers."
+        },
+        {
+            "timestamp": [
+                602.04,
+                605.8
+            ],
+            "text": " And so I've always used Adrienne Ashe's interview from the U.S. site"
+        },
+        {
+            "timestamp": [
+                605.8,
+                611.7
+            ],
+            "text": " in my courses because I think she's really powerful. And I remember as a grad student"
+        },
+        {
+            "timestamp": [
+                611.7,
+                617.46
+            ],
+            "text": " thinking how wonderful, what a wonderful job the U.S. site, which was led by Liz Cole,"
+        },
+        {
+            "timestamp": [
+                618.3,
+                626.0
+            ],
+            "text": " what a wonderful job they had done in terms of representation of the United States and the work that was being done here."
+        },
+        {
+            "timestamp": [
+                627.14,
+                633.82
+            ],
+            "text": " When I saw Adrienne Ashe's interview, it occurred to me that this was something I had never thought"
+        },
+        {
+            "timestamp": [
+                633.82,
+                639.66
+            ],
+            "text": " about, you know, people with disabilities. And so watching her interview really changed my life."
+        },
+        {
+            "timestamp": [
+                639.66,
+                645.4
+            ],
+            "text": " And so I started to use it in my Psych of women class and also psych of gender. And then when appropriate,"
+        },
+        {
+            "timestamp": [
+                645.46,
+                651.24
+            ],
+            "text": " my other courses, because I thought if I've never thought about this issue, there's got to be other"
+        },
+        {
+            "timestamp": [
+                651.24,
+                657.56
+            ],
+            "text": " people out there who are not thinking about disability. So one semester I had a really"
+        },
+        {
+            "timestamp": [
+                657.56,
+                665.7
+            ],
+            "text": " talented student who also happened to have a physical disability. And she later told me that I was the first teacher or instructor professor"
+        },
+        {
+            "timestamp": [
+                665.7,
+                673.36
+            ],
+            "text": " ever to include research on about people with disabilities, but not in a way that sort of"
+        },
+        {
+            "timestamp": [
+                673.36,
+                683.0
+            ],
+            "text": " pities them. But by introducing Adrian Ash, she really felt empowered and inspired. And so this"
+        },
+        {
+            "timestamp": [
+                683.0,
+                686.8
+            ],
+            "text": " is just one example of how the archive can be really meaningful to"
+        },
+        {
+            "timestamp": [
+                686.8,
+                697.2
+            ],
+            "text": " our students in ways that might be invisible to us. So the second way that I think the"
+        },
+        {
+            "timestamp": [
+                697.2,
+                704.18
+            ],
+            "text": " GFP materials can be used effectively, and I'm going to borrow a phrase from a colleague and"
+        },
+        {
+            "timestamp": [
+                704.18,
+                710.34
+            ],
+            "text": " friend, Delia Sainz, who's a social psychologist and now at UC Merced. So this phrase, mirrors and windows,"
+        },
+        {
+            "timestamp": [
+                710.5,
+                717.52
+            ],
+            "text": " captures what the GFP offers. So the archive is so rich, it covers so many countries, so many issues,"
+        },
+        {
+            "timestamp": [
+                717.52,
+                723.68
+            ],
+            "text": " and our students are likely to find someone they can identify with. So this is sort of a mirror"
+        },
+        {
+            "timestamp": [
+                723.68,
+                730.58
+            ],
+            "text": " where they get to see themselves reflected, which is often the case still in curriculum. In the United States, students"
+        },
+        {
+            "timestamp": [
+                730.58,
+                737.54
+            ],
+            "text": " don't see themselves represented. The GFP also offers windows into the world,"
+        },
+        {
+            "timestamp": [
+                738.08,
+                744.62
+            ],
+            "text": " which for my students who don't have the means to travel the world, the GFP offers such a beautiful"
+        },
+        {
+            "timestamp": [
+                744.62,
+                748.66
+            ],
+            "text": " representations of women from around the world who are doing these incredible things."
+        },
+        {
+            "timestamp": [
+                750.54,
+                758.9
+            ],
+            "text": " Thank you. Thank you so much. It's so fascinating, really. And finally, Celeste's question,"
+        },
+        {
+            "timestamp": [
+                758.9,
+                767.42
+            ],
+            "text": " do you have any advice for others about pitfalls to avoiding using the global feminisms materials, maybe some"
+        },
+        {
+            "timestamp": [
+                767.42,
+                773.62
+            ],
+            "text": " difficulties to watch out for based on your experience? And you have a lot of experience."
+        },
+        {
+            "timestamp": [
+                776.84,
+                787.5
+            ],
+            "text": " So I think sometimes when, and I'll speak for Americans. When we're learning about other cultures or countries, we tend to interpret behavior through"
+        },
+        {
+            "timestamp": [
+                787.5,
+                792.32
+            ],
+            "text": " our ethnocentric lens or through stereotypes about those countries."
+        },
+        {
+            "timestamp": [
+                792.78,
+                798.22
+            ],
+            "text": " So I think preparing students with some exercises on reflexivity and intersectionality can help"
+        },
+        {
+            "timestamp": [
+                798.22,
+                807.5
+            ],
+            "text": " to minimize those negative interpretations of cultures or even paternalistic views of the global South,"
+        },
+        {
+            "timestamp": [
+                807.56,
+                816.2
+            ],
+            "text": " for example. So I think that for some student bodies who may not have the exposure to"
+        },
+        {
+            "timestamp": [
+                816.2,
+                822.66
+            ],
+            "text": " the histories of other, you know, parts of the world, I think that that would be really helpful."
+        },
+        {
+            "timestamp": [
+                822.64,
+                824.24
+            ],
+            "text": " you know, parts of the world, I think that that would be really helpful."
+        },
+        {
+            "timestamp": [
+                830.82,
+                838.22
+            ],
+            "text": " Thank you. Thank you so much, Becky, for your time, for sharing all your experience and the way in which you have been using so richly the archive and all the materials. And yeah,"
+        },
+        {
+            "timestamp": [
+                838.22,
+                842.82
+            ],
+            "text": " thanks so much for joining us today. Thank you for inviting me."
+        },
+        {
+            "timestamp": [
+                852.14,
+                857.98
+            ],
+            "text": " us today. Thank you for inviting me. Thank you again to Dr. Desirious for sharing her time and experience with us today on the podcast. We are impressed with the diverse ways in which she"
+        },
+        {
+            "timestamp": [
+                857.98,
+                863.74
+            ],
+            "text": " incorporates the archive into her classes, and we hope that the adaptability of the materials from"
+        },
+        {
+            "timestamp": [
+                863.74,
+                867.52
+            ],
+            "text": " the archive can serve as a model for other instructors, too."
+        },
+        {
+            "timestamp": [
+                868.48,
+                877.2
+            ],
+            "text": " Thank you for listening to this episode of Contextualizing Feminist Voices, Teaching with the Global Feminisms Project, a podcast created by the Global Feminisms Project."
+        },
+        {
+            "timestamp": [
+                877.92,
+                885.04
+            ],
+            "text": " The entire team hopes it will help you understand and incorporate the materials on the website into your class. If you liked this episode,"
+        },
+        {
+            "timestamp": [
+                889.06,
+                889.58
+            ],
+            "text": " check out the other podcasts in the series, as well as materials about countries,"
+        },
+        {
+            "timestamp": [
+                891.78,
+                null
+            ],
+            "text": " teaching resources, and interviews on the website."
+        }
+    ],
+    "text": " Welcome to Contextualizing Feminist Voices, Teaching with the Global Feminisms Project. This series is focused on teaching, pedagogy, and uses of the archive in the context of the classroom. Designed with a special emphasis on educators, in each episode, you will learn from instructors who have used the project's interviews in their courses, and about activities and resources for incorporating the archive into your class. Today, Dr. Desi Rios, Associate Professor of Social Psychology at the University of Houston, Clear Lake, joins us on the podcast. Dr. Rios has published on intersectionality in the academy, including pedagogical practices and faculty and student experiences. Dr. Rios' current research focuses on examining collaborative practices among non-profit organizations in Houston's East End and the benefits of Latinx students learning about their history in K-12 education. And she's currently writing the first Psychology of Latinx People textbook in the field of psychology. So, Desi, can you briefly describe the course you use the archive in? Yes. First, I'd like to contextualize the type of institution I work at. So I am at the University of Houston Clear Lake. It is an HSI, so Hispanic Serving Institution. It is a regional comprehensive university with about just over 9,000 students enrolled. So we offer undergraduate and master's level degrees. 53% of our students identify as first generation college students. 42% identify as Latinx or Hispanic or Latino. And the majority of our students also identify as working class. They have full-time jobs. They are parents. And the students tend to be older with a median age range between 28 and 32. I also want to describe my teaching style. All my classes are framed as social justice oriented. So students know that we're going to be applying psychology to social issues, which is sometimes surprising to students who are taking personality classes or even social psychology sometimes. And because of this, I have found the Global Feminism's archive to be really useful. Okay, so the two classes that I use the archive in most frequently are the psychology of women and gender, and this is at the undergraduate level. of women and gender, and this is at the undergraduate level. Usually this enrolls juniors and seniors, sometimes sophomores. Usually about 30 to 40 students are enrolled. So it's a smaller class, I think, compared to like Michigan, 150 student class. But it is one of our larger classes. It is lecture-ish, and I say lecture-ish because there's lots of questions I build into the lecture, and I encourage students to interrupt as things might come up for them. We do a lot of small group work in the class that is led by them. I also use the archive in the psychology of gender, race, and sexuality, which is a master's level course. This class is basically about intersectionality, meaning this is a thread throughout the course. Students are always putting, you know, practicing using an intersectional lens. We do two weeks of reading on intersectionality power privilege oppression at the beginning and that is to lay the foundation for a semester-long project called the intersectionality project which I'll talk about a little bit later so in this class the enrollment is around 15 to 25 students. Excellent. Thank you so much. And thank you for such a great detail of all your classes and of course, the composition of the university. And I was wondering, how do you use the material in the archive and in what different ways? So for the psychology of women course, when I was a graduate student at Michigan, Lilia Cortina was one of my teaching mentors. And, you know, as a GSI, you are grading, you're learning how to assess student assignments, they're learning and that type of thing. So we did most of that. But there was one assignment that she read and graded herself. And that was the interview assignment. And she talked about how these interviews were so meaningful and she really enjoyed reading them. So when I got to teach my own class, I decided to use that assignment as well. And so basically it is about learning about women who are different from you. So you can either choose a woman who is 60 years or older, or you can choose someone who's different from you in terms of where they grew up, you know, different countries, sexual orientation, those types of things. So as I mentioned early, many of our students are from the working class and they work full-time jobs. So asking them to do something in addition to their coursework can be very burdensome. It's a lot to add to their already full plates. are okay with interviewing someone they know. But for other students, this is an excellent opportunity for them to get to know, so to speak, someone fascinating, right? So the GFP archive I added to my classes. So a lot of students actually choose to read through the GFP articles and then complete their assignment. For a lot of students, this is really inspiring to learn about someone that they kind of identify with who, you know, might come from a similar background. And then they learn about the, you know, the trajectory of these women and these accomplishments and their activism or scholarship, they might choose someone entirely different. And this opens up the world to students who have may never have left the city of Houston, for example. So it's a real opportunity for them to learn about the world. For the psychology of gender, race, and sexuality class, students collectively engage in this intersectionality project, which is a semester-long project. As a class, they choose one social issue. And if you're interested to learn more about this project, it's laid out in Kim Case's edited book, Intersectional Pedagogy, and you can learn about how to do this assignment step-by-step. So, okay. But to be brief, students choose one social issue, such as reproductive justice or sexual violence, or even access to, you know, education and those types of things. And then they choose the groups that they want to research, such as Latinx people, white men, people with disabilities, LGBTQ folks, which inevitably they learn they have to use an intersectional lens, right? Because even Latinx people, you know, we start to look, our experiences are different when you start to consider gender, social class, colorism, the rest of that. So they apply social side concepts as we learn over the semester, but an important component of intersectionality, of course, is understanding the social structures and systems of oppression. And this is where the GFP comes in. So as their final presentation or exam, they do these small group presentations for the class. And here we get to see how one social issue may affect different groups differently, but we also get to see some overlap or commonalities, and then we can discuss on how we can work together. But I asked them to identify one organization in Houston, so something local in Houston or in Texas, if they can't find anything in Houston. And then also for a national or international perspective, they need to identify one GFP interviewee who's also working on that social issue. So they compare and they contrast how local policy or advocacy plays out, but also how the GFP interviewees advocacy, what that looks like. And so this really opens the conversation for what we can do better in Texas, which is a lot. Thank you so much. It's so fascinating the way in which, from what you described, all the materials seem to fit so great into your courses, but at the same time, you're able to work with them in different ways. It's amazing. They are millable, but they also seem to fit amazingly. So thank you. And so as a follow-up to the previous question, what do you think that is most effective about the way you use the global feminisms material? Well, there's a couple of things. So the first one is that I use I also use the interviews in lectures and they lend themselves very well to various social issues, as I mentioned. For the psychology of women course, the interviews really bring to life these theories or these outcomes that are reported by researchers. And I want to share a particular story about the power of representation that the archive offers. And so I've always used Adrienne Ashe's interview from the U.S. site in my courses because I think she's really powerful. And I remember as a grad student thinking how wonderful, what a wonderful job the U.S. site, which was led by Liz Cole, what a wonderful job they had done in terms of representation of the United States and the work that was being done here. When I saw Adrienne Ashe's interview, it occurred to me that this was something I had never thought about, you know, people with disabilities. And so watching her interview really changed my life. And so I started to use it in my Psych of women class and also psych of gender. And then when appropriate, my other courses, because I thought if I've never thought about this issue, there's got to be other people out there who are not thinking about disability. So one semester I had a really talented student who also happened to have a physical disability. And she later told me that I was the first teacher or instructor professor ever to include research on about people with disabilities, but not in a way that sort of pities them. But by introducing Adrian Ash, she really felt empowered and inspired. And so this is just one example of how the archive can be really meaningful to our students in ways that might be invisible to us. So the second way that I think the GFP materials can be used effectively, and I'm going to borrow a phrase from a colleague and friend, Delia Sainz, who's a social psychologist and now at UC Merced. So this phrase, mirrors and windows, captures what the GFP offers. So the archive is so rich, it covers so many countries, so many issues, and our students are likely to find someone they can identify with. So this is sort of a mirror where they get to see themselves reflected, which is often the case still in curriculum. In the United States, students don't see themselves represented. The GFP also offers windows into the world, which for my students who don't have the means to travel the world, the GFP offers such a beautiful representations of women from around the world who are doing these incredible things. Thank you. Thank you so much. It's so fascinating, really. And finally, Celeste's question, do you have any advice for others about pitfalls to avoiding using the global feminisms materials, maybe some difficulties to watch out for based on your experience? And you have a lot of experience. So I think sometimes when, and I'll speak for Americans. When we're learning about other cultures or countries, we tend to interpret behavior through our ethnocentric lens or through stereotypes about those countries. So I think preparing students with some exercises on reflexivity and intersectionality can help to minimize those negative interpretations of cultures or even paternalistic views of the global South, for example. So I think that for some student bodies who may not have the exposure to the histories of other, you know, parts of the world, I think that that would be really helpful. you know, parts of the world, I think that that would be really helpful. Thank you. Thank you so much, Becky, for your time, for sharing all your experience and the way in which you have been using so richly the archive and all the materials. And yeah, thanks so much for joining us today. Thank you for inviting me. us today. Thank you for inviting me. Thank you again to Dr. Desirious for sharing her time and experience with us today on the podcast. We are impressed with the diverse ways in which she incorporates the archive into her classes, and we hope that the adaptability of the materials from the archive can serve as a model for other instructors, too. Thank you for listening to this episode of Contextualizing Feminist Voices, Teaching with the Global Feminisms Project, a podcast created by the Global Feminisms Project. The entire team hopes it will help you understand and incorporate the materials on the website into your class. If you liked this episode, check out the other podcasts in the series, as well as materials about countries, teaching resources, and interviews on the website."
+}
