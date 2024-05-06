@@ -8,8 +8,8 @@ To improve searching for new podcasts. Simple keywords searches is not enough, I
 And that can be by identifying podcast speakers and topics, this is now something AI is becoming increasingly good at.
 
 ## Transcripts
-There already exist Podcast services that are doing podcast transcripts. However, they are not available through their API's.
-It is likely due to copyright issues. For that reason, I've focused on podcasts with Creative Common's licenses while I investigate this further.
+There is Podcast services out there that are doing podcast transcripts. However, the transcripts are not available through their API's.
+And it is likely due to copyright issues. For that reason, I've focused on podcasts with Creative Common's licenses, while I investigate this issue further.
 
 To transcribe audio, there are different engines. I only got to try Whisper and with the Insanely-Fast-Whisper version. It works on CUDA GPU's and Apple Silicon.
 After processing, you get a JSON file with the transcripts in segments, you need to do an additional step to figure out who is saying what.
