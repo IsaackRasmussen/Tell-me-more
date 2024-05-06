@@ -1,4 +1,8 @@
-media/*.mp3
+**/.idea
+**/*.mp3
+**/bin/Debug
+**/bin/Release
+**/obj/*
 # Logs
 logs
 *.log

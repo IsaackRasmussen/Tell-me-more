@@ -40,10 +40,27 @@ export const dbSqlGetFeedsEpisodes = async function () {
     });
 }
 
-export const dbSqlGetEpisodesToTranscribe = async function () {
+export const dbSqlGetEpisodesToTranscripe = async function () {
+    return await connectToDbSql(async (session: IDBSQLSession) => {
+        await session.executeStatement('DECLARE OR REPLACE VARIABLE reservation_key_value STRING DEFAULT NULL', { runAsync: true, maxRows: 10000 });
+        await session.executeStatement('DECLARE OR REPLACE VARIABLE reservation_id STRING DEFAULT NULL', { runAsync: true, maxRows: 10000 });
+        await session.executeStatement('SET VAR reservation_key_value=uuid()', { runAsync: true, maxRows: 10000 });
+        await session.executeStatement('SET VAR reservation_id = (SELECT id FROM tell_me_more.default.feeds_episodes WHERE transcript IS NULL AND current_timestamp()>=COALESCE(reserved_until,current_timestamp()) LIMIT 1)', { runAsync: true, maxRows: 10000 });
+        await session.executeStatement('UPDATE tell_me_more.default.feeds_episodes SET reserved_until=timestampadd(MINUTE,20,current_timestamp()),reservation_key=reservation_key_value WHERE current_timestamp()>=COALESCE(reserved_until,current_timestamp()) AND id=reservation_id', { runAsync: true, maxRows: 10000 });
+        const queryOperation: IOperation = await session.executeStatement('SELECT * FROM tell_me_more.default.feeds_episodes WHERE transcript IS NULL AND current_timestamp()<COALESCE(reserved_until,current_timestamp()) AND reservation_key=reservation_key_value', { runAsync: true, maxRows: 10000 });
+
+        const result = await queryOperation.fetchAll();
+
+        await queryOperation.close();
+
+        return result ?? [];
+    });
+}
+
+export const dbSqlSetEpisodeTranscription = async function (mediaUrl: string, transcription: string) {
     return await connectToDbSql(async (session: IDBSQLSession) => {
         const queryOperation: IOperation = await session.executeStatement(
-            'SELECT * FROM tell_me_more.default.feeds_episodes WHERE transcript IS NULL LIMIT 1',
+            `UPDATE tell_me_more.default.feeds_episodes SET transcription='${transcription}'`,
             {
                 runAsync: true,
                 maxRows: 10000 // This option enables the direct results feature.
@@ -56,6 +73,7 @@ export const dbSqlGetEpisodesToTranscribe = async function () {
 
         return result;
     });
+
 }
 
 const connectToDbSql = async function (queryMethodProc: any) {

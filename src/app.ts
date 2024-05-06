@@ -3,8 +3,8 @@ import * as dotevnv from "dotenv"
 import cors from "cors"
 import helmet from "helmet"
 import { feedsRouter } from "./feeds.routes"
-import { dbSqlGetEpisodesToTranscribe } from "./databricks"
-import { downloadEpisodeAndTranscribe } from "./transcribeEpisodes"
+import { dbSqlGetEpisodesToTranscripe } from "./databricks"
+import { downloadEpisodeAndTranscripe } from "./transcripeEpisodes"
 
 
 dotevnv.config()
@@ -27,12 +27,16 @@ app.use('/', feedsRouter)
 console.log('Job queued');
 
 setInterval(async () => {
-    const results = await dbSqlGetEpisodesToTranscribe();
-    const result = results[0];
-    console.log('Processing transcribeQueue(' + result.id + '): ', result);
+    const results = await dbSqlGetEpisodesToTranscripe();
+    console.log('Episodes to transcripe: ', results);
+    /*if (results.length > 0) {
+        results.array.forEach((result: any) => {
+            console.log('Processing transcripeQueue(' + result.id + '): ', result);
 
-    downloadEpisodeAndTranscribe(result.media_url, result.id);
-}, 1000 * 20);
+            downloadEpisodeAndTranscripe(result.media_url, result.id);
+        });
+    }*/
+}, 1000 * 10);
 
 
 // Start server

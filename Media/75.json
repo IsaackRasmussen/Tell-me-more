@@ -1,0 +1,4327 @@
+{
+    "speakers": [
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                0.4,
+                7.04
+            ],
+            "text": " Welcome to Open Minds from Creative Commons. I'm Oney-Ann Youcombe, CC's Campaigns Manager."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                7.68,
+                15.12
+            ],
+            "text": " We're celebrating Creative Commons' 20th anniversary this year, and one of the ways that we're doing that is with this podcast."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                15.6,
+                22.84
+            ],
+            "text": " A series of conversations with people working on the issues we're involved with and subjects we're excited about."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                22.88,
+                25.64
+            ],
+            "text": " with and subjects we're excited about."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                33.14,
+                39.72
+            ],
+            "text": " Happy International Open Access Week, a global community-driven week of action to open up access to research, taking place from October the 25th to the 31st this year."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                40.38,
+                51.5
+            ],
+            "text": " In celebration of this, our guest on this episode is Heather Joseph, the Executive Director of SPARC, the Scholarly Publishing and Academic Resources Coalition."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                52.42,
+                62.52
+            ],
+            "text": " SPARC is a global advocacy organisation working to make research and education open and equitable by design for everyone."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                67.94,
+                75.16
+            ],
+            "text": " by design for everyone. International Open Access Week was first established by Spark and partners in the student community back in 2008. Find out more about the week's activities"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                75.16,
+                86.74
+            ],
+            "text": " at openaccessweek.org. Heather is a US-based advocate for open access and academic journal publishing reform. Under her stewardship,"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                87.4,
+                93.26
+            ],
+            "text": " Spark has become widely recognized as the leading international force for effective"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                93.26,
+                99.96
+            ],
+            "text": " open access policies and practices. Well, that's enough from me. I hope you enjoy this"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                99.96,
+                109.64
+            ],
+            "text": " conversation with Heather Joseph. So just to get us started, we'd love to give our listeners an"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                109.64,
+                116.1
+            ],
+            "text": " opportunity to get to know you better and to explore your background in open access. Could"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                116.1,
+                122.1
+            ],
+            "text": " you start by just introducing yourself and telling us how you were first introduced to open?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                123.28,
+                126.98
+            ],
+            "text": " Sure. I'm Heather Joseph, and I'm the Executive Director"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                126.98,
+                133.5
+            ],
+            "text": " of SPARC, which is an international advocacy organization based in the academic and research"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                133.5,
+                140.1
+            ],
+            "text": " library community who advocate for an open and equitable system of research and education."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                140.84,
+                165.62
+            ],
+            "text": " And we have, and I have, been advocating for Open Access since 2001. Actually, I can't believe it's been as long as it has been. But yeah, I was super fortunate to be at Spark when the Soros Foundation's Open Society Foundations convened the meeting in Budapest that led to the Budapest Open Access Initiative, which is where"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                165.62,
+                172.14
+            ],
+            "text": " the concept of open access was first defined. And SPARC was one of the original signatory"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                172.14,
+                178.42
+            ],
+            "text": " organizations to the declaration and initiative that came out of that meeting in 2001."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                180.48,
+                197.28
+            ],
+            "text": " Awesome. And you've touched a little bit on my second question, but I just want to talk a bit more about the advocacy role that SPARC plays internationally in the fight for access to open knowledge."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                205.06,
+                213.02
+            ],
+            "text": " We do a lot of advocacy on, I would say, a couple of different levels. We do advocacy kind of at the grassroots organization level, educating researchers,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                213.54,
+                221.7
+            ],
+            "text": " faculty, students, members of the public about the opportunities that creating a more open"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                221.7,
+                225.84
+            ],
+            "text": " system for sharing in the research environment and sharing, you know,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                225.9,
+                233.68
+            ],
+            "text": " in educational institutions can bring. And we also do advocacy on the policy level, right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                233.68,
+                240.58
+            ],
+            "text": " Really working to influence policymakers, whether they're heads of research or academic institutions,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                241.16,
+                247.9
+            ],
+            "text": " research funders, or members of federal governments to create policies that we like to say, set the default to open, right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                247.98,
+                252.94
+            ],
+            "text": " Change the rules of the road, if you will, to make open and open access to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                253.2,
+                254.82
+            ],
+            "text": " research and education the default."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                256.14,
+                261.22
+            ],
+            "text": " And I'll dive into the policy piece a little later on in our conversation."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                261.24,
+                266.28
+            ],
+            "text": " But one thing that I'm personally interested to know you've been working in this"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                266.28,
+                274.54
+            ],
+            "text": " space now for the past two decades and you're widely recognized as an advocate and champion"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                274.54,
+                281.38
+            ],
+            "text": " for open access but in your personal writing and some of the other interviews you've done you use"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                281.38,
+                286.62
+            ],
+            "text": " the phrase open knowledge and I just wanted to know if you see these as"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                286.62,
+                293.52
+            ],
+            "text": " being one and the same. And, you know, is it intentional? And what's the difference if there"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                293.52,
+                300.6
+            ],
+            "text": " is any difference at all? That's a great question. And it is a change. And it is an intentional one."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                300.6,
+                332.34
+            ],
+            "text": " So I'm actually kind of thrilled that you noticed that. When we first started out talking about open access and really sort of working on the issue of open access, we really kind of honed in on a specific layer of knowledge, right, of articles that were published in journals. And that was really the focus because that was in academic libraries and academic institutions. It's kind of where the most visible manifestations"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                332.34,
+                341.34
+            ],
+            "text": " of we really have a problem were surfacing. So we tended in the first really decade of the open"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                341.34,
+                348.48
+            ],
+            "text": " access movement to kind of use open access as a shorthand for what I think we all"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                348.48,
+                356.56
+            ],
+            "text": " intuitively knew was a larger issue or a set of larger issues. But we recognized, maybe it"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                356.56,
+                369.64
+            ],
+            "text": " shouldn't have taken quite so long, but eventually I think we recognized that in order to have people really be able to see how this issue affected them,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                370.28,
+                375.18
+            ],
+            "text": " if they weren't necessarily going to a library and trying to access a journal article,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                375.66,
+                381.28
+            ],
+            "text": " we still want people to understand this is really important to every individual on the planet."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                381.92,
+                387.26
+            ],
+            "text": " And so we've tried really deliberately to make sure that we have a"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                387.26,
+                394.28
+            ],
+            "text": " framing that kind of talks about the fact that whether it's a journal article or textbook,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                394.52,
+                399.54
+            ],
+            "text": " right, if you're a student and you can't get access to a textbook or a chapter, or you're a"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                399.54,
+                404.98
+            ],
+            "text": " parent or a patient, and you're interested in finding out the latest medical information,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                404.98,
+                406.36
+            ],
+            "text": " because someone in"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                406.36,
+                411.3
+            ],
+            "text": " your family is, you know, has recently been diagnosed with something, these things matter"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                411.3,
+                416.74
+            ],
+            "text": " to you. So we've worked really hard actually to kind of make sure that the framing that we have"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                416.74,
+                441.24
+            ],
+            "text": " speaks to the idea that this is information, right? This is knowledge that is meaningful to everyone, everywhere. And that access to that layer of information, of knowledge writ large, is actually a universal human right. And so everyone should be interested in making sure that we all have equal ability to benefit from it."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                448.12,
+                457.56
+            ],
+            "text": " to benefit from it. I think that pivot towards open knowledge and just expanding how we talk about it is so critical. You know, I could see how with the term open access, many may feel that"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                457.56,
+                463.5
+            ],
+            "text": " they're excluded from such conversations and that it's not relevant to them. But, you know,"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                463.5,
+                466.48
+            ],
+            "text": " knowledge is something that should be universal"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                466.48,
+                471.02
+            ],
+            "text": " and it definitely is somewhat more inclusive in many ways."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                471.02,
+                475.2
+            ],
+            "text": " So I hope to see it more widely adopted."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                475.8,
+                475.94
+            ],
+            "text": " Totally."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                476.16,
+                477.6
+            ],
+            "text": " People ask me sometimes, you know,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                477.62,
+                480.1
+            ],
+            "text": " if you could go back to the beginning of the open access movement"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                480.1,
+                482.46
+            ],
+            "text": " and change one thing, what would it be?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                482.8,
+                487.36
+            ],
+            "text": " And one of the things that I would do would be to change what we called it, right?"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                487.42,
+                490.28
+            ],
+            "text": " The idea of open access, mainly because,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                490.44,
+                493.0
+            ],
+            "text": " I mean, for the reasons that you just described, yes,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                493.28,
+                495.76
+            ],
+            "text": " but also because it puts the focus"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                495.76,
+                498.6
+            ],
+            "text": " on one aspect of knowledge sharing,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                499.08,
+                501.66
+            ],
+            "text": " and that's being able to get to, right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                501.7,
+                504.1
+            ],
+            "text": " To access, to interact with knowledge,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                504.1,
+                506.06
+            ],
+            "text": " but it doesn't cover the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                506.06,
+                511.12
+            ],
+            "text": " production of knowledge, right? It doesn't cover making sure that everyone's voices are included."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                511.64,
+                517.44
+            ],
+            "text": " And I think, you know, words matter. And that limitation is something that the theme of"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                517.44,
+                523.62
+            ],
+            "text": " International Open Access Week is really trying to get at. But just because we make sure that,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                523.62,
+                526.72
+            ],
+            "text": " you know, a book chapter or an article is available"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                526.72,
+                531.72
+            ],
+            "text": " online and anybody can get to it it doesn't mean we've achieved all the goals of the open access"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                531.72,
+                538.02
+            ],
+            "text": " movement or you know the open knowledge open scholarship movement you know the the sort of"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                538.02,
+                554.0
+            ],
+            "text": " larger framing is super important and you mentioned open access. When we release this episode, it will actually be International Open Access Week, which is taking place from October the 25th to the 31st."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                554.12,
+                560.1
+            ],
+            "text": " And this year's theme is it matters how we open knowledge, building structural equity."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                560.54,
+                568.68
+            ],
+            "text": " I'm interested to dig in deeper to what that means and why building structural equity matters now more than ever."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                570.04,
+                585.62
+            ],
+            "text": " Another really good question. Yeah, so the theme was designed and agreed on by the organizing committee for International Open Access Week, which is made up of representatives from all over the world."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                586.3,
+                593.12
+            ],
+            "text": " And it's actually the third year in a row that the events of the week will be organized around"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                593.12,
+                601.14
+            ],
+            "text": " building the understanding of not just the concept of equity, but the realities of how big the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                601.14,
+                608.02
+            ],
+            "text": " challenges are in front of us. I think it was easy also for folks in the beginning"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                608.02,
+                617.46
+            ],
+            "text": " of the open access movement, and even still today, to kind of focus in on the idea of the thing that"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                617.46,
+                626.78
+            ],
+            "text": " we need to change is enabling the immediate free distribution of knowledge. And that it's as easy as doing something like,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                627.2,
+                628.9
+            ],
+            "text": " you know, flipping a journal"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                628.9,
+                632.02
+            ],
+            "text": " from a subscription payment model"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                632.02,
+                634.48
+            ],
+            "text": " where you pay at the end to read to,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                635.12,
+                637.96
+            ],
+            "text": " for example, you pay up front as an author"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                637.96,
+                639.26
+            ],
+            "text": " to get your article published"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                639.26,
+                640.7
+            ],
+            "text": " and then everyone has access."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                640.82,
+                642.44
+            ],
+            "text": " And then, you know, everything's peachy."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                643.0,
+                646.8
+            ],
+            "text": " It's really tempting to kind of say, well,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                646.84,
+                652.04
+            ],
+            "text": " that gets us more open access articles, so that's a measure of success. But what we really want to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                652.04,
+                659.84
+            ],
+            "text": " use the week and the idea of centering the notion of equity to surface is that gets us more open"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                659.84,
+                666.78
+            ],
+            "text": " access articles, but it doesn't create a fully open and equitable system of knowledge sharing,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                667.22,
+                674.86
+            ],
+            "text": " right? Thinking about the issues of what kind of technology we use, business models we use,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                674.86,
+                688.94
+            ],
+            "text": " legal mechanisms we use matter in terms of what barriers may inadvertently be repeated from the current system that we have now or inadvertently introduced?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                689.08,
+                695.2
+            ],
+            "text": " We have so many structural inequities in the way we share scholarship and knowledge."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                695.72,
+                708.52
+            ],
+            "text": " We have English kind of canonized, right, as the official language? Why is that? And how can we deliberately look at strategies in the open"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                708.52,
+                716.78
+            ],
+            "text": " movement to change that? We have the journal article also sort of vetted and embedded as"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                716.78,
+                726.94
+            ],
+            "text": " the standard of communication. Why is it a journal article and not storytelling or some kind of non-traditional media?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                726.94,
+                746.78
+            ],
+            "text": " There are all kinds of other ways that communities express and share their knowledge that we're not recognizing in the current system of sharing knowledge, that we want people to step back and think deliberately about how do we include those kinds of systems of sharing"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                746.78,
+                755.94
+            ],
+            "text": " knowledge, those kinds of mechanisms, and in turn, empower the people who rely on those"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                755.94,
+                760.6
+            ],
+            "text": " mechanisms for sharing knowledge? How do we put that at the center of the open access movement"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                760.6,
+                766.54
+            ],
+            "text": " and not treat it as an add-on, right right that's the only way that we can really build"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                766.54,
+                774.54
+            ],
+            "text": " you know build equity into a system that frankly has not been serving the majority of you know"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                774.54,
+                787.1
+            ],
+            "text": " people in the world and are you finding that there's resistance on this front in terms of building structural equity or a large amount of uptake or"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                787.1,
+                795.54
+            ],
+            "text": " a mixed bag? It's a mixed bag. And I think, you know, these kinds of changes are,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                796.0,
+                806.64
+            ],
+            "text": " they're fraught with, you know, different kinds of challenges, because I think people rightly feel challenged both personally and professionally"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                806.64,
+                814.16
+            ],
+            "text": " to rethink assumptions and biases that we've each fought to the table many times unknowingly."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                814.74,
+                820.42
+            ],
+            "text": " But I think the political, economic, and social events of the last several years,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                820.62,
+                832.08
+            ],
+            "text": " if they've done nothing else, they've really thrown into sharp relief how much a personal responsibility we each have to critically examine, you know, our role in perpetuating"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                832.08,
+                836.82
+            ],
+            "text": " systems and structures that don't work for everyone, right?"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                836.88,
+                842.24
+            ],
+            "text": " Particularly if we're privileged enough to be in positions where, you know, on issues"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                842.24,
+                846.94
+            ],
+            "text": " and for organizations that have platforms that can talk about these"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                846.94,
+                852.32
+            ],
+            "text": " issues and can turn the spotlight or turn the light, you know, first internally and say,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                852.32,
+                859.14
+            ],
+            "text": " what am I doing to help further my own understanding and then my actions to change"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                859.14,
+                866.58
+            ],
+            "text": " and correct and build equity into the center of how I communicate and what I advocate for, how I"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                866.58,
+                872.24
+            ],
+            "text": " advocate for it. And then how can I then in turn, in my organization in turn, help do that in the"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                872.24,
+                878.24
+            ],
+            "text": " larger community. And it's not easy to do. I don't say it's a mixed bag in a judgmental way."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                878.6,
+                885.12
+            ],
+            "text": " I just say it in a way that it's a difficult challenge, but it is one that I think we have to be as relentless about"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                885.12,
+                892.4
+            ],
+            "text": " insisting on addressing now, because if we get too much farther along in, you know, going down"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                892.4,
+                897.24
+            ],
+            "text": " some of the paths that we're going down with open access, if we embed APCs, for example,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                897.82,
+                903.08
+            ],
+            "text": " as a dominant payment mechanism, it's going to take decades to unwind that. And we're not going"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                903.08,
+                907.26
+            ],
+            "text": " to have the kind of open access system that we, you know, we so dearly"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                907.26,
+                908.1
+            ],
+            "text": " want to have."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                908.8,
+                914.12
+            ],
+            "text": " Well, thank you for doing the work to make sure that it's not just, you know, a tacked"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                914.12,
+                917.36
+            ],
+            "text": " on conversation and that it's right in the forefront."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                918.12,
+                930.58
+            ],
+            "text": " I'm interested to know what policies world governments and other funders need to adopt to maximize the sharing of knowledge?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                931.3,
+                933.22
+            ],
+            "text": " Lots of different aspects there."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                933.22,
+                948.1
+            ],
+            "text": " First, I do want to credit the folks that I work with and voices in the open community with really being leading forces for driving the need to center equity in the discussion."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                948.24,
+                954.54
+            ],
+            "text": " In particular, people like Leslie Chan, Ariana, Bersil Garcia, Dominique Babini, people who"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                954.54,
+                958.12
+            ],
+            "text": " have been really tireless in pushing the equity conversation forward."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                958.26,
+                961.06
+            ],
+            "text": " I learn from them every minute of every day."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                961.58,
+                967.94
+            ],
+            "text": " And the role that I play is a pretty small one compared to the heavy lift that"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                967.94,
+                973.24
+            ],
+            "text": " they do on a minute by minute and daily basis and so many other voices. So I just, I don't,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                973.24,
+                979.3
+            ],
+            "text": " I don't want to pretend that I'm somehow, you know, special in this conversation. The list of"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                979.3,
+                985.2
+            ],
+            "text": " folks on the organizing committee for global open access week if you if you look at them they're each"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                985.84,
+                992.88
+            ],
+            "text": " leading voices and driving dogged advocates for equity so just want to make sure to say that"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                992.88,
+                1000.96
+            ],
+            "text": " and in terms of policies you know for me i would say the starting point for you know kind of"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1000.96,
+                1005.78
+            ],
+            "text": " thinking about open knowledge policies it's been too two, kind of twofold, right?"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1005.84,
+                1012.48
+            ],
+            "text": " We've sort of had a front in opening up knowledge from the education perspective, right? And the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1012.48,
+                1018.08
+            ],
+            "text": " open education movement, which is focused on textbooks, teaching and learning materials,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1018.3,
+                1022.74
+            ],
+            "text": " open pedagogy, right? Things that you need in the classroom for teaching and learning."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1022.74,
+                1026.64
+            ],
+            "text": " And those policies are, you know, incredibly"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1026.64,
+                1032.58
+            ],
+            "text": " important. And we work really closely and, you know, really try to kind of cross-pollinate the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1032.58,
+                1039.06
+            ],
+            "text": " other set of policies, which are open access or open science policies requiring immediate open"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1039.06,
+                1047.46
+            ],
+            "text": " sharing of scientific and scholarly articles of data that's produced in the research process, but also kind of getting into, you know,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1047.56,
+                1052.46
+            ],
+            "text": " even deeper in the research and knowledge discovery workflow and doing things"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1052.46,
+                1054.78
+            ],
+            "text": " like sharing lab notebooks,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1055.0,
+                1059.52
+            ],
+            "text": " protocol drafts of things that you're writing that may ultimately become"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1059.52,
+                1060.92
+            ],
+            "text": " articles like preprints."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1061.54,
+                1064.7
+            ],
+            "text": " And there's sort of two distinct policy paths."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1068.62,
+                1075.8
+            ],
+            "text": " Really the two most important areas that that we have to focus on are policies for access to data and policies for access to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1075.8,
+                1081.74
+            ],
+            "text": " articles reporting on what you find out of that data and in the research process"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1081.74,
+                1085.82
+            ],
+            "text": " so yeah i would say those are the two main areas."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1086.82,
+                1093.96
+            ],
+            "text": " At Creative Commons, we're celebrating our 20th anniversary this year, and we're looking back on"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1093.96,
+                1102.98
+            ],
+            "text": " the past 20 years, whilst also looking to the future of Open. When you look back to, you know,"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1103.02,
+                1107.98
+            ],
+            "text": " the beginning days, is there anything that you're particularly nostalgic about?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1108.5,
+                1111.14
+            ],
+            "text": " What do you hope to see in the next 10 years?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1111.14,
+                1119.04
+            ],
+            "text": " Oh, gosh, that's a really interesting question. Nostalgic? I would say no, not so much nostalgic."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1148.18,
+                1153.28
+            ],
+            "text": " Thinking back to your last question on policy, we started advocating for open access policies was explaining to policymakers what the issues were, why they should care about the cost of science, getting access to scientific journal articles of all"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1153.28,
+                1161.36
+            ],
+            "text": " things, really trying to build a case and take a concept that really hadn't existed and certainly"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1161.36,
+                1168.38
+            ],
+            "text": " was not on the mind or the priority list of policymakers anywhere in the world,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1168.72,
+                1175.92
+            ],
+            "text": " you know, for the first decade. That was one of the more exhausting exercises I can imagine going"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1175.92,
+                1182.14
+            ],
+            "text": " through, right? But the mark of, I think, how far the movement has come. And when I look back,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1182.22,
+                1185.64
+            ],
+            "text": " one of the milestones of success that I really can see"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1185.64,
+                1192.02
+            ],
+            "text": " concretely every day of my life is that we're no longer having to have those basic conversations,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1192.02,
+                1198.66
+            ],
+            "text": " right? There's almost no circumstances when I'll go into, for example, a conversation with a member"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1198.66,
+                1202.8
+            ],
+            "text": " of the U.S. Congress's office, and they say to me, I don't know what you're talking about. I don't"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1202.8,
+                1213.66
+            ],
+            "text": " know what open access is or why it's important. That's amazing, right? That's an enormous amount of progress that in the beginning, it felt like it would be impossible for us to get there."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1228.36,
+                1249.88
+            ],
+            "text": " Huge movement. Policy fights in the beginning and the middle were, should we move to open access or not? Now, even those players that have been the most vocal in opposing open access and open access policies will say open access is clearly the path forward. The arguments are now about how to get there, which is, you know, at once a fantastic"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1249.88,
+                1258.34
+            ],
+            "text": " quantum leap forward from where we started. And at the same time, it's harder to a certain degree"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1258.34,
+                1267.86
+            ],
+            "text": " because the nuances of the suggested paths forward are oftentimes really difficult for policymakers to understand"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1267.86,
+                1272.9
+            ],
+            "text": " and to kind of get, you know, well, if publishers are willing to make all of their stuff,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1273.2,
+                1277.42
+            ],
+            "text": " all of their articles available openly, and they're simply asking you to, you know,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1277.42,
+                1282.54
+            ],
+            "text": " keep the same amount of money in the system, just cover those, you know, same cost and revenue"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1282.54,
+                1287.46
+            ],
+            "text": " targets, just at a different point of payment, why do you"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1287.46,
+                1294.74
+            ],
+            "text": " need us? And then we have to kind of unwind and go back and say, you know, that if it sounds,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1295.16,
+                1300.66
+            ],
+            "text": " in life, if something sounds a no brainer, oftentimes, if it's too good to be true."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1303.14,
+                1328.3
+            ],
+            "text": " Let us explain to you why that sounds great, but isn't going to work for, you know, Yeah, yeah. Nostalgia limited to the people that I've been fortunate to interact with over time."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1328.3,
+                1337.46
+            ],
+            "text": " I miss some of the folks who were part of the fight early on and who have rightly retired or moved on to doing other things."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1347.28,
+                1353.08
+            ],
+            "text": " side of that is the the growth of this incredible global community of just committed advocates who have become not just colleagues but dear friends um is part of the it's the best part you know"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1353.08,
+                1358.58
+            ],
+            "text": " really of working on something like this well that's one thing that i was thinking about you"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1358.58,
+                1367.96
+            ],
+            "text": " know from 2003 to now is just how much technology has advanced in that time and I wanted to get your"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1367.96,
+                1374.22
+            ],
+            "text": " thoughts on how technology is changing the landscape of academic publishing and what are"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1374.22,
+                1379.94
+            ],
+            "text": " some of the tensions and challenges that you're seeing right now it's true I mean it's another"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1379.94,
+                1385.6
+            ],
+            "text": " one of those sort of double-edged swords, right? There's so many good things about the technological"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1385.6,
+                1393.4
+            ],
+            "text": " advances. The major one from my perch as an advocate has been the rise of public understanding"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1393.4,
+                1400.92
+            ],
+            "text": " of things like text and data mining and what artificial intelligence can do, right? We used"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1400.92,
+                1410.78
+            ],
+            "text": " to talk in the early days of the open access movement, and I'm going to credit the former Creative Commons Science Commons project lead, John Wilbanks, with this phrase."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1411.12,
+                1425.46
+            ],
+            "text": " He used to say, the thing about open access is we're working to enable not just people to be able to read scientific articles, but we need to enable computers as a category of readers, right?"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1425.76,
+                1431.94
+            ],
+            "text": " And people would kind of go, what the heck does that mean, enable computers? But John knew what"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1431.94,
+                1437.06
+            ],
+            "text": " he was talking about, right? It meant we're at a point in human history where one person can't sit"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1437.06,
+                1446.68
+            ],
+            "text": " down and read on an analog basis the corpus of journal articles that, you know, she needs to even stay current in most disciplines."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1446.9,
+                1452.5
+            ],
+            "text": " So being able to utilize computers to do some of that work for us, right, to help point to"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1452.5,
+                1459.02
+            ],
+            "text": " articles of interest, and then, you know, to do the heavy duty kind of semantic searching and"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1459.02,
+                1465.76
+            ],
+            "text": " the kind of work that was so crucial during COVID, for example, and, hey, help, you know, I need"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1465.76,
+                1471.16
+            ],
+            "text": " help in figuring out what kind of drugs we may already have in use that are being used"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1471.16,
+                1475.4
+            ],
+            "text": " for other conditions that might be repurposed to help in this situation, right?"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1475.4,
+                1480.08
+            ],
+            "text": " That's not something, you know, one human being has an encyclopedic knowledge of, but"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1480.08,
+                1487.04
+            ],
+            "text": " we certainly, you know, used an open access corpus of related papers to try to find those kinds"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1487.04,
+                1487.6
+            ],
+            "text": " of targets."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1488.2,
+                1493.78
+            ],
+            "text": " And that sort of technological advance has been a real boon to helping people understand,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1494.04,
+                1495.56
+            ],
+            "text": " oh, I get it."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1495.56,
+                1503.46
+            ],
+            "text": " We really need to be able to have a digital database of these articles in order to use"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1503.46,
+                1507.12
+            ],
+            "text": " them as fully as possible and unlock the kind of information"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1507.12,
+                1511.44
+            ],
+            "text": " that's in there that we're never going to find reading them one paper at a time as individual"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1511.44,
+                1517.94
+            ],
+            "text": " humans. And open is, you know, open licenses, having open licenses on those articles is the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1517.94,
+                1524.36
+            ],
+            "text": " only way to, you know, ensure that we have the right to be able to use those articles and using"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1524.36,
+                1525.78
+            ],
+            "text": " open technologies and standardized open technologies to make sure they're in a format that we have the right to be able to use those articles and using open technologies and"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1525.78,
+                1531.02
+            ],
+            "text": " standardized open technologies to make sure they're in a format that we can physically do"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1531.02,
+                1536.82
+            ],
+            "text": " that. That's three quarters of the battle. So that's been a really important aspect of how"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1536.82,
+                1540.5
+            ],
+            "text": " technological advances have helped us quite a bit."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1542.32,
+                1547.68
+            ],
+            "text": " We're really glad to see the early traction with the inclusiveaccess.org project,"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1547.68,
+                1554.06
+            ],
+            "text": " and we are very glad and proud partners in this campaign. Can you describe how this"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1554.06,
+                1568.72
+            ],
+            "text": " intervention works and why it's especially important now? Yeah, the inclusiveaccess.org project has been something that we really saw the need for in the space"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1568.72,
+                1578.12
+            ],
+            "text": " as the term inclusive access started to be used by some in the publishing industry to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1578.12,
+                1586.94
+            ],
+            "text": " maybe kind of allied over a bit the challenges that students are facing, being able to afford access to essential"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1586.94,
+                1593.48
+            ],
+            "text": " materials to do the work that they need to do, particularly on college and university campuses."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1594.12,
+                1608.16
+            ],
+            "text": " And the idea of inclusive access was starting to, I think, really being used as a well open access to textbooks or open educational resources"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1608.16,
+                1616.92
+            ],
+            "text": " is maybe too radical a concept so you know let us we'll chart a middle course here or you don't"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1616.92,
+                1627.88
+            ],
+            "text": " need to go through the effort of creating a whole new open something and open, you know, it has all these issues. And we really wanted to make sure"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1627.88,
+                1634.56
+            ],
+            "text": " that people understood that when you say something like inclusive access, it may sound good on the"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1634.56,
+                1643.1
+            ],
+            "text": " surface, but you still need to be a discriminating consumer and you need to unpack what's under the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1643.1,
+                1646.48
+            ],
+            "text": " surface, right? Much in the way that we'll happily unpack"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1646.48,
+                1652.02
+            ],
+            "text": " what does it mean to have a full open textbook or an open educational resource? What are the"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1652.02,
+                1657.14
+            ],
+            "text": " benefits and what are the potential drawbacks? We really wanted to do that, kind of open up this"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1657.14,
+                1665.06
+            ],
+            "text": " idea of what's under the hood in this concept of inclusive access and encourage people to think it through for themselves."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1665.66,
+                1672.1
+            ],
+            "text": " You know, what might be the trade-offs that we're asking our students, our faculty to make"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1672.1,
+                1679.06
+            ],
+            "text": " when we kind of go down the route of, well, we'll give you a discount on your campus for textbooks,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1679.06,
+                1685.46
+            ],
+            "text": " but in exchange, you'll agree to embed that cost in a bursar's bill, for example."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1690.98,
+                1695.56
+            ],
+            "text": " How is that inclusive if the student may or may not know that they're being asked to pay for their learning materials hidden in their tuition bill?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1695.82,
+                1697.34
+            ],
+            "text": " And what's in there?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1697.36,
+                1698.26
+            ],
+            "text": " And what's their choice?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1698.34,
+                1699.52
+            ],
+            "text": " What are their options, right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1699.84,
+                1701.64
+            ],
+            "text": " That's not very inclusive, right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1701.64,
+                1706.0
+            ],
+            "text": " That feels a little like we're going down the opposite of"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1706.0,
+                1713.28
+            ],
+            "text": " inclusive. So yeah, it's a very new campaign, as you know, it was just launched a couple of weeks"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1713.28,
+                1719.4
+            ],
+            "text": " ago. But the general response has been, I think people are very appreciative of the approach"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1719.4,
+                1725.04
+            ],
+            "text": " that the campaign has taken, that is really decide for yourself, right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1725.1,
+                1730.98
+            ],
+            "text": " And it's deliberately laid out in a way that doesn't just ask people, but I think helps"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1730.98,
+                1733.58
+            ],
+            "text": " people walk through different choice points."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1733.94,
+                1740.18
+            ],
+            "text": " And inclusive access is sold by some in one way to accomplish a set of things."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1740.54,
+                1745.0
+            ],
+            "text": " Decide for yourself whether it does that and whether the unintended consequences or"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1745.0,
+                1750.5
+            ],
+            "text": " potentially intended consequences that it has are really worth it in the community."
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1751.8,
+                1758.9
+            ],
+            "text": " And that was my final question for you. Any final points, any things that you want"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1758.9,
+                1769.06
+            ],
+            "text": " our listeners to really pay attention to? I think right now, one of the things that we have is one of these moments"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1769.06,
+                1777.54
+            ],
+            "text": " where we're kind of coming out of a moment in time during the COVID pandemic when open and"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1777.54,
+                1787.42
+            ],
+            "text": " open access to knowledge on all kind of levels really took center stage in a way that I don't think we could have had a demonstration,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1787.74,
+                1795.16
+            ],
+            "text": " a stronger demonstration of the critical nature of the need to keep pushing on open in both"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1795.16,
+                1807.06
+            ],
+            "text": " helping schools to continue to educate students, right? Open educational resources, open materials, an absolute necessary"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1807.06,
+                1815.9
+            ],
+            "text": " component of allowing education to continue in the online world. And certainly the continuity"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1815.9,
+                1823.52
+            ],
+            "text": " of research was hugely dependent on open access materials to continue to move forward, right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1823.52,
+                1827.3
+            ],
+            "text": " When people can't physically get into labs or"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1827.3,
+                1834.64
+            ],
+            "text": " physically can't get onto campus, the ability to have unfettered access to information and"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1834.64,
+                1843.36
+            ],
+            "text": " knowledge was super critical. We saw, right, access to open data, the ability to fully,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1843.52,
+                1847.4
+            ],
+            "text": " you know, unlock open research articles related to the coronavirus"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1847.4,
+                1855.66
+            ],
+            "text": " lead to the fastest development of a vaccine in human history. It's too easy now for people to"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1855.66,
+                1862.4
+            ],
+            "text": " kind of say, well, that worked, phew, we're over that hump. Let, you know, let's just, let's just"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1862.4,
+                1867.12
+            ],
+            "text": " keep moving. Let's just kind of move forward. We need to look critically and go,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1867.12,
+                1877.1
+            ],
+            "text": " we saw how well this worked in this emergency situation. We have to take stock of the lessons"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1877.1,
+                1885.16
+            ],
+            "text": " that we learned during COVID and apply them to every other research-based, right, and education-based challenge that are in front of us."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1892.72,
+                1899.88
+            ],
+            "text": " We can't go back to relying on a system that says only in the case of emergency do we break the glass and use open resources. I think COVID proved once and for all things move more efficiently,"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "timestamp": [
+                1899.88,
+                1907.94
+            ],
+            "text": " more people are included. It's a better way to do science, research, to conduct education."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1908.42,
+                1915.42
+            ],
+            "text": " And we have to use this moment to say, as advocates, to call for open to now be centered"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1915.42,
+                1922.54
+            ],
+            "text": " in every societal challenge. Combating climate change, dealing with food insecurity. We need to"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1922.54,
+                1926.54
+            ],
+            "text": " make sure that we take the things that we learned during COVID"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1926.54,
+                1933.12
+            ],
+            "text": " and just drive as hard as we can. Otherwise, it's just way too easy for people to say,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1934.04,
+                1938.94
+            ],
+            "text": " oh, we catch our breath, we're moving on, we're going forward. We don't need to think critically"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1938.94,
+                1945.22
+            ],
+            "text": " until the next pandemic hits. And that would just be an incredible wasted opportunity"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1945.22,
+                1951.52
+            ],
+            "text": " thank you and where can folks find you if they want to keep up with your work and exciting"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1951.52,
+                1956.1
+            ],
+            "text": " updates we'll put some links in the episode description but if you'd like to tell us"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1956.1,
+                1968.82
+            ],
+            "text": " you can certainly find spark online at spark open.org. You can follow Spark on Twitter at spark underscore na. And I'm just"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1968.82,
+                1973.52
+            ],
+            "text": " at H. Joseph on Twitter because I'm older than dirt and have been on Twitter for a long time."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1973.52,
+                1980.1
+            ],
+            "text": " I have a pretty easy Twitter handle to follow. Yeah, we'd love to hear from folks too."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                1980.36,
+                1989.02
+            ],
+            "text": " Thank you so much. Thank you for making the time for this conversation today. It's been so insightful and I'm looking forward to going back over it myself."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                1990.8,
+                2001.14
+            ],
+            "text": " Well, thank you. And thanks to Creative Commons for continuing to be an incredibly important organization and a wonderful partner over these last 20 years."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2001.14,
+                2002.98
+            ],
+            "text": " over these last 20 years."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                2006.24,
+                2006.82
+            ],
+            "text": " Thanks for listening to Open Minds from Creative Commons."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2009.4,
+                2009.84
+            ],
+            "text": " Special thanks to the musician Broke For Free,"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "timestamp": [
+                2012.86,
+                2015.12
+            ],
+            "text": " whose track Daybird you heard at the beginning of this episode and you're listening to right now."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2015.38,
+                2019.14
+            ],
+            "text": " It's available under the Creative Commons attribution license."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2019.64,
+                2022.0
+            ],
+            "text": " Meaning it's free for anyone to use."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2022.0,
+                2027.02
+            ],
+            "text": " You can find it at the free music archive, freemusicarchive.org."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2027.44,
+                2032.44
+            ],
+            "text": " Please subscribe to our show so you don't miss any of our conversations with people"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2032.44,
+                2037.74
+            ],
+            "text": " working to make the internet and our global culture more open and collaborative."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2038.38,
+                2040.36
+            ],
+            "text": " We'll be back soon with another episode."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "timestamp": [
+                2040.82,
+                2041.58
+            ],
+            "text": " Talk to you then."
+        }
+    ],
+    "chunks": [
+        {
+            "timestamp": [
+                0.4,
+                7.04
+            ],
+            "text": " Welcome to Open Minds from Creative Commons. I'm Oney-Ann Youcombe, CC's Campaigns Manager."
+        },
+        {
+            "timestamp": [
+                7.68,
+                15.12
+            ],
+            "text": " We're celebrating Creative Commons' 20th anniversary this year, and one of the ways that we're doing that is with this podcast."
+        },
+        {
+            "timestamp": [
+                15.6,
+                22.84
+            ],
+            "text": " A series of conversations with people working on the issues we're involved with and subjects we're excited about."
+        },
+        {
+            "timestamp": [
+                22.88,
+                25.64
+            ],
+            "text": " with and subjects we're excited about."
+        },
+        {
+            "timestamp": [
+                33.14,
+                39.72
+            ],
+            "text": " Happy International Open Access Week, a global community-driven week of action to open up access to research, taking place from October the 25th to the 31st this year."
+        },
+        {
+            "timestamp": [
+                40.38,
+                51.5
+            ],
+            "text": " In celebration of this, our guest on this episode is Heather Joseph, the Executive Director of SPARC, the Scholarly Publishing and Academic Resources Coalition."
+        },
+        {
+            "timestamp": [
+                52.42,
+                62.52
+            ],
+            "text": " SPARC is a global advocacy organisation working to make research and education open and equitable by design for everyone."
+        },
+        {
+            "timestamp": [
+                67.94,
+                75.16
+            ],
+            "text": " by design for everyone. International Open Access Week was first established by Spark and partners in the student community back in 2008. Find out more about the week's activities"
+        },
+        {
+            "timestamp": [
+                75.16,
+                86.74
+            ],
+            "text": " at openaccessweek.org. Heather is a US-based advocate for open access and academic journal publishing reform. Under her stewardship,"
+        },
+        {
+            "timestamp": [
+                87.4,
+                93.26
+            ],
+            "text": " Spark has become widely recognized as the leading international force for effective"
+        },
+        {
+            "timestamp": [
+                93.26,
+                99.96
+            ],
+            "text": " open access policies and practices. Well, that's enough from me. I hope you enjoy this"
+        },
+        {
+            "timestamp": [
+                99.96,
+                109.64
+            ],
+            "text": " conversation with Heather Joseph. So just to get us started, we'd love to give our listeners an"
+        },
+        {
+            "timestamp": [
+                109.64,
+                116.1
+            ],
+            "text": " opportunity to get to know you better and to explore your background in open access. Could"
+        },
+        {
+            "timestamp": [
+                116.1,
+                122.1
+            ],
+            "text": " you start by just introducing yourself and telling us how you were first introduced to open?"
+        },
+        {
+            "timestamp": [
+                123.28,
+                126.98
+            ],
+            "text": " Sure. I'm Heather Joseph, and I'm the Executive Director"
+        },
+        {
+            "timestamp": [
+                126.98,
+                133.5
+            ],
+            "text": " of SPARC, which is an international advocacy organization based in the academic and research"
+        },
+        {
+            "timestamp": [
+                133.5,
+                140.1
+            ],
+            "text": " library community who advocate for an open and equitable system of research and education."
+        },
+        {
+            "timestamp": [
+                140.84,
+                165.62
+            ],
+            "text": " And we have, and I have, been advocating for Open Access since 2001. Actually, I can't believe it's been as long as it has been. But yeah, I was super fortunate to be at Spark when the Soros Foundation's Open Society Foundations convened the meeting in Budapest that led to the Budapest Open Access Initiative, which is where"
+        },
+        {
+            "timestamp": [
+                165.62,
+                172.14
+            ],
+            "text": " the concept of open access was first defined. And SPARC was one of the original signatory"
+        },
+        {
+            "timestamp": [
+                172.14,
+                178.42
+            ],
+            "text": " organizations to the declaration and initiative that came out of that meeting in 2001."
+        },
+        {
+            "timestamp": [
+                180.48,
+                197.28
+            ],
+            "text": " Awesome. And you've touched a little bit on my second question, but I just want to talk a bit more about the advocacy role that SPARC plays internationally in the fight for access to open knowledge."
+        },
+        {
+            "timestamp": [
+                205.06,
+                213.02
+            ],
+            "text": " We do a lot of advocacy on, I would say, a couple of different levels. We do advocacy kind of at the grassroots organization level, educating researchers,"
+        },
+        {
+            "timestamp": [
+                213.54,
+                221.7
+            ],
+            "text": " faculty, students, members of the public about the opportunities that creating a more open"
+        },
+        {
+            "timestamp": [
+                221.7,
+                225.84
+            ],
+            "text": " system for sharing in the research environment and sharing, you know,"
+        },
+        {
+            "timestamp": [
+                225.9,
+                233.68
+            ],
+            "text": " in educational institutions can bring. And we also do advocacy on the policy level, right?"
+        },
+        {
+            "timestamp": [
+                233.68,
+                240.58
+            ],
+            "text": " Really working to influence policymakers, whether they're heads of research or academic institutions,"
+        },
+        {
+            "timestamp": [
+                241.16,
+                247.9
+            ],
+            "text": " research funders, or members of federal governments to create policies that we like to say, set the default to open, right?"
+        },
+        {
+            "timestamp": [
+                247.98,
+                252.94
+            ],
+            "text": " Change the rules of the road, if you will, to make open and open access to"
+        },
+        {
+            "timestamp": [
+                253.2,
+                254.82
+            ],
+            "text": " research and education the default."
+        },
+        {
+            "timestamp": [
+                256.14,
+                261.22
+            ],
+            "text": " And I'll dive into the policy piece a little later on in our conversation."
+        },
+        {
+            "timestamp": [
+                261.24,
+                266.28
+            ],
+            "text": " But one thing that I'm personally interested to know you've been working in this"
+        },
+        {
+            "timestamp": [
+                266.28,
+                274.54
+            ],
+            "text": " space now for the past two decades and you're widely recognized as an advocate and champion"
+        },
+        {
+            "timestamp": [
+                274.54,
+                281.38
+            ],
+            "text": " for open access but in your personal writing and some of the other interviews you've done you use"
+        },
+        {
+            "timestamp": [
+                281.38,
+                286.62
+            ],
+            "text": " the phrase open knowledge and I just wanted to know if you see these as"
+        },
+        {
+            "timestamp": [
+                286.62,
+                293.52
+            ],
+            "text": " being one and the same. And, you know, is it intentional? And what's the difference if there"
+        },
+        {
+            "timestamp": [
+                293.52,
+                300.6
+            ],
+            "text": " is any difference at all? That's a great question. And it is a change. And it is an intentional one."
+        },
+        {
+            "timestamp": [
+                300.6,
+                332.34
+            ],
+            "text": " So I'm actually kind of thrilled that you noticed that. When we first started out talking about open access and really sort of working on the issue of open access, we really kind of honed in on a specific layer of knowledge, right, of articles that were published in journals. And that was really the focus because that was in academic libraries and academic institutions. It's kind of where the most visible manifestations"
+        },
+        {
+            "timestamp": [
+                332.34,
+                341.34
+            ],
+            "text": " of we really have a problem were surfacing. So we tended in the first really decade of the open"
+        },
+        {
+            "timestamp": [
+                341.34,
+                348.48
+            ],
+            "text": " access movement to kind of use open access as a shorthand for what I think we all"
+        },
+        {
+            "timestamp": [
+                348.48,
+                356.56
+            ],
+            "text": " intuitively knew was a larger issue or a set of larger issues. But we recognized, maybe it"
+        },
+        {
+            "timestamp": [
+                356.56,
+                369.64
+            ],
+            "text": " shouldn't have taken quite so long, but eventually I think we recognized that in order to have people really be able to see how this issue affected them,"
+        },
+        {
+            "timestamp": [
+                370.28,
+                375.18
+            ],
+            "text": " if they weren't necessarily going to a library and trying to access a journal article,"
+        },
+        {
+            "timestamp": [
+                375.66,
+                381.28
+            ],
+            "text": " we still want people to understand this is really important to every individual on the planet."
+        },
+        {
+            "timestamp": [
+                381.92,
+                387.26
+            ],
+            "text": " And so we've tried really deliberately to make sure that we have a"
+        },
+        {
+            "timestamp": [
+                387.26,
+                394.28
+            ],
+            "text": " framing that kind of talks about the fact that whether it's a journal article or textbook,"
+        },
+        {
+            "timestamp": [
+                394.52,
+                399.54
+            ],
+            "text": " right, if you're a student and you can't get access to a textbook or a chapter, or you're a"
+        },
+        {
+            "timestamp": [
+                399.54,
+                404.98
+            ],
+            "text": " parent or a patient, and you're interested in finding out the latest medical information,"
+        },
+        {
+            "timestamp": [
+                404.98,
+                406.36
+            ],
+            "text": " because someone in"
+        },
+        {
+            "timestamp": [
+                406.36,
+                411.3
+            ],
+            "text": " your family is, you know, has recently been diagnosed with something, these things matter"
+        },
+        {
+            "timestamp": [
+                411.3,
+                416.74
+            ],
+            "text": " to you. So we've worked really hard actually to kind of make sure that the framing that we have"
+        },
+        {
+            "timestamp": [
+                416.74,
+                441.24
+            ],
+            "text": " speaks to the idea that this is information, right? This is knowledge that is meaningful to everyone, everywhere. And that access to that layer of information, of knowledge writ large, is actually a universal human right. And so everyone should be interested in making sure that we all have equal ability to benefit from it."
+        },
+        {
+            "timestamp": [
+                448.12,
+                457.56
+            ],
+            "text": " to benefit from it. I think that pivot towards open knowledge and just expanding how we talk about it is so critical. You know, I could see how with the term open access, many may feel that"
+        },
+        {
+            "timestamp": [
+                457.56,
+                463.5
+            ],
+            "text": " they're excluded from such conversations and that it's not relevant to them. But, you know,"
+        },
+        {
+            "timestamp": [
+                463.5,
+                466.48
+            ],
+            "text": " knowledge is something that should be universal"
+        },
+        {
+            "timestamp": [
+                466.48,
+                471.02
+            ],
+            "text": " and it definitely is somewhat more inclusive in many ways."
+        },
+        {
+            "timestamp": [
+                471.02,
+                475.2
+            ],
+            "text": " So I hope to see it more widely adopted."
+        },
+        {
+            "timestamp": [
+                475.8,
+                475.94
+            ],
+            "text": " Totally."
+        },
+        {
+            "timestamp": [
+                476.16,
+                477.6
+            ],
+            "text": " People ask me sometimes, you know,"
+        },
+        {
+            "timestamp": [
+                477.62,
+                480.1
+            ],
+            "text": " if you could go back to the beginning of the open access movement"
+        },
+        {
+            "timestamp": [
+                480.1,
+                482.46
+            ],
+            "text": " and change one thing, what would it be?"
+        },
+        {
+            "timestamp": [
+                482.8,
+                487.36
+            ],
+            "text": " And one of the things that I would do would be to change what we called it, right?"
+        },
+        {
+            "timestamp": [
+                487.42,
+                490.28
+            ],
+            "text": " The idea of open access, mainly because,"
+        },
+        {
+            "timestamp": [
+                490.44,
+                493.0
+            ],
+            "text": " I mean, for the reasons that you just described, yes,"
+        },
+        {
+            "timestamp": [
+                493.28,
+                495.76
+            ],
+            "text": " but also because it puts the focus"
+        },
+        {
+            "timestamp": [
+                495.76,
+                498.6
+            ],
+            "text": " on one aspect of knowledge sharing,"
+        },
+        {
+            "timestamp": [
+                499.08,
+                501.66
+            ],
+            "text": " and that's being able to get to, right?"
+        },
+        {
+            "timestamp": [
+                501.7,
+                504.1
+            ],
+            "text": " To access, to interact with knowledge,"
+        },
+        {
+            "timestamp": [
+                504.1,
+                506.06
+            ],
+            "text": " but it doesn't cover the"
+        },
+        {
+            "timestamp": [
+                506.06,
+                511.12
+            ],
+            "text": " production of knowledge, right? It doesn't cover making sure that everyone's voices are included."
+        },
+        {
+            "timestamp": [
+                511.64,
+                517.44
+            ],
+            "text": " And I think, you know, words matter. And that limitation is something that the theme of"
+        },
+        {
+            "timestamp": [
+                517.44,
+                523.62
+            ],
+            "text": " International Open Access Week is really trying to get at. But just because we make sure that,"
+        },
+        {
+            "timestamp": [
+                523.62,
+                526.72
+            ],
+            "text": " you know, a book chapter or an article is available"
+        },
+        {
+            "timestamp": [
+                526.72,
+                531.72
+            ],
+            "text": " online and anybody can get to it it doesn't mean we've achieved all the goals of the open access"
+        },
+        {
+            "timestamp": [
+                531.72,
+                538.02
+            ],
+            "text": " movement or you know the open knowledge open scholarship movement you know the the sort of"
+        },
+        {
+            "timestamp": [
+                538.02,
+                554.0
+            ],
+            "text": " larger framing is super important and you mentioned open access. When we release this episode, it will actually be International Open Access Week, which is taking place from October the 25th to the 31st."
+        },
+        {
+            "timestamp": [
+                554.12,
+                560.1
+            ],
+            "text": " And this year's theme is it matters how we open knowledge, building structural equity."
+        },
+        {
+            "timestamp": [
+                560.54,
+                568.68
+            ],
+            "text": " I'm interested to dig in deeper to what that means and why building structural equity matters now more than ever."
+        },
+        {
+            "timestamp": [
+                570.04,
+                585.62
+            ],
+            "text": " Another really good question. Yeah, so the theme was designed and agreed on by the organizing committee for International Open Access Week, which is made up of representatives from all over the world."
+        },
+        {
+            "timestamp": [
+                586.3,
+                593.12
+            ],
+            "text": " And it's actually the third year in a row that the events of the week will be organized around"
+        },
+        {
+            "timestamp": [
+                593.12,
+                601.14
+            ],
+            "text": " building the understanding of not just the concept of equity, but the realities of how big the"
+        },
+        {
+            "timestamp": [
+                601.14,
+                608.02
+            ],
+            "text": " challenges are in front of us. I think it was easy also for folks in the beginning"
+        },
+        {
+            "timestamp": [
+                608.02,
+                617.46
+            ],
+            "text": " of the open access movement, and even still today, to kind of focus in on the idea of the thing that"
+        },
+        {
+            "timestamp": [
+                617.46,
+                626.78
+            ],
+            "text": " we need to change is enabling the immediate free distribution of knowledge. And that it's as easy as doing something like,"
+        },
+        {
+            "timestamp": [
+                627.2,
+                628.9
+            ],
+            "text": " you know, flipping a journal"
+        },
+        {
+            "timestamp": [
+                628.9,
+                632.02
+            ],
+            "text": " from a subscription payment model"
+        },
+        {
+            "timestamp": [
+                632.02,
+                634.48
+            ],
+            "text": " where you pay at the end to read to,"
+        },
+        {
+            "timestamp": [
+                635.12,
+                637.96
+            ],
+            "text": " for example, you pay up front as an author"
+        },
+        {
+            "timestamp": [
+                637.96,
+                639.26
+            ],
+            "text": " to get your article published"
+        },
+        {
+            "timestamp": [
+                639.26,
+                640.7
+            ],
+            "text": " and then everyone has access."
+        },
+        {
+            "timestamp": [
+                640.82,
+                642.44
+            ],
+            "text": " And then, you know, everything's peachy."
+        },
+        {
+            "timestamp": [
+                643.0,
+                646.8
+            ],
+            "text": " It's really tempting to kind of say, well,"
+        },
+        {
+            "timestamp": [
+                646.84,
+                652.04
+            ],
+            "text": " that gets us more open access articles, so that's a measure of success. But what we really want to"
+        },
+        {
+            "timestamp": [
+                652.04,
+                659.84
+            ],
+            "text": " use the week and the idea of centering the notion of equity to surface is that gets us more open"
+        },
+        {
+            "timestamp": [
+                659.84,
+                666.78
+            ],
+            "text": " access articles, but it doesn't create a fully open and equitable system of knowledge sharing,"
+        },
+        {
+            "timestamp": [
+                667.22,
+                674.86
+            ],
+            "text": " right? Thinking about the issues of what kind of technology we use, business models we use,"
+        },
+        {
+            "timestamp": [
+                674.86,
+                688.94
+            ],
+            "text": " legal mechanisms we use matter in terms of what barriers may inadvertently be repeated from the current system that we have now or inadvertently introduced?"
+        },
+        {
+            "timestamp": [
+                689.08,
+                695.2
+            ],
+            "text": " We have so many structural inequities in the way we share scholarship and knowledge."
+        },
+        {
+            "timestamp": [
+                695.72,
+                708.52
+            ],
+            "text": " We have English kind of canonized, right, as the official language? Why is that? And how can we deliberately look at strategies in the open"
+        },
+        {
+            "timestamp": [
+                708.52,
+                716.78
+            ],
+            "text": " movement to change that? We have the journal article also sort of vetted and embedded as"
+        },
+        {
+            "timestamp": [
+                716.78,
+                726.94
+            ],
+            "text": " the standard of communication. Why is it a journal article and not storytelling or some kind of non-traditional media?"
+        },
+        {
+            "timestamp": [
+                726.94,
+                746.78
+            ],
+            "text": " There are all kinds of other ways that communities express and share their knowledge that we're not recognizing in the current system of sharing knowledge, that we want people to step back and think deliberately about how do we include those kinds of systems of sharing"
+        },
+        {
+            "timestamp": [
+                746.78,
+                755.94
+            ],
+            "text": " knowledge, those kinds of mechanisms, and in turn, empower the people who rely on those"
+        },
+        {
+            "timestamp": [
+                755.94,
+                760.6
+            ],
+            "text": " mechanisms for sharing knowledge? How do we put that at the center of the open access movement"
+        },
+        {
+            "timestamp": [
+                760.6,
+                766.54
+            ],
+            "text": " and not treat it as an add-on, right right that's the only way that we can really build"
+        },
+        {
+            "timestamp": [
+                766.54,
+                774.54
+            ],
+            "text": " you know build equity into a system that frankly has not been serving the majority of you know"
+        },
+        {
+            "timestamp": [
+                774.54,
+                787.1
+            ],
+            "text": " people in the world and are you finding that there's resistance on this front in terms of building structural equity or a large amount of uptake or"
+        },
+        {
+            "timestamp": [
+                787.1,
+                795.54
+            ],
+            "text": " a mixed bag? It's a mixed bag. And I think, you know, these kinds of changes are,"
+        },
+        {
+            "timestamp": [
+                796.0,
+                806.64
+            ],
+            "text": " they're fraught with, you know, different kinds of challenges, because I think people rightly feel challenged both personally and professionally"
+        },
+        {
+            "timestamp": [
+                806.64,
+                814.16
+            ],
+            "text": " to rethink assumptions and biases that we've each fought to the table many times unknowingly."
+        },
+        {
+            "timestamp": [
+                814.74,
+                820.42
+            ],
+            "text": " But I think the political, economic, and social events of the last several years,"
+        },
+        {
+            "timestamp": [
+                820.62,
+                832.08
+            ],
+            "text": " if they've done nothing else, they've really thrown into sharp relief how much a personal responsibility we each have to critically examine, you know, our role in perpetuating"
+        },
+        {
+            "timestamp": [
+                832.08,
+                836.82
+            ],
+            "text": " systems and structures that don't work for everyone, right?"
+        },
+        {
+            "timestamp": [
+                836.88,
+                842.24
+            ],
+            "text": " Particularly if we're privileged enough to be in positions where, you know, on issues"
+        },
+        {
+            "timestamp": [
+                842.24,
+                846.94
+            ],
+            "text": " and for organizations that have platforms that can talk about these"
+        },
+        {
+            "timestamp": [
+                846.94,
+                852.32
+            ],
+            "text": " issues and can turn the spotlight or turn the light, you know, first internally and say,"
+        },
+        {
+            "timestamp": [
+                852.32,
+                859.14
+            ],
+            "text": " what am I doing to help further my own understanding and then my actions to change"
+        },
+        {
+            "timestamp": [
+                859.14,
+                866.58
+            ],
+            "text": " and correct and build equity into the center of how I communicate and what I advocate for, how I"
+        },
+        {
+            "timestamp": [
+                866.58,
+                872.24
+            ],
+            "text": " advocate for it. And then how can I then in turn, in my organization in turn, help do that in the"
+        },
+        {
+            "timestamp": [
+                872.24,
+                878.24
+            ],
+            "text": " larger community. And it's not easy to do. I don't say it's a mixed bag in a judgmental way."
+        },
+        {
+            "timestamp": [
+                878.6,
+                885.12
+            ],
+            "text": " I just say it in a way that it's a difficult challenge, but it is one that I think we have to be as relentless about"
+        },
+        {
+            "timestamp": [
+                885.12,
+                892.4
+            ],
+            "text": " insisting on addressing now, because if we get too much farther along in, you know, going down"
+        },
+        {
+            "timestamp": [
+                892.4,
+                897.24
+            ],
+            "text": " some of the paths that we're going down with open access, if we embed APCs, for example,"
+        },
+        {
+            "timestamp": [
+                897.82,
+                903.08
+            ],
+            "text": " as a dominant payment mechanism, it's going to take decades to unwind that. And we're not going"
+        },
+        {
+            "timestamp": [
+                903.08,
+                907.26
+            ],
+            "text": " to have the kind of open access system that we, you know, we so dearly"
+        },
+        {
+            "timestamp": [
+                907.26,
+                908.1
+            ],
+            "text": " want to have."
+        },
+        {
+            "timestamp": [
+                908.8,
+                914.12
+            ],
+            "text": " Well, thank you for doing the work to make sure that it's not just, you know, a tacked"
+        },
+        {
+            "timestamp": [
+                914.12,
+                917.36
+            ],
+            "text": " on conversation and that it's right in the forefront."
+        },
+        {
+            "timestamp": [
+                918.12,
+                930.58
+            ],
+            "text": " I'm interested to know what policies world governments and other funders need to adopt to maximize the sharing of knowledge?"
+        },
+        {
+            "timestamp": [
+                931.3,
+                933.22
+            ],
+            "text": " Lots of different aspects there."
+        },
+        {
+            "timestamp": [
+                933.22,
+                948.1
+            ],
+            "text": " First, I do want to credit the folks that I work with and voices in the open community with really being leading forces for driving the need to center equity in the discussion."
+        },
+        {
+            "timestamp": [
+                948.24,
+                954.54
+            ],
+            "text": " In particular, people like Leslie Chan, Ariana, Bersil Garcia, Dominique Babini, people who"
+        },
+        {
+            "timestamp": [
+                954.54,
+                958.12
+            ],
+            "text": " have been really tireless in pushing the equity conversation forward."
+        },
+        {
+            "timestamp": [
+                958.26,
+                961.06
+            ],
+            "text": " I learn from them every minute of every day."
+        },
+        {
+            "timestamp": [
+                961.58,
+                967.94
+            ],
+            "text": " And the role that I play is a pretty small one compared to the heavy lift that"
+        },
+        {
+            "timestamp": [
+                967.94,
+                973.24
+            ],
+            "text": " they do on a minute by minute and daily basis and so many other voices. So I just, I don't,"
+        },
+        {
+            "timestamp": [
+                973.24,
+                979.3
+            ],
+            "text": " I don't want to pretend that I'm somehow, you know, special in this conversation. The list of"
+        },
+        {
+            "timestamp": [
+                979.3,
+                985.2
+            ],
+            "text": " folks on the organizing committee for global open access week if you if you look at them they're each"
+        },
+        {
+            "timestamp": [
+                985.84,
+                992.88
+            ],
+            "text": " leading voices and driving dogged advocates for equity so just want to make sure to say that"
+        },
+        {
+            "timestamp": [
+                992.88,
+                1000.96
+            ],
+            "text": " and in terms of policies you know for me i would say the starting point for you know kind of"
+        },
+        {
+            "timestamp": [
+                1000.96,
+                1005.78
+            ],
+            "text": " thinking about open knowledge policies it's been too two, kind of twofold, right?"
+        },
+        {
+            "timestamp": [
+                1005.84,
+                1012.48
+            ],
+            "text": " We've sort of had a front in opening up knowledge from the education perspective, right? And the"
+        },
+        {
+            "timestamp": [
+                1012.48,
+                1018.08
+            ],
+            "text": " open education movement, which is focused on textbooks, teaching and learning materials,"
+        },
+        {
+            "timestamp": [
+                1018.3,
+                1022.74
+            ],
+            "text": " open pedagogy, right? Things that you need in the classroom for teaching and learning."
+        },
+        {
+            "timestamp": [
+                1022.74,
+                1026.64
+            ],
+            "text": " And those policies are, you know, incredibly"
+        },
+        {
+            "timestamp": [
+                1026.64,
+                1032.58
+            ],
+            "text": " important. And we work really closely and, you know, really try to kind of cross-pollinate the"
+        },
+        {
+            "timestamp": [
+                1032.58,
+                1039.06
+            ],
+            "text": " other set of policies, which are open access or open science policies requiring immediate open"
+        },
+        {
+            "timestamp": [
+                1039.06,
+                1047.46
+            ],
+            "text": " sharing of scientific and scholarly articles of data that's produced in the research process, but also kind of getting into, you know,"
+        },
+        {
+            "timestamp": [
+                1047.56,
+                1052.46
+            ],
+            "text": " even deeper in the research and knowledge discovery workflow and doing things"
+        },
+        {
+            "timestamp": [
+                1052.46,
+                1054.78
+            ],
+            "text": " like sharing lab notebooks,"
+        },
+        {
+            "timestamp": [
+                1055.0,
+                1059.52
+            ],
+            "text": " protocol drafts of things that you're writing that may ultimately become"
+        },
+        {
+            "timestamp": [
+                1059.52,
+                1060.92
+            ],
+            "text": " articles like preprints."
+        },
+        {
+            "timestamp": [
+                1061.54,
+                1064.7
+            ],
+            "text": " And there's sort of two distinct policy paths."
+        },
+        {
+            "timestamp": [
+                1068.62,
+                1075.8
+            ],
+            "text": " Really the two most important areas that that we have to focus on are policies for access to data and policies for access to"
+        },
+        {
+            "timestamp": [
+                1075.8,
+                1081.74
+            ],
+            "text": " articles reporting on what you find out of that data and in the research process"
+        },
+        {
+            "timestamp": [
+                1081.74,
+                1085.82
+            ],
+            "text": " so yeah i would say those are the two main areas."
+        },
+        {
+            "timestamp": [
+                1086.82,
+                1093.96
+            ],
+            "text": " At Creative Commons, we're celebrating our 20th anniversary this year, and we're looking back on"
+        },
+        {
+            "timestamp": [
+                1093.96,
+                1102.98
+            ],
+            "text": " the past 20 years, whilst also looking to the future of Open. When you look back to, you know,"
+        },
+        {
+            "timestamp": [
+                1103.02,
+                1107.98
+            ],
+            "text": " the beginning days, is there anything that you're particularly nostalgic about?"
+        },
+        {
+            "timestamp": [
+                1108.5,
+                1111.14
+            ],
+            "text": " What do you hope to see in the next 10 years?"
+        },
+        {
+            "timestamp": [
+                1111.14,
+                1119.04
+            ],
+            "text": " Oh, gosh, that's a really interesting question. Nostalgic? I would say no, not so much nostalgic."
+        },
+        {
+            "timestamp": [
+                1148.18,
+                1153.28
+            ],
+            "text": " Thinking back to your last question on policy, we started advocating for open access policies was explaining to policymakers what the issues were, why they should care about the cost of science, getting access to scientific journal articles of all"
+        },
+        {
+            "timestamp": [
+                1153.28,
+                1161.36
+            ],
+            "text": " things, really trying to build a case and take a concept that really hadn't existed and certainly"
+        },
+        {
+            "timestamp": [
+                1161.36,
+                1168.38
+            ],
+            "text": " was not on the mind or the priority list of policymakers anywhere in the world,"
+        },
+        {
+            "timestamp": [
+                1168.72,
+                1175.92
+            ],
+            "text": " you know, for the first decade. That was one of the more exhausting exercises I can imagine going"
+        },
+        {
+            "timestamp": [
+                1175.92,
+                1182.14
+            ],
+            "text": " through, right? But the mark of, I think, how far the movement has come. And when I look back,"
+        },
+        {
+            "timestamp": [
+                1182.22,
+                1185.64
+            ],
+            "text": " one of the milestones of success that I really can see"
+        },
+        {
+            "timestamp": [
+                1185.64,
+                1192.02
+            ],
+            "text": " concretely every day of my life is that we're no longer having to have those basic conversations,"
+        },
+        {
+            "timestamp": [
+                1192.02,
+                1198.66
+            ],
+            "text": " right? There's almost no circumstances when I'll go into, for example, a conversation with a member"
+        },
+        {
+            "timestamp": [
+                1198.66,
+                1202.8
+            ],
+            "text": " of the U.S. Congress's office, and they say to me, I don't know what you're talking about. I don't"
+        },
+        {
+            "timestamp": [
+                1202.8,
+                1213.66
+            ],
+            "text": " know what open access is or why it's important. That's amazing, right? That's an enormous amount of progress that in the beginning, it felt like it would be impossible for us to get there."
+        },
+        {
+            "timestamp": [
+                1228.36,
+                1249.88
+            ],
+            "text": " Huge movement. Policy fights in the beginning and the middle were, should we move to open access or not? Now, even those players that have been the most vocal in opposing open access and open access policies will say open access is clearly the path forward. The arguments are now about how to get there, which is, you know, at once a fantastic"
+        },
+        {
+            "timestamp": [
+                1249.88,
+                1258.34
+            ],
+            "text": " quantum leap forward from where we started. And at the same time, it's harder to a certain degree"
+        },
+        {
+            "timestamp": [
+                1258.34,
+                1267.86
+            ],
+            "text": " because the nuances of the suggested paths forward are oftentimes really difficult for policymakers to understand"
+        },
+        {
+            "timestamp": [
+                1267.86,
+                1272.9
+            ],
+            "text": " and to kind of get, you know, well, if publishers are willing to make all of their stuff,"
+        },
+        {
+            "timestamp": [
+                1273.2,
+                1277.42
+            ],
+            "text": " all of their articles available openly, and they're simply asking you to, you know,"
+        },
+        {
+            "timestamp": [
+                1277.42,
+                1282.54
+            ],
+            "text": " keep the same amount of money in the system, just cover those, you know, same cost and revenue"
+        },
+        {
+            "timestamp": [
+                1282.54,
+                1287.46
+            ],
+            "text": " targets, just at a different point of payment, why do you"
+        },
+        {
+            "timestamp": [
+                1287.46,
+                1294.74
+            ],
+            "text": " need us? And then we have to kind of unwind and go back and say, you know, that if it sounds,"
+        },
+        {
+            "timestamp": [
+                1295.16,
+                1300.66
+            ],
+            "text": " in life, if something sounds a no brainer, oftentimes, if it's too good to be true."
+        },
+        {
+            "timestamp": [
+                1303.14,
+                1328.3
+            ],
+            "text": " Let us explain to you why that sounds great, but isn't going to work for, you know, Yeah, yeah. Nostalgia limited to the people that I've been fortunate to interact with over time."
+        },
+        {
+            "timestamp": [
+                1328.3,
+                1337.46
+            ],
+            "text": " I miss some of the folks who were part of the fight early on and who have rightly retired or moved on to doing other things."
+        },
+        {
+            "timestamp": [
+                1347.28,
+                1353.08
+            ],
+            "text": " side of that is the the growth of this incredible global community of just committed advocates who have become not just colleagues but dear friends um is part of the it's the best part you know"
+        },
+        {
+            "timestamp": [
+                1353.08,
+                1358.58
+            ],
+            "text": " really of working on something like this well that's one thing that i was thinking about you"
+        },
+        {
+            "timestamp": [
+                1358.58,
+                1367.96
+            ],
+            "text": " know from 2003 to now is just how much technology has advanced in that time and I wanted to get your"
+        },
+        {
+            "timestamp": [
+                1367.96,
+                1374.22
+            ],
+            "text": " thoughts on how technology is changing the landscape of academic publishing and what are"
+        },
+        {
+            "timestamp": [
+                1374.22,
+                1379.94
+            ],
+            "text": " some of the tensions and challenges that you're seeing right now it's true I mean it's another"
+        },
+        {
+            "timestamp": [
+                1379.94,
+                1385.6
+            ],
+            "text": " one of those sort of double-edged swords, right? There's so many good things about the technological"
+        },
+        {
+            "timestamp": [
+                1385.6,
+                1393.4
+            ],
+            "text": " advances. The major one from my perch as an advocate has been the rise of public understanding"
+        },
+        {
+            "timestamp": [
+                1393.4,
+                1400.92
+            ],
+            "text": " of things like text and data mining and what artificial intelligence can do, right? We used"
+        },
+        {
+            "timestamp": [
+                1400.92,
+                1410.78
+            ],
+            "text": " to talk in the early days of the open access movement, and I'm going to credit the former Creative Commons Science Commons project lead, John Wilbanks, with this phrase."
+        },
+        {
+            "timestamp": [
+                1411.12,
+                1425.46
+            ],
+            "text": " He used to say, the thing about open access is we're working to enable not just people to be able to read scientific articles, but we need to enable computers as a category of readers, right?"
+        },
+        {
+            "timestamp": [
+                1425.76,
+                1431.94
+            ],
+            "text": " And people would kind of go, what the heck does that mean, enable computers? But John knew what"
+        },
+        {
+            "timestamp": [
+                1431.94,
+                1437.06
+            ],
+            "text": " he was talking about, right? It meant we're at a point in human history where one person can't sit"
+        },
+        {
+            "timestamp": [
+                1437.06,
+                1446.68
+            ],
+            "text": " down and read on an analog basis the corpus of journal articles that, you know, she needs to even stay current in most disciplines."
+        },
+        {
+            "timestamp": [
+                1446.9,
+                1452.5
+            ],
+            "text": " So being able to utilize computers to do some of that work for us, right, to help point to"
+        },
+        {
+            "timestamp": [
+                1452.5,
+                1459.02
+            ],
+            "text": " articles of interest, and then, you know, to do the heavy duty kind of semantic searching and"
+        },
+        {
+            "timestamp": [
+                1459.02,
+                1465.76
+            ],
+            "text": " the kind of work that was so crucial during COVID, for example, and, hey, help, you know, I need"
+        },
+        {
+            "timestamp": [
+                1465.76,
+                1471.16
+            ],
+            "text": " help in figuring out what kind of drugs we may already have in use that are being used"
+        },
+        {
+            "timestamp": [
+                1471.16,
+                1475.4
+            ],
+            "text": " for other conditions that might be repurposed to help in this situation, right?"
+        },
+        {
+            "timestamp": [
+                1475.4,
+                1480.08
+            ],
+            "text": " That's not something, you know, one human being has an encyclopedic knowledge of, but"
+        },
+        {
+            "timestamp": [
+                1480.08,
+                1487.04
+            ],
+            "text": " we certainly, you know, used an open access corpus of related papers to try to find those kinds"
+        },
+        {
+            "timestamp": [
+                1487.04,
+                1487.6
+            ],
+            "text": " of targets."
+        },
+        {
+            "timestamp": [
+                1488.2,
+                1493.78
+            ],
+            "text": " And that sort of technological advance has been a real boon to helping people understand,"
+        },
+        {
+            "timestamp": [
+                1494.04,
+                1495.56
+            ],
+            "text": " oh, I get it."
+        },
+        {
+            "timestamp": [
+                1495.56,
+                1503.46
+            ],
+            "text": " We really need to be able to have a digital database of these articles in order to use"
+        },
+        {
+            "timestamp": [
+                1503.46,
+                1507.12
+            ],
+            "text": " them as fully as possible and unlock the kind of information"
+        },
+        {
+            "timestamp": [
+                1507.12,
+                1511.44
+            ],
+            "text": " that's in there that we're never going to find reading them one paper at a time as individual"
+        },
+        {
+            "timestamp": [
+                1511.44,
+                1517.94
+            ],
+            "text": " humans. And open is, you know, open licenses, having open licenses on those articles is the"
+        },
+        {
+            "timestamp": [
+                1517.94,
+                1524.36
+            ],
+            "text": " only way to, you know, ensure that we have the right to be able to use those articles and using"
+        },
+        {
+            "timestamp": [
+                1524.36,
+                1525.78
+            ],
+            "text": " open technologies and standardized open technologies to make sure they're in a format that we have the right to be able to use those articles and using open technologies and"
+        },
+        {
+            "timestamp": [
+                1525.78,
+                1531.02
+            ],
+            "text": " standardized open technologies to make sure they're in a format that we can physically do"
+        },
+        {
+            "timestamp": [
+                1531.02,
+                1536.82
+            ],
+            "text": " that. That's three quarters of the battle. So that's been a really important aspect of how"
+        },
+        {
+            "timestamp": [
+                1536.82,
+                1540.5
+            ],
+            "text": " technological advances have helped us quite a bit."
+        },
+        {
+            "timestamp": [
+                1542.32,
+                1547.68
+            ],
+            "text": " We're really glad to see the early traction with the inclusiveaccess.org project,"
+        },
+        {
+            "timestamp": [
+                1547.68,
+                1554.06
+            ],
+            "text": " and we are very glad and proud partners in this campaign. Can you describe how this"
+        },
+        {
+            "timestamp": [
+                1554.06,
+                1568.72
+            ],
+            "text": " intervention works and why it's especially important now? Yeah, the inclusiveaccess.org project has been something that we really saw the need for in the space"
+        },
+        {
+            "timestamp": [
+                1568.72,
+                1578.12
+            ],
+            "text": " as the term inclusive access started to be used by some in the publishing industry to"
+        },
+        {
+            "timestamp": [
+                1578.12,
+                1586.94
+            ],
+            "text": " maybe kind of allied over a bit the challenges that students are facing, being able to afford access to essential"
+        },
+        {
+            "timestamp": [
+                1586.94,
+                1593.48
+            ],
+            "text": " materials to do the work that they need to do, particularly on college and university campuses."
+        },
+        {
+            "timestamp": [
+                1594.12,
+                1608.16
+            ],
+            "text": " And the idea of inclusive access was starting to, I think, really being used as a well open access to textbooks or open educational resources"
+        },
+        {
+            "timestamp": [
+                1608.16,
+                1616.92
+            ],
+            "text": " is maybe too radical a concept so you know let us we'll chart a middle course here or you don't"
+        },
+        {
+            "timestamp": [
+                1616.92,
+                1627.88
+            ],
+            "text": " need to go through the effort of creating a whole new open something and open, you know, it has all these issues. And we really wanted to make sure"
+        },
+        {
+            "timestamp": [
+                1627.88,
+                1634.56
+            ],
+            "text": " that people understood that when you say something like inclusive access, it may sound good on the"
+        },
+        {
+            "timestamp": [
+                1634.56,
+                1643.1
+            ],
+            "text": " surface, but you still need to be a discriminating consumer and you need to unpack what's under the"
+        },
+        {
+            "timestamp": [
+                1643.1,
+                1646.48
+            ],
+            "text": " surface, right? Much in the way that we'll happily unpack"
+        },
+        {
+            "timestamp": [
+                1646.48,
+                1652.02
+            ],
+            "text": " what does it mean to have a full open textbook or an open educational resource? What are the"
+        },
+        {
+            "timestamp": [
+                1652.02,
+                1657.14
+            ],
+            "text": " benefits and what are the potential drawbacks? We really wanted to do that, kind of open up this"
+        },
+        {
+            "timestamp": [
+                1657.14,
+                1665.06
+            ],
+            "text": " idea of what's under the hood in this concept of inclusive access and encourage people to think it through for themselves."
+        },
+        {
+            "timestamp": [
+                1665.66,
+                1672.1
+            ],
+            "text": " You know, what might be the trade-offs that we're asking our students, our faculty to make"
+        },
+        {
+            "timestamp": [
+                1672.1,
+                1679.06
+            ],
+            "text": " when we kind of go down the route of, well, we'll give you a discount on your campus for textbooks,"
+        },
+        {
+            "timestamp": [
+                1679.06,
+                1685.46
+            ],
+            "text": " but in exchange, you'll agree to embed that cost in a bursar's bill, for example."
+        },
+        {
+            "timestamp": [
+                1690.98,
+                1695.56
+            ],
+            "text": " How is that inclusive if the student may or may not know that they're being asked to pay for their learning materials hidden in their tuition bill?"
+        },
+        {
+            "timestamp": [
+                1695.82,
+                1697.34
+            ],
+            "text": " And what's in there?"
+        },
+        {
+            "timestamp": [
+                1697.36,
+                1698.26
+            ],
+            "text": " And what's their choice?"
+        },
+        {
+            "timestamp": [
+                1698.34,
+                1699.52
+            ],
+            "text": " What are their options, right?"
+        },
+        {
+            "timestamp": [
+                1699.84,
+                1701.64
+            ],
+            "text": " That's not very inclusive, right?"
+        },
+        {
+            "timestamp": [
+                1701.64,
+                1706.0
+            ],
+            "text": " That feels a little like we're going down the opposite of"
+        },
+        {
+            "timestamp": [
+                1706.0,
+                1713.28
+            ],
+            "text": " inclusive. So yeah, it's a very new campaign, as you know, it was just launched a couple of weeks"
+        },
+        {
+            "timestamp": [
+                1713.28,
+                1719.4
+            ],
+            "text": " ago. But the general response has been, I think people are very appreciative of the approach"
+        },
+        {
+            "timestamp": [
+                1719.4,
+                1725.04
+            ],
+            "text": " that the campaign has taken, that is really decide for yourself, right?"
+        },
+        {
+            "timestamp": [
+                1725.1,
+                1730.98
+            ],
+            "text": " And it's deliberately laid out in a way that doesn't just ask people, but I think helps"
+        },
+        {
+            "timestamp": [
+                1730.98,
+                1733.58
+            ],
+            "text": " people walk through different choice points."
+        },
+        {
+            "timestamp": [
+                1733.94,
+                1740.18
+            ],
+            "text": " And inclusive access is sold by some in one way to accomplish a set of things."
+        },
+        {
+            "timestamp": [
+                1740.54,
+                1745.0
+            ],
+            "text": " Decide for yourself whether it does that and whether the unintended consequences or"
+        },
+        {
+            "timestamp": [
+                1745.0,
+                1750.5
+            ],
+            "text": " potentially intended consequences that it has are really worth it in the community."
+        },
+        {
+            "timestamp": [
+                1751.8,
+                1758.9
+            ],
+            "text": " And that was my final question for you. Any final points, any things that you want"
+        },
+        {
+            "timestamp": [
+                1758.9,
+                1769.06
+            ],
+            "text": " our listeners to really pay attention to? I think right now, one of the things that we have is one of these moments"
+        },
+        {
+            "timestamp": [
+                1769.06,
+                1777.54
+            ],
+            "text": " where we're kind of coming out of a moment in time during the COVID pandemic when open and"
+        },
+        {
+            "timestamp": [
+                1777.54,
+                1787.42
+            ],
+            "text": " open access to knowledge on all kind of levels really took center stage in a way that I don't think we could have had a demonstration,"
+        },
+        {
+            "timestamp": [
+                1787.74,
+                1795.16
+            ],
+            "text": " a stronger demonstration of the critical nature of the need to keep pushing on open in both"
+        },
+        {
+            "timestamp": [
+                1795.16,
+                1807.06
+            ],
+            "text": " helping schools to continue to educate students, right? Open educational resources, open materials, an absolute necessary"
+        },
+        {
+            "timestamp": [
+                1807.06,
+                1815.9
+            ],
+            "text": " component of allowing education to continue in the online world. And certainly the continuity"
+        },
+        {
+            "timestamp": [
+                1815.9,
+                1823.52
+            ],
+            "text": " of research was hugely dependent on open access materials to continue to move forward, right?"
+        },
+        {
+            "timestamp": [
+                1823.52,
+                1827.3
+            ],
+            "text": " When people can't physically get into labs or"
+        },
+        {
+            "timestamp": [
+                1827.3,
+                1834.64
+            ],
+            "text": " physically can't get onto campus, the ability to have unfettered access to information and"
+        },
+        {
+            "timestamp": [
+                1834.64,
+                1843.36
+            ],
+            "text": " knowledge was super critical. We saw, right, access to open data, the ability to fully,"
+        },
+        {
+            "timestamp": [
+                1843.52,
+                1847.4
+            ],
+            "text": " you know, unlock open research articles related to the coronavirus"
+        },
+        {
+            "timestamp": [
+                1847.4,
+                1855.66
+            ],
+            "text": " lead to the fastest development of a vaccine in human history. It's too easy now for people to"
+        },
+        {
+            "timestamp": [
+                1855.66,
+                1862.4
+            ],
+            "text": " kind of say, well, that worked, phew, we're over that hump. Let, you know, let's just, let's just"
+        },
+        {
+            "timestamp": [
+                1862.4,
+                1867.12
+            ],
+            "text": " keep moving. Let's just kind of move forward. We need to look critically and go,"
+        },
+        {
+            "timestamp": [
+                1867.12,
+                1877.1
+            ],
+            "text": " we saw how well this worked in this emergency situation. We have to take stock of the lessons"
+        },
+        {
+            "timestamp": [
+                1877.1,
+                1885.16
+            ],
+            "text": " that we learned during COVID and apply them to every other research-based, right, and education-based challenge that are in front of us."
+        },
+        {
+            "timestamp": [
+                1892.72,
+                1899.88
+            ],
+            "text": " We can't go back to relying on a system that says only in the case of emergency do we break the glass and use open resources. I think COVID proved once and for all things move more efficiently,"
+        },
+        {
+            "timestamp": [
+                1899.88,
+                1907.94
+            ],
+            "text": " more people are included. It's a better way to do science, research, to conduct education."
+        },
+        {
+            "timestamp": [
+                1908.42,
+                1915.42
+            ],
+            "text": " And we have to use this moment to say, as advocates, to call for open to now be centered"
+        },
+        {
+            "timestamp": [
+                1915.42,
+                1922.54
+            ],
+            "text": " in every societal challenge. Combating climate change, dealing with food insecurity. We need to"
+        },
+        {
+            "timestamp": [
+                1922.54,
+                1926.54
+            ],
+            "text": " make sure that we take the things that we learned during COVID"
+        },
+        {
+            "timestamp": [
+                1926.54,
+                1933.12
+            ],
+            "text": " and just drive as hard as we can. Otherwise, it's just way too easy for people to say,"
+        },
+        {
+            "timestamp": [
+                1934.04,
+                1938.94
+            ],
+            "text": " oh, we catch our breath, we're moving on, we're going forward. We don't need to think critically"
+        },
+        {
+            "timestamp": [
+                1938.94,
+                1945.22
+            ],
+            "text": " until the next pandemic hits. And that would just be an incredible wasted opportunity"
+        },
+        {
+            "timestamp": [
+                1945.22,
+                1951.52
+            ],
+            "text": " thank you and where can folks find you if they want to keep up with your work and exciting"
+        },
+        {
+            "timestamp": [
+                1951.52,
+                1956.1
+            ],
+            "text": " updates we'll put some links in the episode description but if you'd like to tell us"
+        },
+        {
+            "timestamp": [
+                1956.1,
+                1968.82
+            ],
+            "text": " you can certainly find spark online at spark open.org. You can follow Spark on Twitter at spark underscore na. And I'm just"
+        },
+        {
+            "timestamp": [
+                1968.82,
+                1973.52
+            ],
+            "text": " at H. Joseph on Twitter because I'm older than dirt and have been on Twitter for a long time."
+        },
+        {
+            "timestamp": [
+                1973.52,
+                1980.1
+            ],
+            "text": " I have a pretty easy Twitter handle to follow. Yeah, we'd love to hear from folks too."
+        },
+        {
+            "timestamp": [
+                1980.36,
+                1989.02
+            ],
+            "text": " Thank you so much. Thank you for making the time for this conversation today. It's been so insightful and I'm looking forward to going back over it myself."
+        },
+        {
+            "timestamp": [
+                1990.8,
+                2001.14
+            ],
+            "text": " Well, thank you. And thanks to Creative Commons for continuing to be an incredibly important organization and a wonderful partner over these last 20 years."
+        },
+        {
+            "timestamp": [
+                2001.14,
+                2002.98
+            ],
+            "text": " over these last 20 years."
+        },
+        {
+            "timestamp": [
+                2006.24,
+                2006.82
+            ],
+            "text": " Thanks for listening to Open Minds from Creative Commons."
+        },
+        {
+            "timestamp": [
+                2009.4,
+                2009.84
+            ],
+            "text": " Special thanks to the musician Broke For Free,"
+        },
+        {
+            "timestamp": [
+                2012.86,
+                2015.12
+            ],
+            "text": " whose track Daybird you heard at the beginning of this episode and you're listening to right now."
+        },
+        {
+            "timestamp": [
+                2015.38,
+                2019.14
+            ],
+            "text": " It's available under the Creative Commons attribution license."
+        },
+        {
+            "timestamp": [
+                2019.64,
+                2022.0
+            ],
+            "text": " Meaning it's free for anyone to use."
+        },
+        {
+            "timestamp": [
+                2022.0,
+                2027.02
+            ],
+            "text": " You can find it at the free music archive, freemusicarchive.org."
+        },
+        {
+            "timestamp": [
+                2027.44,
+                2032.44
+            ],
+            "text": " Please subscribe to our show so you don't miss any of our conversations with people"
+        },
+        {
+            "timestamp": [
+                2032.44,
+                2037.74
+            ],
+            "text": " working to make the internet and our global culture more open and collaborative."
+        },
+        {
+            "timestamp": [
+                2038.38,
+                2040.36
+            ],
+            "text": " We'll be back soon with another episode."
+        },
+        {
+            "timestamp": [
+                2040.82,
+                2041.58
+            ],
+            "text": " Talk to you then."
+        }
+    ],
+    "text": " Welcome to Open Minds from Creative Commons. I'm Oney-Ann Youcombe, CC's Campaigns Manager. We're celebrating Creative Commons' 20th anniversary this year, and one of the ways that we're doing that is with this podcast. A series of conversations with people working on the issues we're involved with and subjects we're excited about. with and subjects we're excited about. Happy International Open Access Week, a global community-driven week of action to open up access to research, taking place from October the 25th to the 31st this year. In celebration of this, our guest on this episode is Heather Joseph, the Executive Director of SPARC, the Scholarly Publishing and Academic Resources Coalition. SPARC is a global advocacy organisation working to make research and education open and equitable by design for everyone. by design for everyone. International Open Access Week was first established by Spark and partners in the student community back in 2008. Find out more about the week's activities at openaccessweek.org. Heather is a US-based advocate for open access and academic journal publishing reform. Under her stewardship, Spark has become widely recognized as the leading international force for effective open access policies and practices. Well, that's enough from me. I hope you enjoy this conversation with Heather Joseph. So just to get us started, we'd love to give our listeners an opportunity to get to know you better and to explore your background in open access. Could you start by just introducing yourself and telling us how you were first introduced to open? Sure. I'm Heather Joseph, and I'm the Executive Director of SPARC, which is an international advocacy organization based in the academic and research library community who advocate for an open and equitable system of research and education. And we have, and I have, been advocating for Open Access since 2001. Actually, I can't believe it's been as long as it has been. But yeah, I was super fortunate to be at Spark when the Soros Foundation's Open Society Foundations convened the meeting in Budapest that led to the Budapest Open Access Initiative, which is where the concept of open access was first defined. And SPARC was one of the original signatory organizations to the declaration and initiative that came out of that meeting in 2001. Awesome. And you've touched a little bit on my second question, but I just want to talk a bit more about the advocacy role that SPARC plays internationally in the fight for access to open knowledge. We do a lot of advocacy on, I would say, a couple of different levels. We do advocacy kind of at the grassroots organization level, educating researchers, faculty, students, members of the public about the opportunities that creating a more open system for sharing in the research environment and sharing, you know, in educational institutions can bring. And we also do advocacy on the policy level, right? Really working to influence policymakers, whether they're heads of research or academic institutions, research funders, or members of federal governments to create policies that we like to say, set the default to open, right? Change the rules of the road, if you will, to make open and open access to research and education the default. And I'll dive into the policy piece a little later on in our conversation. But one thing that I'm personally interested to know you've been working in this space now for the past two decades and you're widely recognized as an advocate and champion for open access but in your personal writing and some of the other interviews you've done you use the phrase open knowledge and I just wanted to know if you see these as being one and the same. And, you know, is it intentional? And what's the difference if there is any difference at all? That's a great question. And it is a change. And it is an intentional one. So I'm actually kind of thrilled that you noticed that. When we first started out talking about open access and really sort of working on the issue of open access, we really kind of honed in on a specific layer of knowledge, right, of articles that were published in journals. And that was really the focus because that was in academic libraries and academic institutions. It's kind of where the most visible manifestations of we really have a problem were surfacing. So we tended in the first really decade of the open access movement to kind of use open access as a shorthand for what I think we all intuitively knew was a larger issue or a set of larger issues. But we recognized, maybe it shouldn't have taken quite so long, but eventually I think we recognized that in order to have people really be able to see how this issue affected them, if they weren't necessarily going to a library and trying to access a journal article, we still want people to understand this is really important to every individual on the planet. And so we've tried really deliberately to make sure that we have a framing that kind of talks about the fact that whether it's a journal article or textbook, right, if you're a student and you can't get access to a textbook or a chapter, or you're a parent or a patient, and you're interested in finding out the latest medical information, because someone in your family is, you know, has recently been diagnosed with something, these things matter to you. So we've worked really hard actually to kind of make sure that the framing that we have speaks to the idea that this is information, right? This is knowledge that is meaningful to everyone, everywhere. And that access to that layer of information, of knowledge writ large, is actually a universal human right. And so everyone should be interested in making sure that we all have equal ability to benefit from it. to benefit from it. I think that pivot towards open knowledge and just expanding how we talk about it is so critical. You know, I could see how with the term open access, many may feel that they're excluded from such conversations and that it's not relevant to them. But, you know, knowledge is something that should be universal and it definitely is somewhat more inclusive in many ways. So I hope to see it more widely adopted. Totally. People ask me sometimes, you know, if you could go back to the beginning of the open access movement and change one thing, what would it be? And one of the things that I would do would be to change what we called it, right? The idea of open access, mainly because, I mean, for the reasons that you just described, yes, but also because it puts the focus on one aspect of knowledge sharing, and that's being able to get to, right? To access, to interact with knowledge, but it doesn't cover the production of knowledge, right? It doesn't cover making sure that everyone's voices are included. And I think, you know, words matter. And that limitation is something that the theme of International Open Access Week is really trying to get at. But just because we make sure that, you know, a book chapter or an article is available online and anybody can get to it it doesn't mean we've achieved all the goals of the open access movement or you know the open knowledge open scholarship movement you know the the sort of larger framing is super important and you mentioned open access. When we release this episode, it will actually be International Open Access Week, which is taking place from October the 25th to the 31st. And this year's theme is it matters how we open knowledge, building structural equity. I'm interested to dig in deeper to what that means and why building structural equity matters now more than ever. Another really good question. Yeah, so the theme was designed and agreed on by the organizing committee for International Open Access Week, which is made up of representatives from all over the world. And it's actually the third year in a row that the events of the week will be organized around building the understanding of not just the concept of equity, but the realities of how big the challenges are in front of us. I think it was easy also for folks in the beginning of the open access movement, and even still today, to kind of focus in on the idea of the thing that we need to change is enabling the immediate free distribution of knowledge. And that it's as easy as doing something like, you know, flipping a journal from a subscription payment model where you pay at the end to read to, for example, you pay up front as an author to get your article published and then everyone has access. And then, you know, everything's peachy. It's really tempting to kind of say, well, that gets us more open access articles, so that's a measure of success. But what we really want to use the week and the idea of centering the notion of equity to surface is that gets us more open access articles, but it doesn't create a fully open and equitable system of knowledge sharing, right? Thinking about the issues of what kind of technology we use, business models we use, legal mechanisms we use matter in terms of what barriers may inadvertently be repeated from the current system that we have now or inadvertently introduced? We have so many structural inequities in the way we share scholarship and knowledge. We have English kind of canonized, right, as the official language? Why is that? And how can we deliberately look at strategies in the open movement to change that? We have the journal article also sort of vetted and embedded as the standard of communication. Why is it a journal article and not storytelling or some kind of non-traditional media? There are all kinds of other ways that communities express and share their knowledge that we're not recognizing in the current system of sharing knowledge, that we want people to step back and think deliberately about how do we include those kinds of systems of sharing knowledge, those kinds of mechanisms, and in turn, empower the people who rely on those mechanisms for sharing knowledge? How do we put that at the center of the open access movement and not treat it as an add-on, right right that's the only way that we can really build you know build equity into a system that frankly has not been serving the majority of you know people in the world and are you finding that there's resistance on this front in terms of building structural equity or a large amount of uptake or a mixed bag? It's a mixed bag. And I think, you know, these kinds of changes are, they're fraught with, you know, different kinds of challenges, because I think people rightly feel challenged both personally and professionally to rethink assumptions and biases that we've each fought to the table many times unknowingly. But I think the political, economic, and social events of the last several years, if they've done nothing else, they've really thrown into sharp relief how much a personal responsibility we each have to critically examine, you know, our role in perpetuating systems and structures that don't work for everyone, right? Particularly if we're privileged enough to be in positions where, you know, on issues and for organizations that have platforms that can talk about these issues and can turn the spotlight or turn the light, you know, first internally and say, what am I doing to help further my own understanding and then my actions to change and correct and build equity into the center of how I communicate and what I advocate for, how I advocate for it. And then how can I then in turn, in my organization in turn, help do that in the larger community. And it's not easy to do. I don't say it's a mixed bag in a judgmental way. I just say it in a way that it's a difficult challenge, but it is one that I think we have to be as relentless about insisting on addressing now, because if we get too much farther along in, you know, going down some of the paths that we're going down with open access, if we embed APCs, for example, as a dominant payment mechanism, it's going to take decades to unwind that. And we're not going to have the kind of open access system that we, you know, we so dearly want to have. Well, thank you for doing the work to make sure that it's not just, you know, a tacked on conversation and that it's right in the forefront. I'm interested to know what policies world governments and other funders need to adopt to maximize the sharing of knowledge? Lots of different aspects there. First, I do want to credit the folks that I work with and voices in the open community with really being leading forces for driving the need to center equity in the discussion. In particular, people like Leslie Chan, Ariana, Bersil Garcia, Dominique Babini, people who have been really tireless in pushing the equity conversation forward. I learn from them every minute of every day. And the role that I play is a pretty small one compared to the heavy lift that they do on a minute by minute and daily basis and so many other voices. So I just, I don't, I don't want to pretend that I'm somehow, you know, special in this conversation. The list of folks on the organizing committee for global open access week if you if you look at them they're each leading voices and driving dogged advocates for equity so just want to make sure to say that and in terms of policies you know for me i would say the starting point for you know kind of thinking about open knowledge policies it's been too two, kind of twofold, right? We've sort of had a front in opening up knowledge from the education perspective, right? And the open education movement, which is focused on textbooks, teaching and learning materials, open pedagogy, right? Things that you need in the classroom for teaching and learning. And those policies are, you know, incredibly important. And we work really closely and, you know, really try to kind of cross-pollinate the other set of policies, which are open access or open science policies requiring immediate open sharing of scientific and scholarly articles of data that's produced in the research process, but also kind of getting into, you know, even deeper in the research and knowledge discovery workflow and doing things like sharing lab notebooks, protocol drafts of things that you're writing that may ultimately become articles like preprints. And there's sort of two distinct policy paths. Really the two most important areas that that we have to focus on are policies for access to data and policies for access to articles reporting on what you find out of that data and in the research process so yeah i would say those are the two main areas. At Creative Commons, we're celebrating our 20th anniversary this year, and we're looking back on the past 20 years, whilst also looking to the future of Open. When you look back to, you know, the beginning days, is there anything that you're particularly nostalgic about? What do you hope to see in the next 10 years? Oh, gosh, that's a really interesting question. Nostalgic? I would say no, not so much nostalgic. Thinking back to your last question on policy, we started advocating for open access policies was explaining to policymakers what the issues were, why they should care about the cost of science, getting access to scientific journal articles of all things, really trying to build a case and take a concept that really hadn't existed and certainly was not on the mind or the priority list of policymakers anywhere in the world, you know, for the first decade. That was one of the more exhausting exercises I can imagine going through, right? But the mark of, I think, how far the movement has come. And when I look back, one of the milestones of success that I really can see concretely every day of my life is that we're no longer having to have those basic conversations, right? There's almost no circumstances when I'll go into, for example, a conversation with a member of the U.S. Congress's office, and they say to me, I don't know what you're talking about. I don't know what open access is or why it's important. That's amazing, right? That's an enormous amount of progress that in the beginning, it felt like it would be impossible for us to get there. Huge movement. Policy fights in the beginning and the middle were, should we move to open access or not? Now, even those players that have been the most vocal in opposing open access and open access policies will say open access is clearly the path forward. The arguments are now about how to get there, which is, you know, at once a fantastic quantum leap forward from where we started. And at the same time, it's harder to a certain degree because the nuances of the suggested paths forward are oftentimes really difficult for policymakers to understand and to kind of get, you know, well, if publishers are willing to make all of their stuff, all of their articles available openly, and they're simply asking you to, you know, keep the same amount of money in the system, just cover those, you know, same cost and revenue targets, just at a different point of payment, why do you need us? And then we have to kind of unwind and go back and say, you know, that if it sounds, in life, if something sounds a no brainer, oftentimes, if it's too good to be true. Let us explain to you why that sounds great, but isn't going to work for, you know, Yeah, yeah. Nostalgia limited to the people that I've been fortunate to interact with over time. I miss some of the folks who were part of the fight early on and who have rightly retired or moved on to doing other things. side of that is the the growth of this incredible global community of just committed advocates who have become not just colleagues but dear friends um is part of the it's the best part you know really of working on something like this well that's one thing that i was thinking about you know from 2003 to now is just how much technology has advanced in that time and I wanted to get your thoughts on how technology is changing the landscape of academic publishing and what are some of the tensions and challenges that you're seeing right now it's true I mean it's another one of those sort of double-edged swords, right? There's so many good things about the technological advances. The major one from my perch as an advocate has been the rise of public understanding of things like text and data mining and what artificial intelligence can do, right? We used to talk in the early days of the open access movement, and I'm going to credit the former Creative Commons Science Commons project lead, John Wilbanks, with this phrase. He used to say, the thing about open access is we're working to enable not just people to be able to read scientific articles, but we need to enable computers as a category of readers, right? And people would kind of go, what the heck does that mean, enable computers? But John knew what he was talking about, right? It meant we're at a point in human history where one person can't sit down and read on an analog basis the corpus of journal articles that, you know, she needs to even stay current in most disciplines. So being able to utilize computers to do some of that work for us, right, to help point to articles of interest, and then, you know, to do the heavy duty kind of semantic searching and the kind of work that was so crucial during COVID, for example, and, hey, help, you know, I need help in figuring out what kind of drugs we may already have in use that are being used for other conditions that might be repurposed to help in this situation, right? That's not something, you know, one human being has an encyclopedic knowledge of, but we certainly, you know, used an open access corpus of related papers to try to find those kinds of targets. And that sort of technological advance has been a real boon to helping people understand, oh, I get it. We really need to be able to have a digital database of these articles in order to use them as fully as possible and unlock the kind of information that's in there that we're never going to find reading them one paper at a time as individual humans. And open is, you know, open licenses, having open licenses on those articles is the only way to, you know, ensure that we have the right to be able to use those articles and using open technologies and standardized open technologies to make sure they're in a format that we have the right to be able to use those articles and using open technologies and standardized open technologies to make sure they're in a format that we can physically do that. That's three quarters of the battle. So that's been a really important aspect of how technological advances have helped us quite a bit. We're really glad to see the early traction with the inclusiveaccess.org project, and we are very glad and proud partners in this campaign. Can you describe how this intervention works and why it's especially important now? Yeah, the inclusiveaccess.org project has been something that we really saw the need for in the space as the term inclusive access started to be used by some in the publishing industry to maybe kind of allied over a bit the challenges that students are facing, being able to afford access to essential materials to do the work that they need to do, particularly on college and university campuses. And the idea of inclusive access was starting to, I think, really being used as a well open access to textbooks or open educational resources is maybe too radical a concept so you know let us we'll chart a middle course here or you don't need to go through the effort of creating a whole new open something and open, you know, it has all these issues. And we really wanted to make sure that people understood that when you say something like inclusive access, it may sound good on the surface, but you still need to be a discriminating consumer and you need to unpack what's under the surface, right? Much in the way that we'll happily unpack what does it mean to have a full open textbook or an open educational resource? What are the benefits and what are the potential drawbacks? We really wanted to do that, kind of open up this idea of what's under the hood in this concept of inclusive access and encourage people to think it through for themselves. You know, what might be the trade-offs that we're asking our students, our faculty to make when we kind of go down the route of, well, we'll give you a discount on your campus for textbooks, but in exchange, you'll agree to embed that cost in a bursar's bill, for example. How is that inclusive if the student may or may not know that they're being asked to pay for their learning materials hidden in their tuition bill? And what's in there? And what's their choice? What are their options, right? That's not very inclusive, right? That feels a little like we're going down the opposite of inclusive. So yeah, it's a very new campaign, as you know, it was just launched a couple of weeks ago. But the general response has been, I think people are very appreciative of the approach that the campaign has taken, that is really decide for yourself, right? And it's deliberately laid out in a way that doesn't just ask people, but I think helps people walk through different choice points. And inclusive access is sold by some in one way to accomplish a set of things. Decide for yourself whether it does that and whether the unintended consequences or potentially intended consequences that it has are really worth it in the community. And that was my final question for you. Any final points, any things that you want our listeners to really pay attention to? I think right now, one of the things that we have is one of these moments where we're kind of coming out of a moment in time during the COVID pandemic when open and open access to knowledge on all kind of levels really took center stage in a way that I don't think we could have had a demonstration, a stronger demonstration of the critical nature of the need to keep pushing on open in both helping schools to continue to educate students, right? Open educational resources, open materials, an absolute necessary component of allowing education to continue in the online world. And certainly the continuity of research was hugely dependent on open access materials to continue to move forward, right? When people can't physically get into labs or physically can't get onto campus, the ability to have unfettered access to information and knowledge was super critical. We saw, right, access to open data, the ability to fully, you know, unlock open research articles related to the coronavirus lead to the fastest development of a vaccine in human history. It's too easy now for people to kind of say, well, that worked, phew, we're over that hump. Let, you know, let's just, let's just keep moving. Let's just kind of move forward. We need to look critically and go, we saw how well this worked in this emergency situation. We have to take stock of the lessons that we learned during COVID and apply them to every other research-based, right, and education-based challenge that are in front of us. We can't go back to relying on a system that says only in the case of emergency do we break the glass and use open resources. I think COVID proved once and for all things move more efficiently, more people are included. It's a better way to do science, research, to conduct education. And we have to use this moment to say, as advocates, to call for open to now be centered in every societal challenge. Combating climate change, dealing with food insecurity. We need to make sure that we take the things that we learned during COVID and just drive as hard as we can. Otherwise, it's just way too easy for people to say, oh, we catch our breath, we're moving on, we're going forward. We don't need to think critically until the next pandemic hits. And that would just be an incredible wasted opportunity thank you and where can folks find you if they want to keep up with your work and exciting updates we'll put some links in the episode description but if you'd like to tell us you can certainly find spark online at spark open.org. You can follow Spark on Twitter at spark underscore na. And I'm just at H. Joseph on Twitter because I'm older than dirt and have been on Twitter for a long time. I have a pretty easy Twitter handle to follow. Yeah, we'd love to hear from folks too. Thank you so much. Thank you for making the time for this conversation today. It's been so insightful and I'm looking forward to going back over it myself. Well, thank you. And thanks to Creative Commons for continuing to be an incredibly important organization and a wonderful partner over these last 20 years. over these last 20 years. Thanks for listening to Open Minds from Creative Commons. Special thanks to the musician Broke For Free, whose track Daybird you heard at the beginning of this episode and you're listening to right now. It's available under the Creative Commons attribution license. Meaning it's free for anyone to use. You can find it at the free music archive, freemusicarchive.org. Please subscribe to our show so you don't miss any of our conversations with people working to make the internet and our global culture more open and collaborative. We'll be back soon with another episode. Talk to you then."
+}
