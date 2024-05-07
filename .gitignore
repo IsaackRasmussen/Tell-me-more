@@ -1,3 +1,8 @@
+**/Presentation/CacheClip
+**/Presentation/Resolve Project Backups
+**/*.mkv
+**/*.mp4
+
 **/.idea
 **/*.mp3
 **/bin/Debug
