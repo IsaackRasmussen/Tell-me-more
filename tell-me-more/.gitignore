@@ -1,6 +1,6 @@
 media/*.mp3
 **/Presentation/CacheClip
-**/*.mkv
+*.mkv
 # Logs
 logs
 *.log
