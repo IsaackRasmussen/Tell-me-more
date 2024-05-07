@@ -189,7 +189,7 @@ const connectToDbSql = async function (queryMethodProc: any) {
         client.close();
         return result;
     })
-        .catch((error) => {
+        .catch((error: any) => {
             console.log(error);
         });
 }

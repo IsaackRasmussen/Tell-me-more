@@ -5,22 +5,24 @@
   "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "nodemon"
+    "dev": "nodemon"
   },
-  "nodemonConfig":{
+  "nodemonConfig": {
     "watch": [
-     "src"
-   ],
-   "exec": "tsc && node ./dist/main.js",
-   "ext": "ts,js,json"
- },
+      "src"
+    ],
+    "exec": "tsc && node ./dist/main.js",
+    "ext": "ts,js,json"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@databricks/sql": "^1.8.4",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "http-status-codes": "^2.3.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",

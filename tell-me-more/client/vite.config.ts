@@ -9,7 +9,7 @@ export default defineConfig((env) => {
   const envars = loadEnv(env.mode, './');
 
   const serverURL = new URL(
-    envars.VITE_SERVER_URL ?? '<http://localhost:3001>'
+    envars.VITE_SERVER_URL ?? 'http://localhost:3001'
   );
   const serverAPIPath = envars.VITE_SERVER_API_PATH ?? '/api';
 

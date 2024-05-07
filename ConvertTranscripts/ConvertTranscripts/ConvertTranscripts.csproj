@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.Spark" Version="2.1.1" />
+      <PackageReference Include="NLayer.Core" Version="1.15.0" />
       <PackageReference Include="System.Data.Odbc" Version="8.0.0" />
     </ItemGroup>
 

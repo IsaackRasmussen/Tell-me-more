@@ -132,7 +132,7 @@ function GetEpisodeTitle(id: number) {
                 <Button icon="pi pi-search" severity="warning" @click="searchVectorDb" />
             </InputGroup>
             <div v-if="search_results.length > 0">
-                <DataView :value="search_results" style="margin-top:2em">
+                <DataView :value="search_results" style="margin-top:2em" dataKey="">
                     <template #list="slotProps">
                         <div class="grid grid-nogutter">
                             <div v-for="(item, index) in slotProps.items" :key="index" class="col-12" style="margin-bottom: 0.5em;">
